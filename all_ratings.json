@@ -1,6 +1,6 @@
 {
     "2026-04-12": {
-        "date": "2026-04-12 16:45",
+        "date": "2026-04-12 21:35",
         "terrestrial": [
             {
                 "rank": "1",
@@ -112,14 +112,14 @@
             },
             {
                 "rank": "19",
-                "program": "21세기대군부인<재>",
-                "channel": "MBC",
+                "program": "동행",
+                "channel": "KBS1",
                 "rate": "3.2"
             },
             {
                 "rank": "19",
-                "program": "동행",
-                "channel": "KBS1",
+                "program": "21세기대군부인<재>",
+                "channel": "MBC",
                 "rate": "3.2"
             }
         ],
