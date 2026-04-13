@@ -1,5 +1,5 @@
 {
-    "date": "2026-04-13 08:28",
+    "date": "2026-04-13 16:23",
     "terrestrial": [
         {
             "rank": "1",
@@ -39,14 +39,14 @@
         },
         {
             "rank": "7",
-            "program": "TV동물농장",
-            "channel": "SBS",
+            "program": "KBS뉴스(12:00)",
+            "channel": "KBS1",
             "rate": "4.3"
         },
         {
             "rank": "7",
-            "program": "KBS뉴스(12:00)",
-            "channel": "KBS1",
+            "program": "TV동물농장",
+            "channel": "SBS",
             "rate": "4.3"
         },
         {
@@ -87,14 +87,14 @@
         },
         {
             "rank": "15",
-            "program": "살림하는남자들<재>",
-            "channel": "KBS2",
+            "program": "TV쇼진품명품",
+            "channel": "KBS1",
             "rate": "2.7"
         },
         {
             "rank": "15",
-            "program": "TV쇼진품명품",
-            "channel": "KBS1",
+            "program": "살림하는남자들<재>",
+            "channel": "KBS2",
             "rate": "2.7"
         },
         {
@@ -105,8 +105,8 @@
         },
         {
             "rank": "17",
-            "program": "21세기대군부인<재>",
-            "channel": "MBC",
+            "program": "맨인블랙박스스페셜",
+            "channel": "SBS",
             "rate": "2.5"
         },
         {
@@ -117,8 +117,8 @@
         },
         {
             "rank": "17",
-            "program": "맨인블랙박스스페셜",
-            "channel": "SBS",
+            "program": "21세기대군부인<재>",
+            "channel": "MBC",
             "rate": "2.5"
         }
     ],
