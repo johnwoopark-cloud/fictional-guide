@@ -1,99 +1,43 @@
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-    <meta charset="UTF-8">
-    <title>통합 TV 시청률 대시보드</title>
-    <style>
-        :root { --primary: #007bff; --bg: #f4f7f9; }
-        body { font-family: 'Pretendard', sans-serif; background: var(--bg); padding: 20px; }
-        .container { max-width: 900px; margin: auto; background: white; padding: 30px; border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.05); }
-        h1 { font-size: 1.5rem; color: #333; margin-bottom: 5px; }
-        .update { text-align: right; color: #999; font-size: 0.85rem; margin-bottom: 20px; }
-        
-        /* 탭 스타일 */
-        .tabs { display: flex; gap: 10px; margin-bottom: 20px; border-bottom: 2px solid #eee; padding-bottom: 10px; }
-        .tab-btn { padding: 10px 20px; border: none; background: none; cursor: pointer; font-size: 1rem; font-weight: bold; color: #666; transition: 0.3s; border-radius: 8px; }
-        .tab-btn.active { background: var(--primary); color: white; }
-        .tab-btn:hover:not(.active) { background: #e9ecef; }
-
-        table { width: 100%; border-collapse: collapse; }
-        th, td { padding: 12px; text-align: left; border-bottom: 1px solid #f0f0f0; }
-        th { background: #fafafa; color: #666; font-weight: 600; }
-        .rank { font-weight: bold; color: var(--primary); width: 40px; }
-        .rate { font-weight: bold; color: #e74c3c; text-align: right; }
-    </style>
-</head>
-<body>
-
 <div class="container">
     <h1>📺 일일 시청률 TOP 20</h1>
-    <p class="update">업데이트 기준: <span id="time">-</span></p>
+    
+    <div id="status-bar" style="padding: 10px; border-radius: 8px; margin-bottom: 15px; font-size: 0.9rem; display: none;">
+        </div>
 
-    <div class="tabs">
-        <button class="tab-btn active" onclick="changeTab('terrestrial', this)">지상파</button>
-        <button class="tab-btn" onclick="changeTab('comprehensive', this)">종편</button>
-        <button class="tab-btn" onclick="changeTab('cable', this)">케이블</button>
+    <p class="update">
+        최근 업데이트: <span id="time">-</span> 
+        <a href="https://github.com/사용자아이디/저장소이름/actions" target="_blank" style="margin-left:10px; font-size:0.8rem; color:#007bff; text-decoration:none;">[데이터 강제 업데이트 요청]</a>
+    </p>
+
     </div>
 
-    <table id="rating-table">
-        <thead>
-            <tr>
-                <th>순위</th>
-                <th>프로그램</th>
-                <th>채널</th>
-                <th style="text-align:right;">시청률</th>
-            </tr>
-        </thead>
-        <tbody id="content">
-            </tbody>
-    </table>
-</div>
-
 <script>
-    let allData = {};
-
     function loadData() {
-        // 캐시 방지 적용
         fetch('data.json?v=' + new Date().getTime())
             .then(res => res.json())
             .then(data => {
+                const updateTime = new Date(data.date);
+                const now = new Date();
+                const diffHours = (now - updateTime) / (1000 * 60 * 60);
+
+                const statusBar = document.getElementById('status-bar');
+                statusBar.style.display = 'block';
+
+                // 데이터가 24시간 이상 지났을 경우 경고 표시
+                if (diffHours > 24) {
+                    statusBar.style.background = '#fff3cd';
+                    statusBar.style.color = '#856404';
+                    statusBar.innerHTML = '⚠️ 현재 표시되는 데이터가 24시간 전 자료입니다. 위 [강제 업데이트] 링크를 눌러주세요.';
+                } else {
+                    statusBar.style.background = '#d4edda';
+                    statusBar.style.color = '#155724';
+                    statusBar.innerHTML = '✅ 최신 시청률 데이터가 정상적으로 로드되었습니다.';
+                }
+
                 allData = data;
                 document.getElementById('time').innerText = data.date;
-                renderTable('terrestrial'); // 초기값: 지상파
+                renderTable('terrestrial');
             });
     }
-
-    function renderTable(category) {
-        const tbody = document.getElementById('content');
-        tbody.innerHTML = '';
-        
-        const list = allData[category] || [];
-        if (list.length === 0) {
-            tbody.innerHTML = '<tr><td colspan="4" style="text-align:center; padding:40px;">데이터가 없습니다.</td></tr>';
-            return;
-        }
-
-        list.forEach(item => {
-            tbody.innerHTML += `
-                <tr>
-                    <td class="rank">${item.rank}</td>
-                    <td>${item.program}</td>
-                    <td>${item.channel}</td>
-                    <td class="rate">${item.rate}%</td>
-                </tr>`;
-        });
-    }
-
-    function changeTab(category, btn) {
-        // 버튼 활성화 스타일 변경
-        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        // 데이터 교체
-        renderTable(category);
-    }
-
-    loadData();
+    // ... 나머지 함수들 ...
 </script>
-
-</body>
-</html>
