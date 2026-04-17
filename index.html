@@ -121,67 +121,93 @@
         });
     }
 
-    function showChart(programName) {
-        const container = document.getElementById('chart-container');
-        container.style.display = 'block';
-        document.getElementById('chart-title').innerText = `📈 ${programName} 시청률 추이`;
+   function showChart(programName) {
+    const container = document.getElementById('chart-container');
+    container.style.display = 'block';
+    document.getElementById('chart-title').innerText = `📈 ${programName} 시청률 추이`;
 
-        const normalizedTarget = normalizeName(programName);
-        const sortedDates = Object.keys(allHistory).sort();
+    const normalizedTarget = normalizeName(programName);
+    const sortedDates = Object.keys(allHistory).sort();
+    
+    const labels = [];
+    const chartData = [];
+
+    sortedDates.forEach(date => {
+        // 데이터 안전성 체크 (해당 날짜에 카테고리가 없을 경우 대비)
+        const dayTerrestrial = allHistory[date].terrestrial || [];
+        const dayComp = allHistory[date].comprehensive || [];
+        const dayCable = allHistory[date].cable || [];
         
-        const labels = [];
-        const chartData = [];
+        const dayAll = [...dayTerrestrial, ...dayComp, ...dayCable];
+        
+        // 이름 정규화 후 매칭되는 항목 찾기
+        const match = dayAll.find(i => normalizeName(i.program) === normalizedTarget);
+        
+        // [중요 수정] 데이터가 있을 때만 차트에 추가 (바닥으로 떨어지는 현상 방지)
+        if (match && match.rate) {
+            const numericRate = parseFloat(match.rate);
+            if (!isNaN(numericRate)) {
+                labels.push(date.split('-').slice(1).join('/')); // MM/DD 형식
+                chartData.push(numericRate);
+            }
+        }
+    });
 
-        sortedDates.forEach(date => {
-            labels.push(date.split('-').slice(1).join('/')); // MM/DD 형식으로 표시
-            
-            // 해당 날짜의 전체 카테고리를 합쳐서 검색
-            const dayAll = [
-                ...allHistory[date].terrestrial,
-                ...allHistory[date].comprehensive,
-                ...allHistory[date].cable
-            ];
-            
-            const match = dayAll.find(i => normalizeName(i.program) === normalizedTarget);
-            chartData.push(match ? parseFloat(match.rate) : null); // 데이터 없으면 null
-        });
-
-        drawChart(labels, chartData);
-        // 그래프 위치로 부드럽게 스크롤
-        container.scrollIntoView({ behavior: 'smooth' });
+    if (chartData.length === 0) {
+        alert("최근 5일간 순위권 내 데이터가 부족하여 그래프를 그릴 수 없습니다.");
+        closeChart();
+        return;
     }
 
-    function drawChart(labels, data) {
-        const ctx = document.getElementById('trendChart').getContext('2d');
-        
-        if (myChart) myChart.destroy(); // 기존 차트 삭제
+    drawChart(labels, chartData);
+    container.scrollIntoView({ behavior: 'smooth' });
+}
 
-        myChart = new Chart(ctx, {
-            type: 'line',
-            data: {
-                labels: labels,
-                datasets: [{
-                    label: '시청률 (%)',
-                    data: data,
-                    borderColor: '#007bff',
-                    backgroundColor: 'rgba(0, 123, 255, 0.1)',
-                    borderWidth: 3,
-                    pointRadius: 5,
-                    pointBackgroundColor: '#007bff',
-                    tension: 0.3,
-                    spanGaps: true // 데이터가 없는 날은 선을 건너뜀
-                }]
+function drawChart(labels, data) {
+    const ctx = document.getElementById('trendChart').getContext('2d');
+    if (myChart) myChart.destroy();
+
+    myChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: labels,
+            datasets: [{
+                label: '시청률 (%)',
+                data: data,
+                borderColor: '#007bff',
+                backgroundColor: 'rgba(0, 123, 255, 0.1)',
+                borderWidth: 3,
+                pointRadius: 6,
+                pointHoverRadius: 8,
+                pointBackgroundColor: '#007bff',
+                tension: 0.3,
+                fill: true
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+                y: { 
+                    beginAtZero: false, // 0부터 시작하지 않고 데이터 범위에 맞춤
+                    suggestedMin: Math.min(...data) - 1, // 최솟값보다 조금 낮게 설정해 시각적 안정감 부여
+                    grid: { color: '#f0f0f0' },
+                    ticks: {
+                        callback: function(value) { return value + '%'; }
+                    }
+                },
+                x: { grid: { display: false } }
             },
-            options: {
-                responsive: true,
-                maintainAspectRatio: false,
-                scales: {
-                    y: { beginAtZero: false, grid: { color: '#f0f0f0' } },
-                    x: { grid: { display: false } }
+            plugins: {
+                tooltip: {
+                    callbacks: {
+                        label: function(context) { return `시청률: ${context.raw}%`; }
+                    }
                 }
             }
-        });
-    }
+        }
+    });
+}
 
     function closeChart() {
         document.getElementById('chart-container').style.display = 'none';
