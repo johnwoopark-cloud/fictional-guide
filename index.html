@@ -167,7 +167,6 @@
 function drawChart(labels, data) {
     const ctx = document.getElementById('trendChart').getContext('2d');
     if (myChart) myChart.destroy();
-
     myChart = new Chart(ctx, {
         type: 'line',
         data: {
@@ -189,17 +188,27 @@ function drawChart(labels, data) {
             responsive: true,
             maintainAspectRatio: false,
             scales: {
-    y: { 
-        beginAtZero: false,
-        min: Math.max(0, Math.min(...data) - 1), // suggestedMin → min으로 변경 + 음수 방지
-        max: Math.max(...data) + 1,               // 상단 여백도 고정
-        grid: { color: '#f0f0f0' },
-        ticks: {
-            callback: function(value) { return value + '%'; }
-        }
-    },
-    x: { grid: { display: false } }
-},
+                y: {
+                    beginAtZero: false,
+                    min: Math.max(0, Math.min(...data) - 1),
+                    max: Math.max(...data) + 1,
+                    grid: { color: '#f0f0f0' },
+                    ticks: {
+                        callback: function(value) { return value + '%'; }
+                    }
+                },
+                x: { grid: { display: false } }
+            },
+            plugins: {
+                tooltip: {
+                    callbacks: {
+                        label: function(context) { return `시청률: ${context.raw}%`; }
+                    }
+                }
+            }
+        }   // ← options 닫힘
+    });     // ← new Chart() 닫힘
+}           // ← drawChart 함수 닫힘
 
     function closeChart() {
         document.getElementById('chart-container').style.display = 'none';
