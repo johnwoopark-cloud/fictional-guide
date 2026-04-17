@@ -29,7 +29,8 @@
         .rate { font-weight: bold; color: #e74c3c; text-align: right; }
 
         /* 그래프 영역 */
-        #chart-container { display: none; margin-top: 40px; padding: 20px; border: 1px solid #eee; border-radius: 12px; background: #fff; }
+       #chart-container { display: none; margin-top: 40px; padding: 20px; border: 1px solid #eee; border-radius: 12px; background: #fff; }
+       #chart-wrapper { position: relative; height: 300px; width: 100%; }  /* ← 추가 */
         .chart-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; }
         .close-btn { cursor: pointer; border: none; background: #666; color: white; padding: 5px 10px; border-radius: 4px; }
     </style>
@@ -62,12 +63,13 @@
     </table>
 
     <div id="chart-container">
-        <div class="chart-header">
-            <h3 id="chart-title">프로그램 트렌드</h3>
-            <button class="close-btn" onclick="closeChart()">닫기</button>
-        </div>
-        <canvas id="trendChart"></canvas>
+    <div class="chart-header">
+        <h3 id="chart-title">프로그램 트렌드</h3>
+        <button class="close-btn" onclick="closeChart()">닫기</button>
     </div>
+    <div id="chart-wrapper">          <!-- ← 추가 -->
+        <canvas id="trendChart"></canvas>
+    </div>                             <!-- ← 추가 -->
 </div>
 
 <script>
