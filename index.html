@@ -75,14 +75,15 @@
     let allHistory = {}; // 전체 히스토리 데이터 (all_ratings.json)
     let myChart = null;  // 차트 객체
 
-    // [중요] 명칭 정규화 함수: (재), 1부 등을 제거하여 매칭 성공률을 높임
-    function normalizeName(name) {
-        return name
-            .replace(/\(\w+\)/g, '')  // (재), (전), (후) 등 괄호 내용 삭제
-            .replace(/\d+부/g, '')     // 1부, 2부 등 삭제
-            .trim();
-    }
-
+   function normalizeName(name) {
+    return name
+        .replace(/\(.*?\)/g, '')   // (재), (전), (후) 등 소괄호 제거
+        .replace(/<.*?>/g, '')      // <재>, <특> 등 꺾쇠괄호 제거 ← 추가
+        .replace(/\d+부/g, '')      // 1부, 2부 등 삭제
+        .replace(/\s+/g, '')        // 공백 전체 제거 ← 추가
+        .toLowerCase()              // 대소문자 통일 ← 추가
+        .trim();
+}
     async function init() {
         try {
             // 1. 오늘 데이터와 전체 히스토리 동시 로드
