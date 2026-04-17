@@ -2,39 +2,44 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>통합 TV 시청률 대시보드</title>
+    <title>통합 TV 시청률 대시보드 & 트렌드</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
         :root { --primary: #007bff; --bg: #f4f7f9; }
         body { font-family: 'Pretendard', sans-serif; background: var(--bg); padding: 20px; }
         .container { max-width: 900px; margin: auto; background: white; padding: 30px; border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.05); }
         h1 { font-size: 1.5rem; color: #333; margin-bottom: 5px; }
         
-        /* 상태 바 스타일 */
+        /* 상태 바 및 업데이트 정보 */
         #status-bar { padding: 12px; border-radius: 8px; margin-bottom: 20px; font-size: 0.9rem; font-weight: 500; display: none; text-align: center; }
-        
         .update { text-align: right; color: #999; font-size: 0.85rem; margin-bottom: 20px; border-bottom: 1px solid #eee; padding-bottom: 10px; }
         
         /* 탭 스타일 */
         .tabs { display: flex; gap: 10px; margin-bottom: 20px; }
         .tab-btn { padding: 10px 20px; border: none; background: #eee; cursor: pointer; font-size: 1rem; font-weight: bold; color: #666; transition: 0.3s; border-radius: 8px; }
         .tab-btn.active { background: var(--primary); color: white; }
-        .tab-btn:hover:not(.active) { background: #e9ecef; }
 
-        table { width: 100%; border-collapse: collapse; }
+        /* 테이블 스타일 */
+        table { width: 100%; border-collapse: collapse; margin-bottom: 30px; }
         th, td { padding: 15px; text-align: left; border-bottom: 1px solid #f0f0f0; }
         th { background: #fafafa; color: #666; font-weight: 600; }
+        tbody tr { cursor: pointer; transition: 0.2s; }
+        tbody tr:hover { background: #f1f8ff; }
         .rank { font-weight: bold; color: var(--primary); width: 40px; }
         .rate { font-weight: bold; color: #e74c3c; text-align: right; }
+
+        /* 그래프 영역 */
+        #chart-container { display: none; margin-top: 40px; padding: 20px; border: 1px solid #eee; border-radius: 12px; background: #fff; }
+        .chart-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; }
+        .close-btn { cursor: pointer; border: none; background: #666; color: white; padding: 5px 10px; border-radius: 4px; }
     </style>
 </head>
 <body>
 
 <div class="container">
     <h1>📺 일일 시청률 TOP 20</h1>
-    
     <div id="status-bar"></div>
-
-    <p class="update">최종 데이터 수집 시점: <span id="time">-</span></p>
+    <p class="update">최종 데이터 수집 시점: <span id="time">-</span> (항목 클릭 시 그래프 표시)</p>
 
     <div class="tabs">
         <button class="tab-btn active" onclick="changeTab('terrestrial', this)">지상파</button>
@@ -52,61 +57,134 @@
             </tr>
         </thead>
         <tbody id="content">
-            <tr><td colspan="4" style="text-align:center; padding:40px;">데이터를 불러오는 중입니다...</td></tr>
+            <tr><td colspan="4" style="text-align:center; padding:40px;">데이터 로드 중...</td></tr>
         </tbody>
     </table>
+
+    <div id="chart-container">
+        <div class="chart-header">
+            <h3 id="chart-title">프로그램 트렌드</h3>
+            <button class="close-btn" onclick="closeChart()">닫기</button>
+        </div>
+        <canvas id="trendChart"></canvas>
+    </div>
 </div>
 
 <script>
-    let allData = {};
+    let currentData = {}; // 오늘 데이터
+    let allHistory = {}; // 전체 히스토리 데이터 (all_ratings.json)
+    let myChart = null;  // 차트 객체
 
-    function loadData() {
-        fetch('data.json?v=' + new Date().getTime())
-            .then(res => res.json())
-            .then(data => {
-                const updateTime = new Date(data.date);
-                const now = new Date();
-                const diffHours = (now - updateTime) / (1000 * 60 * 60);
+    // [중요] 명칭 정규화 함수: (재), 1부 등을 제거하여 매칭 성공률을 높임
+    function normalizeName(name) {
+        return name
+            .replace(/\(\w+\)/g, '')  // (재), (전), (후) 등 괄호 내용 삭제
+            .replace(/\d+부/g, '')     // 1부, 2부 등 삭제
+            .trim();
+    }
 
-                const statusBar = document.getElementById('status-bar');
-                statusBar.style.display = 'block';
+    async function init() {
+        try {
+            // 1. 오늘 데이터와 전체 히스토리 동시 로드
+            const [res1, res2] = await Promise.all([
+                fetch('data.json?v=' + Date.now()),
+                fetch('all_ratings.json?v=' + Date.now())
+            ]);
+            
+            currentData = await res1.json();
+            allHistory = await res2.json();
 
-                // 데이터가 24시간 이상 지났을 경우 (어제 데이터일 때)
-                if (diffHours > 24) {
-                    statusBar.style.background = '#fff3cd';
-                    statusBar.style.color = '#856404';
-                    statusBar.innerHTML = '⚠️ 현재 표시된 데이터는 어제 자료입니다. 오늘분 수집을 기다리는 중입니다.';
-                } else {
-                    statusBar.style.background = '#d4edda';
-                    statusBar.style.color = '#155724';
-                    statusBar.innerHTML = '✅ 오늘자 최신 시청률 데이터가 정상 반영되었습니다.';
-                }
-
-                allData = data;
-                document.getElementById('time').innerText = data.date;
-                renderTable('terrestrial');
-            })
-            .catch(err => {
-                document.getElementById('content').innerHTML = '<tr><td colspan="4" style="text-align:center; color:red;">데이터 파일을 찾을 수 없습니다.</td></tr>';
-            });
+            document.getElementById('time').innerText = currentData.date;
+            renderTable('terrestrial');
+            checkStatus(currentData.date);
+        } catch (err) {
+            console.error("데이터 로드 실패:", err);
+        }
     }
 
     function renderTable(category) {
         const tbody = document.getElementById('content');
         tbody.innerHTML = '';
-        const list = allData[category] || [];
-        if (list.length === 0) {
-            tbody.innerHTML = '<tr><td colspan="4" style="text-align:center; padding:40px;">수집된 데이터가 없습니다.</td></tr>';
-            return;
-        }
+        const list = currentData[category] || [];
+        
         list.forEach(item => {
-            tbody.innerHTML += `<tr>
+            const tr = document.createElement('tr');
+            tr.innerHTML = `
                 <td class="rank">${item.rank}</td>
                 <td>${item.program}</td>
                 <td>${item.channel}</td>
                 <td class="rate">${item.rate}%</td>
-            </tr>`;
+            `;
+            // 행 클릭 시 그래프 그리기
+            tr.onclick = () => showChart(item.program);
+            tbody.appendChild(tr);
         });
+    }
+
+    function showChart(programName) {
+        const container = document.getElementById('chart-container');
+        container.style.display = 'block';
+        document.getElementById('chart-title').innerText = `📈 ${programName} 시청률 추이`;
+
+        const normalizedTarget = normalizeName(programName);
+        const sortedDates = Object.keys(allHistory).sort();
+        
+        const labels = [];
+        const chartData = [];
+
+        sortedDates.forEach(date => {
+            labels.push(date.split('-').slice(1).join('/')); // MM/DD 형식으로 표시
+            
+            // 해당 날짜의 전체 카테고리를 합쳐서 검색
+            const dayAll = [
+                ...allHistory[date].terrestrial,
+                ...allHistory[date].comprehensive,
+                ...allHistory[date].cable
+            ];
+            
+            const match = dayAll.find(i => normalizeName(i.program) === normalizedTarget);
+            chartData.push(match ? parseFloat(match.rate) : null); // 데이터 없으면 null
+        });
+
+        drawChart(labels, chartData);
+        // 그래프 위치로 부드럽게 스크롤
+        container.scrollIntoView({ behavior: 'smooth' });
+    }
+
+    function drawChart(labels, data) {
+        const ctx = document.getElementById('trendChart').getContext('2d');
+        
+        if (myChart) myChart.destroy(); // 기존 차트 삭제
+
+        myChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: '시청률 (%)',
+                    data: data,
+                    borderColor: '#007bff',
+                    backgroundColor: 'rgba(0, 123, 255, 0.1)',
+                    borderWidth: 3,
+                    pointRadius: 5,
+                    pointBackgroundColor: '#007bff',
+                    tension: 0.3,
+                    spanGaps: true // 데이터가 없는 날은 선을 건너뜀
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    y: { beginAtZero: false, grid: { color: '#f0f0f0' } },
+                    x: { grid: { display: false } }
+                }
+            }
+        });
+    }
+
+    function closeChart() {
+        document.getElementById('chart-container').style.display = 'none';
     }
 
     function changeTab(category, btn) {
@@ -115,7 +193,20 @@
         renderTable(category);
     }
 
-    loadData();
+    function checkStatus(dateStr) {
+        const diff = (new Date() - new Date(dateStr)) / (1000 * 60 * 60);
+        const bar = document.getElementById('status-bar');
+        bar.style.display = 'block';
+        if (diff > 24) {
+            bar.style.background = '#fff3cd'; bar.style.color = '#856404';
+            bar.innerHTML = '⚠️ 현재 데이터는 어제 자료입니다.';
+        } else {
+            bar.style.background = '#d4edda'; bar.style.color = '#155724';
+            bar.innerHTML = '✅ 최신 시청률 데이터가 정상 반영되었습니다.';
+        }
+    }
+
+    init();
 </script>
 </body>
 </html>
