@@ -1,5 +1,5 @@
 {
-    "date": "2026-04-18 14:54",
+    "date": "2026-04-18 15:03",
     "terrestrial": [
         {
             "rank": "1",
@@ -75,13 +75,13 @@
         },
         {
             "rank": "13",
-            "program": "SINCE1983추적60분",
+            "program": "KBS뉴스7",
             "channel": "KBS1",
             "rate": "3.1"
         },
         {
             "rank": "13",
-            "program": "KBS뉴스7",
+            "program": "SINCE1983추적60분",
             "channel": "KBS1",
             "rate": "3.1"
         },
@@ -111,8 +111,8 @@
         },
         {
             "rank": "19",
-            "program": "뉴스라인W",
-            "channel": "KBS1",
+            "program": "신상출시편스토랑",
+            "channel": "KBS2",
             "rate": "2.2"
         },
         {
@@ -325,14 +325,14 @@
         },
         {
             "rank": "14",
-            "program": "21세기대군부인",
-            "channel": "MBC드라마넷",
+            "program": "뉴스ON",
+            "channel": "YTN",
             "rate": "1.16"
         },
         {
             "rank": "14",
-            "program": "뉴스ON",
-            "channel": "YTN",
+            "program": "21세기대군부인",
+            "channel": "MBC드라마넷",
             "rate": "1.16"
         },
         {
