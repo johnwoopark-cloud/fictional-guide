@@ -1,5 +1,5 @@
 {
-    "date": "2026-04-18 14:26",
+    "date": "2026-04-18 14:54",
     "terrestrial": [
         {
             "rank": "1",
@@ -111,14 +111,14 @@
         },
         {
             "rank": "19",
-            "program": "모닝와이드2부",
-            "channel": "SBS",
+            "program": "뉴스라인W",
+            "channel": "KBS1",
             "rate": "2.2"
         },
         {
             "rank": "19",
-            "program": "KBS뉴스광장1부",
-            "channel": "KBS1",
+            "program": "모닝와이드2부",
+            "channel": "SBS",
             "rate": "2.2"
         }
     ],
@@ -325,14 +325,14 @@
         },
         {
             "rank": "14",
-            "program": "뉴스ON",
-            "channel": "YTN",
+            "program": "21세기대군부인",
+            "channel": "MBC드라마넷",
             "rate": "1.16"
         },
         {
             "rank": "14",
-            "program": "21세기대군부인",
-            "channel": "MBC드라마넷",
+            "program": "뉴스ON",
+            "channel": "YTN",
             "rate": "1.16"
         },
         {
