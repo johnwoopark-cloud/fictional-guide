@@ -2583,7 +2583,7 @@
         ]
     },
     "2026-04-19": {
-        "date": "2026-04-19 15:20",
+        "date": "2026-04-19 15:56",
         "terrestrial": [
             {
                 "rank": "1",
@@ -2659,26 +2659,26 @@
             },
             {
                 "rank": "13",
-                "program": "불후의명곡",
-                "channel": "KBS2",
-                "rate": "3.8"
-            },
-            {
-                "rank": "13",
                 "program": "놀면뭐하니",
                 "channel": "MBC",
                 "rate": "3.8"
             },
             {
-                "rank": "15",
-                "program": "걸어서세계속으로",
-                "channel": "KBS1",
-                "rate": "3.7"
+                "rank": "13",
+                "program": "불후의명곡",
+                "channel": "KBS2",
+                "rate": "3.8"
             },
             {
                 "rank": "15",
                 "program": "전지적참견시점",
                 "channel": "MBC",
+                "rate": "3.7"
+            },
+            {
+                "rank": "15",
+                "program": "걸어서세계속으로",
+                "channel": "KBS1",
                 "rate": "3.7"
             },
             {
@@ -2701,8 +2701,8 @@
             },
             {
                 "rank": "20",
-                "program": "행복드림로또645",
-                "channel": "MBC",
+                "program": "KBS뉴스(19:00)",
+                "channel": "KBS1",
                 "rate": "2.9"
             }
         ],
