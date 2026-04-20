@@ -2952,7 +2952,7 @@
         ]
     },
     "2026-04-20": {
-        "date": "2026-04-20 16:30",
+        "date": "2026-04-20 16:31",
         "terrestrial": [
             {
                 "rank": "1",
@@ -3016,14 +3016,14 @@
             },
             {
                 "rank": "11",
-                "program": "MBC뉴스데스크",
-                "channel": "MBC",
+                "program": "열린음악회장애인의날",
+                "channel": "KBS1",
                 "rate": "3.2"
             },
             {
                 "rank": "11",
-                "program": "열린음악회장애인의날",
-                "channel": "KBS1",
+                "program": "MBC뉴스데스크",
+                "channel": "MBC",
                 "rate": "3.2"
             },
             {
@@ -3046,14 +3046,14 @@
             },
             {
                 "rank": "16",
-                "program": "살림하는남자들<재>",
-                "channel": "KBS2",
+                "program": "역사스페셜시간여행자",
+                "channel": "KBS1",
                 "rate": "2.9"
             },
             {
                 "rank": "16",
-                "program": "역사스페셜시간여행자",
-                "channel": "KBS1",
+                "program": "살림하는남자들<재>",
+                "channel": "KBS2",
                 "rate": "2.9"
             },
             {
