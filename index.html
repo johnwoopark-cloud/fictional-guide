@@ -2,24 +2,28 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>통합 TV 시청률 대시보드 & 트렌드</title>
+    <title>TV 시청률 아카이브 & 트렌드</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
         :root { --primary: #007bff; --bg: #f4f7f9; }
         body { font-family: 'Pretendard', sans-serif; background: var(--bg); padding: 20px; }
         .container { max-width: 900px; margin: auto; background: white; padding: 30px; border-radius: 15px; box-shadow: 0 5px 20px rgba(0,0,0,0.05); }
-        h1 { font-size: 1.5rem; color: #333; margin-bottom: 5px; }
         
-        /* 상태 바 및 업데이트 정보 */
-        #status-bar { padding: 12px; border-radius: 8px; margin-bottom: 20px; font-size: 0.9rem; font-weight: 500; display: none; text-align: center; }
+        .header-flex { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
+        h1 { font-size: 1.5rem; color: #333; margin: 0; }
+        
+        /* 달력 스타일 */
+        .date-selector { display: flex; align-items: center; gap: 10px; background: #eee; padding: 8px 15px; border-radius: 8px; }
+        .date-selector label { font-size: 0.85rem; font-weight: bold; color: #555; }
+        #date-picker { border: 1px solid #ccc; border-radius: 4px; padding: 5px; font-family: inherit; }
+
+        #status-bar { padding: 12px; border-radius: 8px; margin-bottom: 20px; font-size: 0.9rem; font-weight: 500; text-align: center; }
         .update { text-align: right; color: #999; font-size: 0.85rem; margin-bottom: 20px; border-bottom: 1px solid #eee; padding-bottom: 10px; }
         
-        /* 탭 스타일 */
         .tabs { display: flex; gap: 10px; margin-bottom: 20px; }
-        .tab-btn { padding: 10px 20px; border: none; background: #eee; cursor: pointer; font-size: 1rem; font-weight: bold; color: #666; transition: 0.3s; border-radius: 8px; }
+        .tab-btn { padding: 10px 20px; border: none; background: #eee; cursor: pointer; font-size: 1rem; font-weight: bold; color: #666; border-radius: 8px; }
         .tab-btn.active { background: var(--primary); color: white; }
 
-        /* 테이블 스타일 */
         table { width: 100%; border-collapse: collapse; margin-bottom: 30px; }
         th, td { padding: 15px; text-align: left; border-bottom: 1px solid #f0f0f0; }
         th { background: #fafafa; color: #666; font-weight: 600; }
@@ -28,9 +32,7 @@
         .rank { font-weight: bold; color: var(--primary); width: 40px; }
         .rate { font-weight: bold; color: #e74c3c; text-align: right; }
 
-        /* 그래프 영역 */
-       #chart-container { display: none; margin-top: 40px; padding: 20px; border: 1px solid #eee; border-radius: 12px; background: #fff; }
-       #chart-wrapper { position: relative; height: 300px; width: 100%; }  /* ← 추가 */
+        #chart-container { display: none; margin-top: 40px; padding: 20px; border: 1px solid #eee; border-radius: 12px; background: #fff; }
         .chart-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; }
         .close-btn { cursor: pointer; border: none; background: #666; color: white; padding: 5px 10px; border-radius: 4px; }
     </style>
@@ -38,182 +40,173 @@
 <body>
 
 <div class="container">
-    <h1>📺 일일 시청률 TOP 20</h1>
-    <div id="status-bar"></div>
-    <p class="update">최종 데이터 수집 시점: <span id="time">-</span> (항목 클릭 시 그래프 표시)</p>
+    <div class="header-flex">
+        <h1>📺 TV 시청률 아카이브</h1>
+        <div class="date-selector">
+            <label for="date-picker">날짜 이동:</label>
+            <input type="date" id="date-picker" onchange="handleDateChange(this.value)">
+        </div>
+    </div>
+    
+    <div id="status-bar">데이터를 로드 중입니다...</div>
+    <p class="update">조회 중인 데이터 시간: <span id="time">-</span></p>
 
     <div class="tabs">
-        <button class="tab-btn active" onclick="changeTab('terrestrial', this)">지상파</button>
+        <button class="tab-btn active" id="btn-terrestrial" onclick="changeTab('terrestrial', this)">지상파</button>
         <button class="tab-btn" onclick="changeTab('comprehensive', this)">종편</button>
         <button class="tab-btn" onclick="changeTab('cable', this)">케이블</button>
     </div>
 
     <table id="rating-table">
         <thead>
-            <tr>
-                <th>순위</th>
-                <th>프로그램</th>
-                <th>채널</th>
-                <th style="text-align:right;">시청률</th>
-            </tr>
+            <tr><th>순위</th><th>프로그램</th><th>채널</th><th style="text-align:right;">시청률</th></tr>
         </thead>
-        <tbody id="content">
-            <tr><td colspan="4" style="text-align:center; padding:40px;">데이터 로드 중...</td></tr>
-        </tbody>
+        <tbody id="content"></tbody>
     </table>
 
     <div id="chart-container">
-    <div class="chart-header">
-        <h3 id="chart-title">프로그램 트렌드</h3>
-        <button class="close-btn" onclick="closeChart()">닫기</button>
+        <div class="chart-header">
+            <h3 id="chart-title">트렌드 분석</h3>
+            <button class="close-btn" onclick="closeChart()">닫기</button>
+        </div>
+        <div style="height:300px;"><canvas id="trendChart"></canvas></div>
     </div>
-    <div id="chart-wrapper">          <!-- ← 추가 -->
-        <canvas id="trendChart"></canvas>
-    </div>                             <!-- ← 추가 -->
 </div>
 
 <script>
-    let currentData = {}; // 오늘 데이터
-    let allHistory = {}; // 전체 히스토리 데이터 (all_ratings.json)
-    let myChart = null;  // 차트 객체
+    let allHistory = {}; 
+    let currentViewData = {}; 
+    let currentCategory = 'terrestrial';
+    let myChart = null;
 
-   function normalizeName(name) {
-    return name
-        .replace(/\(.*?\)/g, '')   // (재), (전), (후) 등 소괄호 제거
-        .replace(/<.*?>/g, '')      // <재>, <특> 등 꺾쇠괄호 제거 ← 추가
-        .replace(/\d+부/g, '')      // 1부, 2부 등 삭제
-        .replace(/\s+/g, '')        // 공백 전체 제거 ← 추가
-        .toLowerCase()              // 대소문자 통일 ← 추가
-        .trim();
-}
+    function normalizeName(name) {
+        return name.replace(/\(\w+\)/g, '').replace(/\d+부/g, '').trim();
+    }
+
     async function init() {
         try {
-            // 1. 오늘 데이터와 전체 히스토리 동시 로드
-            const [res1, res2] = await Promise.all([
-                fetch('data.json?v=' + Date.now()),
-                fetch('all_ratings.json?v=' + Date.now())
-            ]);
+            const res = await fetch('all_ratings.json?v=' + Date.now());
+            allHistory = await res.json();
             
-            currentData = await res1.json();
-            allHistory = await res2.json();
+            // 저장된 날짜 중 가장 최신 날짜 찾기
+            const dates = Object.keys(allHistory).sort().reverse();
+            const latestDate = dates[0];
 
-            document.getElementById('time').innerText = currentData.date;
-            renderTable('terrestrial');
-            checkStatus(currentData.date);
+            // 달력 기본값 세팅
+            document.getElementById('date-picker').value = latestDate;
+            
+            // 데이터 로드
+            loadDataByDate(latestDate);
         } catch (err) {
-            console.error("데이터 로드 실패:", err);
+            document.getElementById('status-bar').innerHTML = "❌ 데이터를 불러올 수 없습니다.";
         }
     }
 
+    // 날짜를 선택했을 때 실행되는 함수
+    function handleDateChange(selectedDate) {
+        if (allHistory[selectedDate]) {
+            loadDataByDate(selectedDate);
+        } else {
+            alert(selectedDate + "의 데이터가 존재하지 않습니다.");
+            // 데이터가 있는 가장 가까운 날짜로 복구하거나 그대로 둠
+        }
+    }
+
+    function loadDataByDate(dateStr) {
+        currentViewData = allHistory[dateStr];
+        document.getElementById('time').innerText = currentViewData.date;
+        
+        // 상태 표시 업데이트
+        const statusBar = document.getElementById('status-bar');
+        statusBar.style.display = 'block';
+        statusBar.style.background = '#e9ecef';
+        statusBar.style.color = '#495057';
+        statusBar.innerHTML = `📅 <strong>${dateStr}</strong> 수집 데이터를 조회 중입니다.`;
+
+        renderTable(currentCategory);
+        closeChart(); // 날짜 이동 시 차트 닫기
+    }
+
     function renderTable(category) {
+        currentCategory = category;
         const tbody = document.getElementById('content');
         tbody.innerHTML = '';
-        const list = currentData[category] || [];
+        const list = currentViewData[category] || [];
         
+        if(list.length === 0) {
+            tbody.innerHTML = '<tr><td colspan="4" style="text-align:center; padding:40px;">해당 날짜에 데이터가 없습니다.</td></tr>';
+            return;
+        }
+
         list.forEach(item => {
             const tr = document.createElement('tr');
-            tr.innerHTML = `
-                <td class="rank">${item.rank}</td>
-                <td>${item.program}</td>
-                <td>${item.channel}</td>
-                <td class="rate">${item.rate}%</td>
-            `;
-            // 행 클릭 시 그래프 그리기
+            tr.innerHTML = `<td class="rank">${item.rank}</td><td>${item.program}</td><td>${item.channel}</td><td class="rate">${item.rate}%</td>`;
             tr.onclick = () => showChart(item.program);
             tbody.appendChild(tr);
         });
     }
 
-   function showChart(programName) {
-    const container = document.getElementById('chart-container');
-    container.style.display = 'block';
-    document.getElementById('chart-title').innerText = `📈 ${programName} 시청률 추이`;
+    // [이전 수정사항 반영] 그래프 바닥으로 떨어지는 현상 방지 로직 유지
+    function showChart(programName) {
+        const container = document.getElementById('chart-container');
+        container.style.display = 'block';
+        document.getElementById('chart-title').innerText = `📈 ${programName} 추이 (기록된 날짜만)`;
 
-    const normalizedTarget = normalizeName(programName);
-    const sortedDates = Object.keys(allHistory).sort();
-    
-    const labels = [];
-    const chartData = [];
+        const normalizedTarget = normalizeName(programName);
+        const sortedDates = Object.keys(allHistory).sort();
+        
+        const labels = [];
+        const chartData = [];
 
-    sortedDates.forEach(date => {
-        // 데이터 안전성 체크 (해당 날짜에 카테고리가 없을 경우 대비)
-        const dayTerrestrial = allHistory[date].terrestrial || [];
-        const dayComp = allHistory[date].comprehensive || [];
-        const dayCable = allHistory[date].cable || [];
-        
-        const dayAll = [...dayTerrestrial, ...dayComp, ...dayCable];
-        
-        // 이름 정규화 후 매칭되는 항목 찾기
-        const match = dayAll.find(i => normalizeName(i.program) === normalizedTarget);
-        
-        // [중요 수정] 데이터가 있을 때만 차트에 추가 (바닥으로 떨어지는 현상 방지)
-        if (match && match.rate) {
-            const numericRate = parseFloat(match.rate);
-            if (!isNaN(numericRate)) {
-                labels.push(date.split('-').slice(1).join('/')); // MM/DD 형식
-                chartData.push(numericRate);
+        sortedDates.forEach(date => {
+            const dayAll = [
+                ...(allHistory[date].terrestrial || []),
+                ...(allHistory[date].comprehensive || []),
+                ...(allHistory[date].cable || [])
+            ];
+            const match = dayAll.find(i => normalizeName(i.program) === normalizedTarget);
+            
+            if (match && match.rate) {
+                labels.push(date.split('-').slice(1).join('/'));
+                chartData.push(parseFloat(match.rate));
             }
-        }
-    });
+        });
 
-    if (chartData.length === 0) {
-        alert("최근 5일간 순위권 내 데이터가 부족하여 그래프를 그릴 수 없습니다.");
-        closeChart();
-        return;
+        if (chartData.length === 0) {
+            alert("순위권 내 누적 데이터가 없습니다.");
+            return;
+        }
+        drawChart(labels, chartData);
+        container.scrollIntoView({ behavior: 'smooth' });
     }
 
-    drawChart(labels, chartData);
-    container.scrollIntoView({ behavior: 'smooth' });
-}
-
-function drawChart(labels, data) {
-    const ctx = document.getElementById('trendChart').getContext('2d');
-    if (myChart) myChart.destroy();
-    myChart = new Chart(ctx, {
-        type: 'line',
-        data: {
-            labels: labels,
-            datasets: [{
-                label: '시청률 (%)',
-                data: data,
-                borderColor: '#007bff',
-                backgroundColor: 'rgba(0, 123, 255, 0.1)',
-                borderWidth: 3,
-                pointRadius: 6,
-                pointHoverRadius: 8,
-                pointBackgroundColor: '#007bff',
-                tension: 0.3,
-                fill: true
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            scales: {
-                y: {
-                    beginAtZero: false,
-                    min: Math.max(0, Math.min(...data) - 1),
-                    max: Math.max(...data) + 1,
-                    grid: { color: '#f0f0f0' },
-                    ticks: {
-                        callback: function(value) { return value + '%'; }
-                    }
-                },
-                x: { grid: { display: false } }
+    function drawChart(labels, data) {
+        const ctx = document.getElementById('trendChart').getContext('2d');
+        if (myChart) myChart.destroy();
+        myChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: '시청률 (%)',
+                    data: data,
+                    borderColor: '#007bff',
+                    backgroundColor: 'rgba(0, 123, 255, 0.1)',
+                    borderWidth: 3,
+                    pointRadius: 6,
+                    tension: 0.3,
+                    fill: true
+                }]
             },
-            plugins: {
-                tooltip: {
-                    callbacks: {
-                        label: function(context) { return `시청률: ${context.raw}%`; }
-                    }
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: { 
+                    y: { beginAtZero: false, suggestedMin: Math.min(...data) - 0.5 },
+                    x: { grid: { display: false } }
                 }
             }
-        }   // ← options 닫힘
-    });     // ← new Chart() 닫힘
-}           // ← drawChart 함수 닫힘
-
-    function closeChart() {
-        document.getElementById('chart-container').style.display = 'none';
+        });
     }
 
     function changeTab(category, btn) {
@@ -222,18 +215,7 @@ function drawChart(labels, data) {
         renderTable(category);
     }
 
-    function checkStatus(dateStr) {
-        const diff = (new Date() - new Date(dateStr)) / (1000 * 60 * 60);
-        const bar = document.getElementById('status-bar');
-        bar.style.display = 'block';
-        if (diff > 24) {
-            bar.style.background = '#fff3cd'; bar.style.color = '#856404';
-            bar.innerHTML = '⚠️ 현재 데이터는 어제 자료입니다.';
-        } else {
-            bar.style.background = '#d4edda'; bar.style.color = '#155724';
-            bar.innerHTML = '✅ 최신 시청률 데이터가 정상 반영되었습니다.';
-        }
-    }
+    function closeChart() { document.getElementById('chart-container').style.display = 'none'; }
 
     init();
 </script>
