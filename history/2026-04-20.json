@@ -1,5 +1,5 @@
 {
-    "date": "2026-04-20 10:05",
+    "date": "2026-04-20 15:36",
     "terrestrial": [
         {
             "rank": "1",
@@ -63,14 +63,14 @@
         },
         {
             "rank": "11",
-            "program": "열린음악회장애인의날",
-            "channel": "KBS1",
+            "program": "MBC뉴스데스크",
+            "channel": "MBC",
             "rate": "3.2"
         },
         {
             "rank": "11",
-            "program": "MBC뉴스데스크",
-            "channel": "MBC",
+            "program": "열린음악회장애인의날",
+            "channel": "KBS1",
             "rate": "3.2"
         },
         {
@@ -81,26 +81,26 @@
         },
         {
             "rank": "14",
-            "program": "런닝맨",
-            "channel": "SBS",
-            "rate": "3"
-        },
-        {
-            "rank": "14",
             "program": "이슈PICK쌤과함께",
             "channel": "KBS1",
             "rate": "3"
         },
         {
-            "rank": "16",
-            "program": "역사스페셜시간여행자",
-            "channel": "KBS1",
-            "rate": "2.9"
+            "rank": "14",
+            "program": "런닝맨",
+            "channel": "SBS",
+            "rate": "3"
         },
         {
             "rank": "16",
             "program": "살림하는남자들<재>",
             "channel": "KBS2",
+            "rate": "2.9"
+        },
+        {
+            "rank": "16",
+            "program": "역사스페셜시간여행자",
+            "channel": "KBS1",
             "rate": "2.9"
         },
         {
