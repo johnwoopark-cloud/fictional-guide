@@ -1,5 +1,5 @@
 {
-    "date": "2026-04-21 15:25",
+    "date": "2026-04-21 16:13",
     "terrestrial": [
         {
             "rank": "1",
@@ -355,14 +355,14 @@
         },
         {
             "rank": "19",
-            "program": "히든아이",
-            "channel": "MBC every1",
+            "program": "뉴스포커스",
+            "channel": "연합뉴스TV",
             "rate": "0.98"
         },
         {
             "rank": "19",
-            "program": "뉴스포커스",
-            "channel": "연합뉴스TV",
+            "program": "히든아이",
+            "channel": "MBC every1",
             "rate": "0.98"
         }
     ]
