@@ -3690,7 +3690,7 @@
         ]
     },
     "2026-04-22": {
-        "date": "2026-04-22 15:17",
+        "date": "2026-04-22 15:25",
         "terrestrial": [
             {
                 "rank": "1",
@@ -3790,6 +3790,12 @@
             },
             {
                 "rank": "17",
+                "program": "동물의왕국",
+                "channel": "KBS1",
+                "rate": "2.1"
+            },
+            {
+                "rank": "17",
                 "program": "스모킹건",
                 "channel": "KBS2",
                 "rate": "2.1"
@@ -3798,12 +3804,6 @@
                 "rank": "17",
                 "program": "MBC뉴스투데이2부",
                 "channel": "MBC",
-                "rate": "2.1"
-            },
-            {
-                "rank": "17",
-                "program": "동물의왕국",
-                "channel": "KBS1",
                 "rate": "2.1"
             },
             {
