@@ -1,5 +1,5 @@
 {
-    "date": "2026-04-22 09:13",
+    "date": "2026-04-22 15:17",
     "terrestrial": [
         {
             "rank": "1",
@@ -99,8 +99,8 @@
         },
         {
             "rank": "17",
-            "program": "동물의왕국",
-            "channel": "KBS1",
+            "program": "스모킹건",
+            "channel": "KBS2",
             "rate": "2.1"
         },
         {
@@ -111,8 +111,8 @@
         },
         {
             "rank": "17",
-            "program": "스모킹건",
-            "channel": "KBS2",
+            "program": "동물의왕국",
+            "channel": "KBS1",
             "rate": "2.1"
         },
         {
