@@ -1,5 +1,5 @@
 {
-    "date": "2026-04-24 13:08",
+    "date": "2026-04-24 15:27",
     "terrestrial": [
         {
             "rank": "1",
@@ -69,14 +69,14 @@
         },
         {
             "rank": "12",
-            "program": "오늘도매진했습니다",
-            "channel": "SBS",
+            "program": "실화탐사대",
+            "channel": "MBC",
             "rate": "3.3"
         },
         {
             "rank": "12",
-            "program": "실화탐사대",
-            "channel": "MBC",
+            "program": "오늘도매진했습니다",
+            "channel": "SBS",
             "rate": "3.3"
         },
         {
