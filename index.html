@@ -97,6 +97,35 @@
             
             // 데이터 로드
             loadDataByDate(latestDate);
+            // 매일 오전 8:40 자동 갱신
+function scheduleDaily840() {
+    const now = new Date();
+    const next = new Date();
+    next.setHours(8, 40, 0, 0);
+
+    // 이미 오전 8:40이 지났으면 내일 8:40으로
+    if (now >= next) next.setDate(next.getDate() + 1);
+
+    const delay = next - now;
+
+    setTimeout(async () => {
+        try {
+            const res = await fetch('all_ratings.json?v=' + Date.now());
+            allHistory = await res.json();
+
+            const dates = Object.keys(allHistory).sort().reverse();
+            const latestDate = dates[0];
+            document.getElementById('date-picker').value = latestDate;
+            loadDataByDate(latestDate);
+        } catch (err) {
+            console.error("자동 갱신 실패:", err);
+        }
+
+        scheduleDaily840(); // 다음 날 8:40 예약
+    }, delay);
+}
+
+scheduleDaily840();
         } catch (err) {
             document.getElementById('status-bar').innerHTML = "❌ 데이터를 불러올 수 없습니다.";
         }
