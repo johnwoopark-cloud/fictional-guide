@@ -4797,7 +4797,7 @@
         ]
     },
     "2026-04-25": {
-        "date": "2026-04-25 14:56",
+        "date": "2026-04-25 15:08",
         "terrestrial": [
             {
                 "rank": "1",
@@ -4909,14 +4909,14 @@
             },
             {
                 "rank": "19",
-                "program": "신상출시편스토랑",
-                "channel": "KBS2",
+                "program": "KBS뉴스광장1부",
+                "channel": "KBS1",
                 "rate": "2.2"
             },
             {
                 "rank": "19",
-                "program": "KBS뉴스광장1부",
-                "channel": "KBS1",
+                "program": "신상출시편스토랑",
+                "channel": "KBS2",
                 "rate": "2.2"
             }
         ],
@@ -5057,14 +5057,14 @@
             },
             {
                 "rank": "3",
-                "program": "뉴스START3부",
-                "channel": "YTN",
+                "program": "2026KBO리그",
+                "channel": "SBS Sports",
                 "rate": "1.91"
             },
             {
                 "rank": "3",
-                "program": "2026KBO리그",
-                "channel": "SBS Sports",
+                "program": "뉴스START3부",
+                "channel": "YTN",
                 "rate": "1.91"
             },
             {
