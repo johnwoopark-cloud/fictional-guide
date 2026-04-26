@@ -5166,7 +5166,7 @@
         ]
     },
     "2026-04-26": {
-        "date": "2026-04-26 15:31",
+        "date": "2026-04-26 16:11",
         "terrestrial": [
             {
                 "rank": "1",
@@ -5212,13 +5212,13 @@
             },
             {
                 "rank": "8",
-                "program": "시니어토크쇼황금연못",
+                "program": "동네한바퀴",
                 "channel": "KBS1",
                 "rate": "4.4"
             },
             {
                 "rank": "8",
-                "program": "동네한바퀴",
+                "program": "시니어토크쇼황금연못",
                 "channel": "KBS1",
                 "rate": "4.4"
             },
@@ -5242,14 +5242,14 @@
             },
             {
                 "rank": "13",
-                "program": "남북의창",
-                "channel": "KBS1",
+                "program": "21세기대군부인<재>",
+                "channel": "MBC",
                 "rate": "4.1"
             },
             {
                 "rank": "13",
-                "program": "21세기대군부인<재>",
-                "channel": "MBC",
+                "program": "남북의창",
+                "channel": "KBS1",
                 "rate": "4.1"
             },
             {
@@ -5284,8 +5284,8 @@
             },
             {
                 "rank": "20",
-                "program": "팔도밥상",
-                "channel": "KBS1",
+                "program": "행복드림로또645",
+                "channel": "MBC",
                 "rate": "2.5"
             }
         ],
