@@ -5166,7 +5166,7 @@
         ]
     },
     "2026-04-26": {
-        "date": "2026-04-26 15:25",
+        "date": "2026-04-26 15:31",
         "terrestrial": [
             {
                 "rank": "1",
@@ -5212,13 +5212,13 @@
             },
             {
                 "rank": "8",
-                "program": "동네한바퀴",
+                "program": "시니어토크쇼황금연못",
                 "channel": "KBS1",
                 "rate": "4.4"
             },
             {
                 "rank": "8",
-                "program": "시니어토크쇼황금연못",
+                "program": "동네한바퀴",
                 "channel": "KBS1",
                 "rate": "4.4"
             },
@@ -5284,8 +5284,8 @@
             },
             {
                 "rank": "20",
-                "program": "SBS8뉴스",
-                "channel": "SBS",
+                "program": "팔도밥상",
+                "channel": "KBS1",
                 "rate": "2.5"
             }
         ],
