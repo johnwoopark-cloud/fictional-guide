@@ -1,5 +1,5 @@
 {
-    "date": "2026-04-27 16:55",
+    "date": "2026-04-27 18:10",
     "terrestrial": [
         {
             "rank": "1",
@@ -57,14 +57,14 @@
         },
         {
             "rank": "10",
-            "program": "런닝맨",
-            "channel": "SBS",
+            "program": "사장님귀는당나귀귀",
+            "channel": "KBS2",
             "rate": "3.7"
         },
         {
             "rank": "10",
-            "program": "사장님귀는당나귀귀",
-            "channel": "KBS2",
+            "program": "런닝맨",
+            "channel": "SBS",
             "rate": "3.7"
         },
         {
@@ -117,7 +117,7 @@
         },
         {
             "rank": "20",
-            "program": "다큐인사이트(블루칼라전성시대)<재>",
+            "program": "열린음악회양산시승격",
             "channel": "KBS1",
             "rate": "2.5"
         }
