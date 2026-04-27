@@ -5535,7 +5535,7 @@
         ]
     },
     "2026-04-27": {
-        "date": "2026-04-27 18:10",
+        "date": "2026-04-27 18:33",
         "terrestrial": [
             {
                 "rank": "1",
@@ -5593,14 +5593,14 @@
             },
             {
                 "rank": "10",
-                "program": "사장님귀는당나귀귀",
-                "channel": "KBS2",
+                "program": "런닝맨",
+                "channel": "SBS",
                 "rate": "3.7"
             },
             {
                 "rank": "10",
-                "program": "런닝맨",
-                "channel": "SBS",
+                "program": "사장님귀는당나귀귀",
+                "channel": "KBS2",
                 "rate": "3.7"
             },
             {
@@ -5617,13 +5617,13 @@
             },
             {
                 "rank": "14",
-                "program": "역사스페셜시간여행자",
+                "program": "KBS뉴스(19:00)",
                 "channel": "KBS1",
                 "rate": "3.4"
             },
             {
                 "rank": "14",
-                "program": "KBS뉴스(19:00)",
+                "program": "역사스페셜시간여행자",
                 "channel": "KBS1",
                 "rate": "3.4"
             },
@@ -5653,8 +5653,8 @@
             },
             {
                 "rank": "20",
-                "program": "열린음악회양산시승격",
-                "channel": "KBS1",
+                "program": "소라와진경",
+                "channel": "MBC",
                 "rate": "2.5"
             }
         ],
