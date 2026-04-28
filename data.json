@@ -1,5 +1,5 @@
 {
-    "date": "2026-04-28 18:11",
+    "date": "2026-04-28 18:42",
     "terrestrial": [
         {
             "rank": "1",
@@ -93,8 +93,8 @@
         },
         {
             "rank": "16",
-            "program": "말자쇼",
-            "channel": "KBS2",
+            "program": "동물의왕국",
+            "channel": "KBS1",
             "rate": "3.1"
         },
         {
@@ -105,8 +105,8 @@
         },
         {
             "rank": "16",
-            "program": "동물의왕국",
-            "channel": "KBS1",
+            "program": "말자쇼",
+            "channel": "KBS2",
             "rate": "3.1"
         },
         {
