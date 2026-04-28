@@ -5904,7 +5904,7 @@
         ]
     },
     "2026-04-28": {
-        "date": "2026-04-28 10:24",
+        "date": "2026-04-28 16:55",
         "terrestrial": [
             {
                 "rank": "1",
@@ -5998,12 +5998,6 @@
             },
             {
                 "rank": "16",
-                "program": "동물의왕국",
-                "channel": "KBS1",
-                "rate": "3.1"
-            },
-            {
-                "rank": "16",
                 "program": "2TV생생정보",
                 "channel": "KBS2",
                 "rate": "3.1"
@@ -6012,6 +6006,12 @@
                 "rank": "16",
                 "program": "말자쇼",
                 "channel": "KBS2",
+                "rate": "3.1"
+            },
+            {
+                "rank": "16",
+                "program": "동물의왕국",
+                "channel": "KBS1",
                 "rate": "3.1"
             },
             {
