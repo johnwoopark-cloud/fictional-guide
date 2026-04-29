@@ -1,5 +1,5 @@
 {
-    "date": "2026-04-29 16:37",
+    "date": "2026-04-29 16:52",
     "terrestrial": [
         {
             "rank": "1",
@@ -27,14 +27,14 @@
         },
         {
             "rank": "4",
-            "program": "아침마당",
-            "channel": "KBS1",
+            "program": "MBC뉴스데스크",
+            "channel": "MBC",
             "rate": "6.3"
         },
         {
             "rank": "4",
-            "program": "MBC뉴스데스크",
-            "channel": "MBC",
+            "program": "아침마당",
+            "channel": "KBS1",
             "rate": "6.3"
         },
         {
