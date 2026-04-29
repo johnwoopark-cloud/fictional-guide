@@ -1,5 +1,5 @@
 {
-    "date": "2026-04-29 16:52",
+    "date": "2026-04-29 18:28",
     "terrestrial": [
         {
             "rank": "1",
@@ -21,12 +21,6 @@
         },
         {
             "rank": "4",
-            "program": "인간극장",
-            "channel": "KBS1",
-            "rate": "6.3"
-        },
-        {
-            "rank": "4",
             "program": "MBC뉴스데스크",
             "channel": "MBC",
             "rate": "6.3"
@@ -34,6 +28,12 @@
         {
             "rank": "4",
             "program": "아침마당",
+            "channel": "KBS1",
+            "rate": "6.3"
+        },
+        {
+            "rank": "4",
+            "program": "인간극장",
             "channel": "KBS1",
             "rate": "6.3"
         },
@@ -93,14 +93,14 @@
         },
         {
             "rank": "16",
-            "program": "SBS8뉴스",
-            "channel": "SBS",
+            "program": "PD수첩",
+            "channel": "MBC",
             "rate": "2.5"
         },
         {
             "rank": "16",
-            "program": "PD수첩",
-            "channel": "MBC",
+            "program": "SBS8뉴스",
+            "channel": "SBS",
             "rate": "2.5"
         },
         {
@@ -111,14 +111,14 @@
         },
         {
             "rank": "19",
-            "program": "모닝와이드3부",
-            "channel": "SBS",
+            "program": "스모킹건",
+            "channel": "KBS2",
             "rate": "2.1"
         },
         {
             "rank": "19",
-            "program": "스모킹건",
-            "channel": "KBS2",
+            "program": "모닝와이드3부",
+            "channel": "SBS",
             "rate": "2.1"
         }
     ],
