@@ -6642,7 +6642,7 @@
         ]
     },
     "2026-04-30": {
-        "date": "2026-04-30 16:55",
+        "date": "2026-04-30 18:31",
         "terrestrial": [
             {
                 "rank": "1",
@@ -6730,12 +6730,6 @@
             },
             {
                 "rank": "15",
-                "program": "골때리는그녀들리부트",
-                "channel": "SBS",
-                "rate": "2.5"
-            },
-            {
-                "rank": "15",
                 "program": "황금어장라디오스타",
                 "channel": "MBC",
                 "rate": "2.5"
@@ -6744,6 +6738,12 @@
                 "rank": "15",
                 "program": "2TV생생정보",
                 "channel": "KBS2",
+                "rate": "2.5"
+            },
+            {
+                "rank": "15",
+                "program": "골때리는그녀들리부트",
+                "channel": "SBS",
                 "rate": "2.5"
             },
             {
@@ -6992,14 +6992,14 @@
             },
             {
                 "rank": "18",
-                "program": "2026KBO리그",
-                "channel": "SPOTV",
+                "program": "뉴스리뷰",
+                "channel": "연합뉴스TV",
                 "rate": "1.01"
             },
             {
                 "rank": "18",
-                "program": "뉴스리뷰",
-                "channel": "연합뉴스TV",
+                "program": "2026KBO리그",
+                "channel": "SPOTV",
                 "rate": "1.01"
             },
             {
