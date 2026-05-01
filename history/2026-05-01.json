@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-01 16:40",
+    "date": "2026-05-01 16:54",
     "terrestrial": [
         {
             "rank": "1",
@@ -45,13 +45,13 @@
         },
         {
             "rank": "8",
-            "program": "6시내고향",
+            "program": "아침마당",
             "channel": "KBS1",
             "rate": "4.4"
         },
         {
             "rank": "8",
-            "program": "아침마당",
+            "program": "6시내고향",
             "channel": "KBS1",
             "rate": "4.4"
         },
@@ -75,14 +75,14 @@
         },
         {
             "rank": "12",
-            "program": "KBS뉴스광장1부",
-            "channel": "KBS1",
+            "program": "실화탐사대",
+            "channel": "MBC",
             "rate": "3.1"
         },
         {
             "rank": "12",
-            "program": "실화탐사대",
-            "channel": "MBC",
+            "program": "KBS뉴스광장1부",
+            "channel": "KBS1",
             "rate": "3.1"
         },
         {
@@ -105,14 +105,14 @@
         },
         {
             "rank": "18",
-            "program": "구해줘홈즈",
-            "channel": "MBC",
+            "program": "꼬리에꼬리를무는그날이야기",
+            "channel": "SBS",
             "rate": "2.5"
         },
         {
             "rank": "18",
-            "program": "꼬리에꼬리를무는그날이야기",
-            "channel": "SBS",
+            "program": "구해줘홈즈",
+            "channel": "MBC",
             "rate": "2.5"
         },
         {
