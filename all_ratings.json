@@ -7749,7 +7749,7 @@
         ]
     },
     "2026-05-03": {
-        "date": "2026-05-03 16:31",
+        "date": "2026-05-03 17:18",
         "terrestrial": [
             {
                 "rank": "1",
@@ -7783,13 +7783,13 @@
             },
             {
                 "rank": "6",
-                "program": "살림하는남자들",
+                "program": "불후의명곡",
                 "channel": "KBS2",
                 "rate": "4.7"
             },
             {
                 "rank": "6",
-                "program": "불후의명곡",
+                "program": "살림하는남자들",
                 "channel": "KBS2",
                 "rate": "4.7"
             },
@@ -7867,8 +7867,8 @@
             },
             {
                 "rank": "20",
-                "program": "행복드림로또645",
-                "channel": "MBC",
+                "program": "KBS뉴스광장1부",
+                "channel": "KBS1",
                 "rate": "2.5"
             }
         ],
