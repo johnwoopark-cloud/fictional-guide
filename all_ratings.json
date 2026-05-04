@@ -8118,7 +8118,7 @@
         ]
     },
     "2026-05-04": {
-        "date": "2026-05-04 17:09",
+        "date": "2026-05-04 18:07",
         "terrestrial": [
             {
                 "rank": "1",
@@ -8194,15 +8194,21 @@
             },
             {
                 "rank": "13",
-                "program": "특파원보고세계는지금<재>",
+                "program": "열린음악회",
                 "channel": "KBS1",
                 "rate": "3.3"
             },
             {
                 "rank": "13",
-                "program": "열린음악회",
+                "program": "특파원보고세계는지금<재>",
                 "channel": "KBS1",
                 "rate": "3.3"
+            },
+            {
+                "rank": "15",
+                "program": "런닝맨",
+                "channel": "SBS",
+                "rate": "3"
             },
             {
                 "rank": "15",
@@ -8217,10 +8223,10 @@
                 "rate": "3"
             },
             {
-                "rank": "15",
-                "program": "런닝맨",
-                "channel": "SBS",
-                "rate": "3"
+                "rank": "18",
+                "program": "탐사기획스트레이트",
+                "channel": "MBC",
+                "rate": "2.9"
             },
             {
                 "rank": "18",
@@ -8229,14 +8235,8 @@
                 "rate": "2.9"
             },
             {
-                "rank": "18",
-                "program": "탐사기획스트레이트",
-                "channel": "MBC",
-                "rate": "2.9"
-            },
-            {
                 "rank": "20",
-                "program": "동네한바퀴<재>",
+                "program": "다큐인사이트(냉전과열전사이잠항)<재>",
                 "channel": "KBS1",
                 "rate": "2.8"
             }
@@ -8432,14 +8432,14 @@
             },
             {
                 "rank": "12",
-                "program": "명품리포트맥",
-                "channel": "연합뉴스TV",
+                "program": "2026KBO리그",
+                "channel": "MBC SPORTS+",
                 "rate": "1.38"
             },
             {
                 "rank": "12",
-                "program": "2026KBO리그",
-                "channel": "MBC SPORTS+",
+                "program": "명품리포트맥",
+                "channel": "연합뉴스TV",
                 "rate": "1.38"
             },
             {
@@ -8462,13 +8462,13 @@
             },
             {
                 "rank": "17",
-                "program": "뉴스와이드(15:50)",
+                "program": "뉴스와이드(17:50)",
                 "channel": "YTN",
                 "rate": "1.2"
             },
             {
                 "rank": "17",
-                "program": "뉴스와이드(17:50)",
+                "program": "뉴스와이드(15:50)",
                 "channel": "YTN",
                 "rate": "1.2"
             },
