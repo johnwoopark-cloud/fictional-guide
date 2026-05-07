@@ -9225,7 +9225,7 @@
         ]
     },
     "2026-05-07": {
-        "date": "2026-05-07 17:06",
+        "date": "2026-05-07 18:46",
         "terrestrial": [
             {
                 "rank": "1",
@@ -9325,14 +9325,14 @@
             },
             {
                 "rank": "17",
-                "program": "황금어장라디오스타",
-                "channel": "MBC",
+                "program": "KBS뉴스7",
+                "channel": "KBS1",
                 "rate": "2.5"
             },
             {
                 "rank": "17",
-                "program": "KBS뉴스7",
-                "channel": "KBS1",
+                "program": "황금어장라디오스타",
+                "channel": "MBC",
                 "rate": "2.5"
             },
             {
