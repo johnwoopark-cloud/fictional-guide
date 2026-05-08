@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-08 15:12",
+    "date": "2026-05-08 15:21",
     "terrestrial": [
         {
             "rank": "1",
@@ -63,21 +63,15 @@
         },
         {
             "rank": "11",
-            "program": "KBS뉴스광장1부",
-            "channel": "KBS1",
-            "rate": "3"
-        },
-        {
-            "rank": "11",
             "program": "KBS뉴스7",
             "channel": "KBS1",
             "rate": "3"
         },
         {
-            "rank": "13",
-            "program": "다큐인사이트(좋은죽음을묻습니다)",
+            "rank": "11",
+            "program": "KBS뉴스광장1부",
             "channel": "KBS1",
-            "rate": "2.9"
+            "rate": "3"
         },
         {
             "rank": "13",
@@ -86,15 +80,21 @@
             "rate": "2.9"
         },
         {
-            "rank": "15",
-            "program": "꼬리에꼬리를무는그날이야기",
-            "channel": "SBS",
-            "rate": "2.6"
+            "rank": "13",
+            "program": "다큐인사이트(좋은죽음을묻습니다)",
+            "channel": "KBS1",
+            "rate": "2.9"
         },
         {
             "rank": "15",
             "program": "실화탐사대",
             "channel": "MBC",
+            "rate": "2.6"
+        },
+        {
+            "rank": "15",
+            "program": "꼬리에꼬리를무는그날이야기",
+            "channel": "SBS",
             "rate": "2.6"
         },
         {
@@ -117,8 +117,8 @@
         },
         {
             "rank": "20",
-            "program": "구해줘홈즈",
-            "channel": "MBC",
+            "program": "모닝와이드3부",
+            "channel": "SBS",
             "rate": "2.2"
         }
     ],
