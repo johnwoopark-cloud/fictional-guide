@@ -9594,7 +9594,7 @@
         ]
     },
     "2026-05-08": {
-        "date": "2026-05-08 15:21",
+        "date": "2026-05-08 16:07",
         "terrestrial": [
             {
                 "rank": "1",
@@ -9622,14 +9622,14 @@
             },
             {
                 "rank": "5",
-                "program": "MBC뉴스데스크",
-                "channel": "MBC",
+                "program": "KBS뉴스광장2부",
+                "channel": "KBS1",
                 "rate": "5"
             },
             {
                 "rank": "5",
-                "program": "KBS뉴스광장2부",
-                "channel": "KBS1",
+                "program": "MBC뉴스데스크",
+                "channel": "MBC",
                 "rate": "5"
             },
             {
@@ -9670,14 +9670,14 @@
             },
             {
                 "rank": "13",
-                "program": "오늘도매진했습니다",
-                "channel": "SBS",
+                "program": "다큐인사이트(좋은죽음을묻습니다)",
+                "channel": "KBS1",
                 "rate": "2.9"
             },
             {
                 "rank": "13",
-                "program": "다큐인사이트(좋은죽음을묻습니다)",
-                "channel": "KBS1",
+                "program": "오늘도매진했습니다",
+                "channel": "SBS",
                 "rate": "2.9"
             },
             {
@@ -9914,14 +9914,14 @@
             },
             {
                 "rank": "13",
-                "program": "뉴스PLUS",
-                "channel": "YTN",
+                "program": "2026KBO리그",
+                "channel": "SPOTV",
                 "rate": "1.01"
             },
             {
                 "rank": "13",
-                "program": "2026KBO리그",
-                "channel": "SPOTV",
+                "program": "뉴스PLUS",
+                "channel": "YTN",
                 "rate": "1.01"
             },
             {
