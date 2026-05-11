@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-11 13:34",
+    "date": "2026-05-11 14:07",
     "terrestrial": [
         {
             "rank": "1",
@@ -75,13 +75,13 @@
         },
         {
             "rank": "13",
-            "program": "특파원보고세계는지금<재>",
+            "program": "KBS뉴스(19:00)",
             "channel": "KBS1",
             "rate": "3.2"
         },
         {
             "rank": "13",
-            "program": "KBS뉴스(19:00)",
+            "program": "특파원보고세계는지금<재>",
             "channel": "KBS1",
             "rate": "3.2"
         },
@@ -117,8 +117,8 @@
         },
         {
             "rank": "20",
-            "program": "서프라이즈미스터리살롱",
-            "channel": "MBC",
+            "program": "역사스페셜시간여행자",
+            "channel": "KBS1",
             "rate": "2.4"
         }
     ],
