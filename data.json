@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-12 09:09",
+    "date": "2026-05-12 13:03",
     "terrestrial": [
         {
             "rank": "1",
@@ -75,8 +75,8 @@
         },
         {
             "rank": "13",
-            "program": "SBS8뉴스",
-            "channel": "SBS",
+            "program": "2TV생생정보",
+            "channel": "KBS2",
             "rate": "3"
         },
         {
@@ -87,8 +87,8 @@
         },
         {
             "rank": "13",
-            "program": "2TV생생정보",
-            "channel": "KBS2",
+            "program": "SBS8뉴스",
+            "channel": "SBS",
             "rate": "3"
         },
         {
