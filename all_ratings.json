@@ -11439,7 +11439,7 @@
         ]
     },
     "2026-05-13": {
-        "date": "2026-05-13 09:13",
+        "date": "2026-05-13 13:11",
         "terrestrial": [
             {
                 "rank": "1",
@@ -11545,20 +11545,20 @@
             },
             {
                 "rank": "18",
-                "program": "KBS뉴스5",
-                "channel": "KBS1",
-                "rate": "2"
-            },
-            {
-                "rank": "18",
                 "program": "PD수첩",
                 "channel": "MBC",
                 "rate": "2"
             },
             {
+                "rank": "18",
+                "program": "KBS뉴스5",
+                "channel": "KBS1",
+                "rate": "2"
+            },
+            {
                 "rank": "20",
-                "program": "모닝와이드3부",
-                "channel": "SBS",
+                "program": "가정의달특집다큐(파하최불암입니다)",
+                "channel": "MBC",
                 "rate": "1.8"
             }
         ],
