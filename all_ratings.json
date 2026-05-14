@@ -11808,7 +11808,7 @@
         ]
     },
     "2026-05-14": {
-        "date": "2026-05-14 13:11",
+        "date": "2026-05-14 13:57",
         "terrestrial": [
             {
                 "rank": "1",
@@ -11878,12 +11878,6 @@
             },
             {
                 "rank": "12",
-                "program": "KBS뉴스7",
-                "channel": "KBS1",
-                "rate": "2.6"
-            },
-            {
-                "rank": "12",
                 "program": "황금어장라디오스타",
                 "channel": "MBC",
                 "rate": "2.6"
@@ -11895,14 +11889,20 @@
                 "rate": "2.6"
             },
             {
+                "rank": "12",
+                "program": "KBS뉴스7",
+                "channel": "KBS1",
+                "rate": "2.6"
+            },
+            {
                 "rank": "15",
-                "program": "SBS8뉴스",
+                "program": "오늘도매진했습니다",
                 "channel": "SBS",
                 "rate": "2.5"
             },
             {
                 "rank": "15",
-                "program": "오늘도매진했습니다",
+                "program": "SBS8뉴스",
                 "channel": "SBS",
                 "rate": "2.5"
             },
