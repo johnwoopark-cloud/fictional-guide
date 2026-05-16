@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-16 09:06",
+    "date": "2026-05-16 12:59",
     "terrestrial": [
         {
             "rank": "1",
@@ -75,14 +75,14 @@
         },
         {
             "rank": "13",
-            "program": "21세기대군부인<재>",
-            "channel": "MBC",
+            "program": "멋진신세계<재>",
+            "channel": "SBS",
             "rate": "3.5"
         },
         {
             "rank": "13",
-            "program": "멋진신세계<재>",
-            "channel": "SBS",
+            "program": "21세기대군부인<재>",
+            "channel": "MBC",
             "rate": "3.5"
         },
         {
