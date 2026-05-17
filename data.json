@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-17 13:20",
+    "date": "2026-05-17 14:01",
     "terrestrial": [
         {
             "rank": "1",
@@ -51,13 +51,13 @@
         },
         {
             "rank": "8",
-            "program": "특파원보고세계는지금",
+            "program": "남북의창",
             "channel": "KBS1",
             "rate": "4.3"
         },
         {
             "rank": "8",
-            "program": "남북의창",
+            "program": "특파원보고세계는지금",
             "channel": "KBS1",
             "rate": "4.3"
         },
@@ -69,14 +69,14 @@
         },
         {
             "rank": "12",
-            "program": "그것이알고싶다",
-            "channel": "SBS",
+            "program": "시니어토크쇼황금연못",
+            "channel": "KBS1",
             "rate": "4.1"
         },
         {
             "rank": "12",
-            "program": "시니어토크쇼황금연못",
-            "channel": "KBS1",
+            "program": "그것이알고싶다",
+            "channel": "SBS",
             "rate": "4.1"
         },
         {
@@ -105,20 +105,20 @@
         },
         {
             "rank": "18",
-            "program": "동행",
-            "channel": "KBS1",
-            "rate": "2.9"
-        },
-        {
-            "rank": "18",
             "program": "전지적참견시점",
             "channel": "MBC",
             "rate": "2.9"
         },
         {
+            "rank": "18",
+            "program": "동행",
+            "channel": "KBS1",
+            "rate": "2.9"
+        },
+        {
             "rank": "20",
-            "program": "행복드림로또645",
-            "channel": "MBC",
+            "program": "팔도밥상",
+            "channel": "KBS1",
             "rate": "2.7"
         }
     ],
