@@ -12915,7 +12915,7 @@
         ]
     },
     "2026-05-17": {
-        "date": "2026-05-17 09:08",
+        "date": "2026-05-17 13:20",
         "terrestrial": [
             {
                 "rank": "1",
@@ -12961,14 +12961,8 @@
             },
             {
                 "rank": "8",
-                "program": "남북의창",
-                "channel": "KBS1",
-                "rate": "4.3"
-            },
-            {
-                "rank": "8",
-                "program": "동네한바퀴",
-                "channel": "KBS1",
+                "program": "놀면뭐하니",
+                "channel": "MBC",
                 "rate": "4.3"
             },
             {
@@ -12979,8 +12973,14 @@
             },
             {
                 "rank": "8",
-                "program": "놀면뭐하니",
-                "channel": "MBC",
+                "program": "남북의창",
+                "channel": "KBS1",
+                "rate": "4.3"
+            },
+            {
+                "rank": "8",
+                "program": "동네한바퀴",
+                "channel": "KBS1",
                 "rate": "4.3"
             },
             {
@@ -13009,21 +13009,15 @@
             },
             {
                 "rank": "16",
-                "program": "21세기대군부인<재>",
-                "channel": "MBC",
-                "rate": "3.3"
-            },
-            {
-                "rank": "16",
                 "program": "불후의명곡",
                 "channel": "KBS2",
                 "rate": "3.3"
             },
             {
-                "rank": "18",
-                "program": "전지적참견시점",
+                "rank": "16",
+                "program": "21세기대군부인<재>",
                 "channel": "MBC",
-                "rate": "2.9"
+                "rate": "3.3"
             },
             {
                 "rank": "18",
@@ -13032,9 +13026,15 @@
                 "rate": "2.9"
             },
             {
+                "rank": "18",
+                "program": "전지적참견시점",
+                "channel": "MBC",
+                "rate": "2.9"
+            },
+            {
                 "rank": "20",
-                "program": "팔도밥상",
-                "channel": "KBS1",
+                "program": "행복드림로또645",
+                "channel": "MBC",
                 "rate": "2.7"
             }
         ],
