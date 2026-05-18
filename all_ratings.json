@@ -13284,7 +13284,7 @@
         ]
     },
     "2026-05-18": {
-        "date": "2026-05-18 13:40",
+        "date": "2026-05-18 14:17",
         "terrestrial": [
             {
                 "rank": "1",
@@ -13306,14 +13306,14 @@
             },
             {
                 "rank": "4",
-                "program": "KBS9시뉴스",
-                "channel": "KBS1",
+                "program": "1박2일",
+                "channel": "KBS2",
                 "rate": "5.5"
             },
             {
                 "rank": "4",
-                "program": "1박2일",
-                "channel": "KBS2",
+                "program": "KBS9시뉴스",
+                "channel": "KBS1",
                 "rate": "5.5"
             },
             {
@@ -13378,12 +13378,6 @@
             },
             {
                 "rank": "16",
-                "program": "살림하는남자들<재>",
-                "channel": "KBS2",
-                "rate": "2.5"
-            },
-            {
-                "rank": "16",
                 "program": "소라와진경",
                 "channel": "MBC",
                 "rate": "2.5"
@@ -13392,6 +13386,12 @@
                 "rank": "16",
                 "program": "열린음악회가정의달",
                 "channel": "KBS1",
+                "rate": "2.5"
+            },
+            {
+                "rank": "16",
+                "program": "살림하는남자들<재>",
+                "channel": "KBS2",
                 "rate": "2.5"
             },
             {
