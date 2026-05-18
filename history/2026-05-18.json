@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-18 09:10",
+    "date": "2026-05-18 13:40",
     "terrestrial": [
         {
             "rank": "1",
@@ -99,14 +99,14 @@
         },
         {
             "rank": "16",
-            "program": "열린음악회가정의달",
-            "channel": "KBS1",
+            "program": "소라와진경",
+            "channel": "MBC",
             "rate": "2.5"
         },
         {
             "rank": "16",
-            "program": "소라와진경",
-            "channel": "MBC",
+            "program": "열린음악회가정의달",
+            "channel": "KBS1",
             "rate": "2.5"
         },
         {
