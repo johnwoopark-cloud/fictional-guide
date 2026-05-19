@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-19 13:32",
+    "date": "2026-05-19 14:13",
     "terrestrial": [
         {
             "rank": "1",
@@ -99,14 +99,14 @@
         },
         {
             "rank": "17",
-            "program": "2TV생생정보",
-            "channel": "KBS2",
+            "program": "뉴스라인W",
+            "channel": "KBS1",
             "rate": "2.8"
         },
         {
             "rank": "17",
-            "program": "뉴스라인W",
-            "channel": "KBS1",
+            "program": "2TV생생정보",
+            "channel": "KBS2",
             "rate": "2.8"
         },
         {
