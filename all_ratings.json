@@ -13653,7 +13653,7 @@
         ]
     },
     "2026-05-19": {
-        "date": "2026-05-19 09:17",
+        "date": "2026-05-19 13:32",
         "terrestrial": [
             {
                 "rank": "1",
@@ -13705,13 +13705,13 @@
             },
             {
                 "rank": "9",
-                "program": "아침마당",
+                "program": "6시내고향",
                 "channel": "KBS1",
                 "rate": "4.5"
             },
             {
                 "rank": "9",
-                "program": "6시내고향",
+                "program": "아침마당",
                 "channel": "KBS1",
                 "rate": "4.5"
             },
@@ -13741,26 +13741,26 @@
             },
             {
                 "rank": "15",
-                "program": "생활의달인",
-                "channel": "SBS",
-                "rate": "2.9"
-            },
-            {
-                "rank": "15",
                 "program": "오은영리포트다시사랑",
                 "channel": "MBC",
                 "rate": "2.9"
             },
             {
-                "rank": "17",
-                "program": "뉴스라인W",
-                "channel": "KBS1",
-                "rate": "2.8"
+                "rank": "15",
+                "program": "생활의달인",
+                "channel": "SBS",
+                "rate": "2.9"
             },
             {
                 "rank": "17",
                 "program": "2TV생생정보",
                 "channel": "KBS2",
+                "rate": "2.8"
+            },
+            {
+                "rank": "17",
+                "program": "뉴스라인W",
+                "channel": "KBS1",
                 "rate": "2.8"
             },
             {
