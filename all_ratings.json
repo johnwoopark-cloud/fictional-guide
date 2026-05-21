@@ -14391,7 +14391,7 @@
         ]
     },
     "2026-05-21": {
-        "date": "2026-05-21 09:17",
+        "date": "2026-05-21 13:42",
         "terrestrial": [
             {
                 "rank": "1",
@@ -14419,13 +14419,13 @@
             },
             {
                 "rank": "5",
-                "program": "KBS스포츠여자축구(2025/2026AFC챔피언스리그준결승)",
+                "program": "아침마당",
                 "channel": "KBS1",
                 "rate": "6.4"
             },
             {
                 "rank": "5",
-                "program": "아침마당",
+                "program": "KBS스포츠여자축구(2025/2026AFC챔피언스리그준결승)",
                 "channel": "KBS1",
                 "rate": "6.4"
             },
@@ -14479,7 +14479,7 @@
             },
             {
                 "rank": "15",
-                "program": "KBS뉴스광장1부",
+                "program": "생로병사의비밀",
                 "channel": "KBS1",
                 "rate": "2.7"
             },
@@ -14491,20 +14491,20 @@
             },
             {
                 "rank": "15",
-                "program": "생로병사의비밀",
+                "program": "KBS뉴스광장1부",
                 "channel": "KBS1",
                 "rate": "2.7"
             },
             {
                 "rank": "18",
-                "program": "SBS8뉴스",
-                "channel": "SBS",
+                "program": "동물의왕국",
+                "channel": "KBS1",
                 "rate": "2.4"
             },
             {
                 "rank": "18",
-                "program": "동물의왕국",
-                "channel": "KBS1",
+                "program": "SBS8뉴스",
+                "channel": "SBS",
                 "rate": "2.4"
             },
             {
