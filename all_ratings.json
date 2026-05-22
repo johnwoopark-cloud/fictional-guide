@@ -14760,7 +14760,7 @@
         ]
     },
     "2026-05-22": {
-        "date": "2026-05-22 09:15",
+        "date": "2026-05-22 13:34",
         "terrestrial": [
             {
                 "rank": "1",
@@ -14830,14 +14830,14 @@
             },
             {
                 "rank": "12",
-                "program": "KBS뉴스광장1부",
-                "channel": "KBS1",
+                "program": "실화탐사대",
+                "channel": "MBC",
                 "rate": "3.1"
             },
             {
                 "rank": "12",
-                "program": "실화탐사대",
-                "channel": "MBC",
+                "program": "KBS뉴스광장1부",
+                "channel": "KBS1",
                 "rate": "3.1"
             },
             {
