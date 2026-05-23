@@ -15129,7 +15129,7 @@
         ]
     },
     "2026-05-23": {
-        "date": "2026-05-23 13:06",
+        "date": "2026-05-23 13:52",
         "terrestrial": [
             {
                 "rank": "1",
@@ -15247,7 +15247,7 @@
             },
             {
                 "rank": "20",
-                "program": "KBS스포츠KBO리그(두산:한화)",
+                "program": "신상출시편스토랑",
                 "channel": "KBS2",
                 "rate": "2.1"
             }
@@ -15437,14 +15437,14 @@
             },
             {
                 "rank": "11",
-                "program": "뉴스ON",
-                "channel": "YTN",
+                "program": "SPOTIMEBASEBALL",
+                "channel": "SPOTV",
                 "rate": "0.98"
             },
             {
                 "rank": "11",
-                "program": "SPOTIMEBASEBALL",
-                "channel": "SPOTV",
+                "program": "뉴스ON",
+                "channel": "YTN",
                 "rate": "0.98"
             },
             {
