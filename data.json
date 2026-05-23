@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-23 09:15",
+    "date": "2026-05-23 13:06",
     "terrestrial": [
         {
             "rank": "1",
@@ -15,13 +15,13 @@
         },
         {
             "rank": "3",
-            "program": "인간극장",
+            "program": "KBS9시뉴스",
             "channel": "KBS1",
             "rate": "7.1"
         },
         {
             "rank": "3",
-            "program": "KBS9시뉴스",
+            "program": "인간극장",
             "channel": "KBS1",
             "rate": "7.1"
         },
@@ -75,13 +75,13 @@
         },
         {
             "rank": "13",
-            "program": "SINCE1983추적60분",
+            "program": "KBS뉴스930",
             "channel": "KBS1",
             "rate": "3.5"
         },
         {
             "rank": "13",
-            "program": "KBS뉴스930",
+            "program": "SINCE1983추적60분",
             "channel": "KBS1",
             "rate": "3.5"
         },
