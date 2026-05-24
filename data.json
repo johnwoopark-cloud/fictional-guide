@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-24 13:37",
+    "date": "2026-05-24 14:13",
     "terrestrial": [
         {
             "rank": "1",
@@ -33,26 +33,26 @@
         },
         {
             "rank": "6",
-            "program": "시니어토크쇼황금연못",
-            "channel": "KBS1",
-            "rate": "4.2"
-        },
-        {
-            "rank": "6",
             "program": "동네한바퀴",
             "channel": "KBS1",
             "rate": "4.2"
         },
         {
-            "rank": "8",
-            "program": "그것이알고싶다",
-            "channel": "SBS",
-            "rate": "3.8"
+            "rank": "6",
+            "program": "시니어토크쇼황금연못",
+            "channel": "KBS1",
+            "rate": "4.2"
         },
         {
             "rank": "8",
             "program": "KBS뉴스광장2부",
             "channel": "KBS1",
+            "rate": "3.8"
+        },
+        {
+            "rank": "8",
+            "program": "그것이알고싶다",
+            "channel": "SBS",
             "rate": "3.8"
         },
         {
@@ -69,13 +69,13 @@
         },
         {
             "rank": "12",
-            "program": "팔도밥상",
+            "program": "특파원보고세계는지금",
             "channel": "KBS1",
             "rate": "3.5"
         },
         {
             "rank": "12",
-            "program": "특파원보고세계는지금",
+            "program": "팔도밥상",
             "channel": "KBS1",
             "rate": "3.5"
         },
