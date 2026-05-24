@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-24 09:11",
+    "date": "2026-05-24 13:37",
     "terrestrial": [
         {
             "rank": "1",
@@ -87,14 +87,14 @@
         },
         {
             "rank": "15",
-            "program": "걸어서세계속으로",
-            "channel": "KBS1",
+            "program": "불후의명곡",
+            "channel": "KBS2",
             "rate": "3.2"
         },
         {
             "rank": "15",
-            "program": "불후의명곡",
-            "channel": "KBS2",
+            "program": "걸어서세계속으로",
+            "channel": "KBS1",
             "rate": "3.2"
         },
         {
