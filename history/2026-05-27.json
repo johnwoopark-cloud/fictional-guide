@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-27 09:17",
+    "date": "2026-05-27 13:46",
     "terrestrial": [
         {
             "rank": "1",
@@ -93,14 +93,14 @@
         },
         {
             "rank": "16",
-            "program": "법륜로드스님과손님",
-            "channel": "SBS",
+            "program": "KBS뉴스광장1부",
+            "channel": "KBS1",
             "rate": "2.7"
         },
         {
             "rank": "16",
-            "program": "KBS뉴스광장1부",
-            "channel": "KBS1",
+            "program": "법륜로드스님과손님",
+            "channel": "SBS",
             "rate": "2.7"
         },
         {
@@ -307,14 +307,14 @@
         },
         {
             "rank": "11",
-            "program": "뉴스NOW",
-            "channel": "YTN",
+            "program": "뉴스잇",
+            "channel": "연합뉴스TV",
             "rate": "1.18"
         },
         {
             "rank": "11",
-            "program": "뉴스잇",
-            "channel": "연합뉴스TV",
+            "program": "뉴스NOW",
+            "channel": "YTN",
             "rate": "1.18"
         },
         {
