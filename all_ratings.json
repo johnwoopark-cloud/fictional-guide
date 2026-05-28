@@ -16974,7 +16974,7 @@
         ]
     },
     "2026-05-28": {
-        "date": "2026-05-28 13:37",
+        "date": "2026-05-28 14:36",
         "terrestrial": [
             {
                 "rank": "1",
@@ -16996,13 +16996,13 @@
             },
             {
                 "rank": "4",
-                "program": "인간극장",
+                "program": "아침마당",
                 "channel": "KBS1",
                 "rate": "6.9"
             },
             {
                 "rank": "4",
-                "program": "아침마당",
+                "program": "인간극장",
                 "channel": "KBS1",
                 "rate": "6.9"
             },
@@ -17056,6 +17056,12 @@
             },
             {
                 "rank": "14",
+                "program": "KBS뉴스7",
+                "channel": "KBS1",
+                "rate": "2.6"
+            },
+            {
+                "rank": "14",
                 "program": "SBS8뉴스",
                 "channel": "SBS",
                 "rate": "2.6"
@@ -17064,12 +17070,6 @@
                 "rank": "14",
                 "program": "슈퍼맨이돌아왔다",
                 "channel": "KBS2",
-                "rate": "2.6"
-            },
-            {
-                "rank": "14",
-                "program": "KBS뉴스7",
-                "channel": "KBS1",
                 "rate": "2.6"
             },
             {
