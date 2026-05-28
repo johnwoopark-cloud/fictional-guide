@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-28 09:13",
+    "date": "2026-05-28 13:37",
     "terrestrial": [
         {
             "rank": "1",
@@ -21,13 +21,13 @@
         },
         {
             "rank": "4",
-            "program": "아침마당",
+            "program": "인간극장",
             "channel": "KBS1",
             "rate": "6.9"
         },
         {
             "rank": "4",
-            "program": "인간극장",
+            "program": "아침마당",
             "channel": "KBS1",
             "rate": "6.9"
         },
@@ -69,20 +69,20 @@
         },
         {
             "rank": "12",
-            "program": "2TV생생정보",
-            "channel": "KBS2",
-            "rate": "2.7"
-        },
-        {
-            "rank": "12",
             "program": "황신혜의같이삽시다",
             "channel": "KBS1",
             "rate": "2.7"
         },
         {
+            "rank": "12",
+            "program": "2TV생생정보",
+            "channel": "KBS2",
+            "rate": "2.7"
+        },
+        {
             "rank": "14",
-            "program": "KBS뉴스7",
-            "channel": "KBS1",
+            "program": "SBS8뉴스",
+            "channel": "SBS",
             "rate": "2.6"
         },
         {
@@ -93,8 +93,8 @@
         },
         {
             "rank": "14",
-            "program": "SBS8뉴스",
-            "channel": "SBS",
+            "program": "KBS뉴스7",
+            "channel": "KBS1",
             "rate": "2.6"
         },
         {
@@ -111,14 +111,14 @@
         },
         {
             "rank": "19",
-            "program": "소라와진경스페셜",
-            "channel": "MBC",
+            "program": "생로병사의비밀",
+            "channel": "KBS1",
             "rate": "2.1"
         },
         {
             "rank": "19",
-            "program": "생로병사의비밀",
-            "channel": "KBS1",
+            "program": "소라와진경스페셜",
+            "channel": "MBC",
             "rate": "2.1"
         }
     ],
