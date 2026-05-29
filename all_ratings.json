@@ -17343,7 +17343,7 @@
         ]
     },
     "2026-05-29": {
-        "date": "2026-05-29 09:19",
+        "date": "2026-05-29 13:40",
         "terrestrial": [
             {
                 "rank": "1",
@@ -17407,21 +17407,15 @@
             },
             {
                 "rank": "11",
-                "program": "6시내고향",
-                "channel": "KBS1",
-                "rate": "3.2"
-            },
-            {
-                "rank": "11",
                 "program": "한국인의밥상",
                 "channel": "KBS1",
                 "rate": "3.2"
             },
             {
-                "rank": "13",
-                "program": "KBS뉴스광장1부",
+                "rank": "11",
+                "program": "6시내고향",
                 "channel": "KBS1",
-                "rate": "2.8"
+                "rate": "3.2"
             },
             {
                 "rank": "13",
@@ -17430,16 +17424,16 @@
                 "rate": "2.8"
             },
             {
+                "rank": "13",
+                "program": "KBS뉴스광장1부",
+                "channel": "KBS1",
+                "rate": "2.8"
+            },
+            {
                 "rank": "15",
                 "program": "오늘도매진했습니다",
                 "channel": "SBS",
                 "rate": "2.7"
-            },
-            {
-                "rank": "16",
-                "program": "SBS8뉴스",
-                "channel": "SBS",
-                "rate": "2.5"
             },
             {
                 "rank": "16",
@@ -17451,6 +17445,12 @@
                 "rank": "16",
                 "program": "2TV생생정보",
                 "channel": "KBS2",
+                "rate": "2.5"
+            },
+            {
+                "rank": "16",
+                "program": "SBS8뉴스",
+                "channel": "SBS",
                 "rate": "2.5"
             },
             {
@@ -17523,13 +17523,13 @@
             },
             {
                 "rank": "10",
-                "program": "보도본부핫라인",
+                "program": "식객허영만의백반기행특별판<재>",
                 "channel": "TV CHOSUN",
                 "rate": "1.57"
             },
             {
                 "rank": "10",
-                "program": "식객허영만의백반기행특별판<재>",
+                "program": "보도본부핫라인",
                 "channel": "TV CHOSUN",
                 "rate": "1.57"
             },
