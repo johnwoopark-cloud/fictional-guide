@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-30 13:15",
+    "date": "2026-05-30 14:00",
     "terrestrial": [
         {
             "rank": "1",
@@ -39,26 +39,26 @@
         },
         {
             "rank": "7",
-            "program": "MBC뉴스데스크",
-            "channel": "MBC",
-            "rate": "5.1"
-        },
-        {
-            "rank": "7",
             "program": "첫번째남자",
             "channel": "MBC",
             "rate": "5.1"
         },
         {
-            "rank": "9",
-            "program": "궁금한이야기Y",
-            "channel": "SBS",
-            "rate": "4.5"
+            "rank": "7",
+            "program": "MBC뉴스데스크",
+            "channel": "MBC",
+            "rate": "5.1"
         },
         {
             "rank": "9",
             "program": "KBS뉴스광장2부",
             "channel": "KBS1",
+            "rate": "4.5"
+        },
+        {
+            "rank": "9",
+            "program": "궁금한이야기Y",
+            "channel": "SBS",
             "rate": "4.5"
         },
         {
