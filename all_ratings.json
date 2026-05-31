@@ -18081,7 +18081,7 @@
         ]
     },
     "2026-05-31": {
-        "date": "2026-05-31 09:13",
+        "date": "2026-05-31 13:48",
         "terrestrial": [
             {
                 "rank": "1",
@@ -18103,14 +18103,14 @@
             },
             {
                 "rank": "4",
-                "program": "오십프로",
-                "channel": "MBC",
+                "program": "KBS9시뉴스",
+                "channel": "KBS1",
                 "rate": "5.2"
             },
             {
                 "rank": "4",
-                "program": "KBS9시뉴스",
-                "channel": "KBS1",
+                "program": "오십프로",
+                "channel": "MBC",
                 "rate": "5.2"
             },
             {
@@ -18139,14 +18139,14 @@
             },
             {
                 "rank": "10",
-                "program": "남북의창",
-                "channel": "KBS1",
+                "program": "전지적참견시점",
+                "channel": "MBC",
                 "rate": "4.1"
             },
             {
                 "rank": "10",
-                "program": "전지적참견시점",
-                "channel": "MBC",
+                "program": "남북의창",
+                "channel": "KBS1",
                 "rate": "4.1"
             },
             {
@@ -18154,12 +18154,6 @@
                 "program": "시니어토크쇼황금연못",
                 "channel": "KBS1",
                 "rate": "4"
-            },
-            {
-                "rank": "13",
-                "program": "걸어서세계속으로",
-                "channel": "KBS1",
-                "rate": "3.7"
             },
             {
                 "rank": "13",
@@ -18171,6 +18165,12 @@
                 "rank": "13",
                 "program": "불후의명곡",
                 "channel": "KBS2",
+                "rate": "3.7"
+            },
+            {
+                "rank": "13",
+                "program": "걸어서세계속으로",
+                "channel": "KBS1",
                 "rate": "3.7"
             },
             {
