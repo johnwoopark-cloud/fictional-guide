@@ -18081,7 +18081,7 @@
         ]
     },
     "2026-05-31": {
-        "date": "2026-05-31 13:48",
+        "date": "2026-05-31 14:45",
         "terrestrial": [
             {
                 "rank": "1",
@@ -18103,14 +18103,14 @@
             },
             {
                 "rank": "4",
-                "program": "KBS9시뉴스",
-                "channel": "KBS1",
+                "program": "오십프로",
+                "channel": "MBC",
                 "rate": "5.2"
             },
             {
                 "rank": "4",
-                "program": "오십프로",
-                "channel": "MBC",
+                "program": "KBS9시뉴스",
+                "channel": "KBS1",
                 "rate": "5.2"
             },
             {
@@ -18121,14 +18121,14 @@
             },
             {
                 "rank": "7",
-                "program": "KBS뉴스광장2부",
-                "channel": "KBS1",
+                "program": "살림하는남자들",
+                "channel": "KBS2",
                 "rate": "4.5"
             },
             {
                 "rank": "7",
-                "program": "살림하는남자들",
-                "channel": "KBS2",
+                "program": "KBS뉴스광장2부",
+                "channel": "KBS1",
                 "rate": "4.5"
             },
             {
@@ -18157,14 +18157,14 @@
             },
             {
                 "rank": "13",
-                "program": "특파원보고세계는지금",
-                "channel": "KBS1",
+                "program": "그것이알고싶다",
+                "channel": "SBS",
                 "rate": "3.7"
             },
             {
                 "rank": "13",
-                "program": "불후의명곡",
-                "channel": "KBS2",
+                "program": "특파원보고세계는지금",
+                "channel": "KBS1",
                 "rate": "3.7"
             },
             {
@@ -18175,8 +18175,8 @@
             },
             {
                 "rank": "13",
-                "program": "그것이알고싶다",
-                "channel": "SBS",
+                "program": "불후의명곡",
+                "channel": "KBS2",
                 "rate": "3.7"
             },
             {
@@ -18187,13 +18187,13 @@
             },
             {
                 "rank": "18",
-                "program": "오십프로<재>",
+                "program": "행복드림로또645",
                 "channel": "MBC",
                 "rate": "2.8"
             },
             {
                 "rank": "18",
-                "program": "행복드림로또645",
+                "program": "오십프로<재>",
                 "channel": "MBC",
                 "rate": "2.8"
             },
