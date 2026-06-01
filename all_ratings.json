@@ -18450,7 +18450,7 @@
         ]
     },
     "2026-06-01": {
-        "date": "2026-06-01 09:15",
+        "date": "2026-06-01 14:14",
         "terrestrial": [
             {
                 "rank": "1",
@@ -18496,14 +18496,14 @@
             },
             {
                 "rank": "8",
-                "program": "사장님귀는당나귀귀",
-                "channel": "KBS2",
+                "program": "KBS뉴스(12:00)",
+                "channel": "KBS1",
                 "rate": "4"
             },
             {
                 "rank": "8",
-                "program": "KBS뉴스(12:00)",
-                "channel": "KBS1",
+                "program": "사장님귀는당나귀귀",
+                "channel": "KBS2",
                 "rate": "4"
             },
             {
