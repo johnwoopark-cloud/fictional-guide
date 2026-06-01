@@ -18450,7 +18450,7 @@
         ]
     },
     "2026-06-01": {
-        "date": "2026-06-01 14:14",
+        "date": "2026-06-01 15:18",
         "terrestrial": [
             {
                 "rank": "1",
@@ -18496,14 +18496,14 @@
             },
             {
                 "rank": "8",
-                "program": "KBS뉴스(12:00)",
-                "channel": "KBS1",
+                "program": "사장님귀는당나귀귀",
+                "channel": "KBS2",
                 "rate": "4"
             },
             {
                 "rank": "8",
-                "program": "사장님귀는당나귀귀",
-                "channel": "KBS2",
+                "program": "KBS뉴스(12:00)",
+                "channel": "KBS1",
                 "rate": "4"
             },
             {
@@ -18526,26 +18526,26 @@
             },
             {
                 "rank": "13",
-                "program": "황신혜의같이삽시다<재>",
-                "channel": "KBS1",
-                "rate": "2.9"
-            },
-            {
-                "rank": "13",
                 "program": "소라와진경",
                 "channel": "MBC",
                 "rate": "2.9"
             },
             {
-                "rank": "15",
-                "program": "불편해도괜찮아<재>",
+                "rank": "13",
+                "program": "황신혜의같이삽시다<재>",
                 "channel": "KBS1",
-                "rate": "2.8"
+                "rate": "2.9"
             },
             {
                 "rank": "15",
                 "program": "런닝맨",
                 "channel": "SBS",
+                "rate": "2.8"
+            },
+            {
+                "rank": "15",
+                "program": "불편해도괜찮아<재>",
+                "channel": "KBS1",
                 "rate": "2.8"
             },
             {
@@ -18568,8 +18568,8 @@
             },
             {
                 "rank": "20",
-                "program": "이슈PICK쌤과함께",
-                "channel": "KBS1",
+                "program": "살림하는남자들<재>",
+                "channel": "KBS2",
                 "rate": "2.4"
             }
         ],
