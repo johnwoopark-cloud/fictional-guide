@@ -18819,7 +18819,7 @@
         ]
     },
     "2026-06-02": {
-        "date": "2026-06-02 10:36",
+        "date": "2026-06-02 13:59",
         "terrestrial": [
             {
                 "rank": "1",
@@ -19169,13 +19169,13 @@
             },
             {
                 "rank": "18",
-                "program": "뉴스START1부",
+                "program": "뉴스퀘어2PM",
                 "channel": "YTN",
                 "rate": "0.95"
             },
             {
                 "rank": "18",
-                "program": "뉴스퀘어2PM",
+                "program": "뉴스START1부",
                 "channel": "YTN",
                 "rate": "0.95"
             },
