@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-03 10:46",
+    "date": "2026-06-03 14:14",
     "terrestrial": [
         {
             "rank": "1",
@@ -105,20 +105,20 @@
         },
         {
             "rank": "18",
+            "program": "스모킹건",
+            "channel": "KBS2",
+            "rate": "2.1"
+        },
+        {
+            "rank": "18",
             "program": "SBS8뉴스",
             "channel": "SBS",
             "rate": "2.1"
         },
         {
             "rank": "18",
-            "program": "2026지방선거방송연설",
+            "program": "무엇이든물어보세요",
             "channel": "KBS1",
-            "rate": "2.1"
-        },
-        {
-            "rank": "18",
-            "program": "2TV생생정보",
-            "channel": "KBS2",
             "rate": "2.1"
         }
     ],
