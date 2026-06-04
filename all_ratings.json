@@ -19555,5 +19555,374 @@
                 "rate": "0.89"
             }
         ]
+    },
+    "2026-06-04": {
+        "date": "2026-06-04 10:47",
+        "terrestrial": [
+            {
+                "rank": "1",
+                "program": "선택2026MBC전국동시지방선거개표방송4부",
+                "channel": "MBC",
+                "rate": "8.3"
+            },
+            {
+                "rank": "2",
+                "program": "선택2026MBC전국동시지방선거개표방송특집뉴스데스크",
+                "channel": "MBC",
+                "rate": "6.9"
+            },
+            {
+                "rank": "3",
+                "program": "KBS9시뉴스",
+                "channel": "KBS1",
+                "rate": "6.3"
+            },
+            {
+                "rank": "4",
+                "program": "붉은진주",
+                "channel": "KBS2",
+                "rate": "6.1"
+            },
+            {
+                "rank": "5",
+                "program": "선택2026MBC전국동시지방선거개표방송5부",
+                "channel": "MBC",
+                "rate": "6"
+            },
+            {
+                "rank": "6",
+                "program": "선택2026MBC전국동시지방선거개표방송2부",
+                "channel": "MBC",
+                "rate": "5.8"
+            },
+            {
+                "rank": "7",
+                "program": "아침마당",
+                "channel": "KBS1",
+                "rate": "5.7"
+            },
+            {
+                "rank": "8",
+                "program": "인간극장",
+                "channel": "KBS1",
+                "rate": "5.6"
+            },
+            {
+                "rank": "9",
+                "program": "내삶을바꾸는선택2026지방선거4부",
+                "channel": "KBS1",
+                "rate": "4.8"
+            },
+            {
+                "rank": "10",
+                "program": "KBS뉴스930",
+                "channel": "KBS1",
+                "rate": "4.4"
+            },
+            {
+                "rank": "11",
+                "program": "2026국민의선택특집SBS8뉴스",
+                "channel": "SBS",
+                "rate": "3.9"
+            },
+            {
+                "rank": "12",
+                "program": "2026국민의선택5부",
+                "channel": "SBS",
+                "rate": "3.7"
+            },
+            {
+                "rank": "13",
+                "program": "KBS뉴스광장2부",
+                "channel": "KBS1",
+                "rate": "3.5"
+            },
+            {
+                "rank": "14",
+                "program": "슈퍼맨이돌아왔다",
+                "channel": "KBS2",
+                "rate": "3.4"
+            },
+            {
+                "rank": "15",
+                "program": "내삶을바꾸는선택2026지방선거3부",
+                "channel": "KBS1",
+                "rate": "3.2"
+            },
+            {
+                "rank": "16",
+                "program": "2TV생생정보",
+                "channel": "KBS2",
+                "rate": "3.1"
+            },
+            {
+                "rank": "17",
+                "program": "선택2026MBC전국동시지방선거개표방송6부",
+                "channel": "MBC",
+                "rate": "2.9"
+            },
+            {
+                "rank": "18",
+                "program": "내삶을바꾸는선택2026지방선거2부",
+                "channel": "KBS1",
+                "rate": "2.7"
+            },
+            {
+                "rank": "19",
+                "program": "내삶을바꾸는선택2026지방선거5부",
+                "channel": "KBS1",
+                "rate": "2.6"
+            },
+            {
+                "rank": "20",
+                "program": "2026국민의선택3부",
+                "channel": "SBS",
+                "rate": "2.4"
+            }
+        ],
+        "comprehensive": [
+            {
+                "rank": "1",
+                "program": "JTBC지방선거개표방송2026우리의선택3부",
+                "channel": "JTBC",
+                "rate": "2.4"
+            },
+            {
+                "rank": "2",
+                "program": "JTBC지방선거개표방송2026우리의선택2부",
+                "channel": "JTBC",
+                "rate": "2"
+            },
+            {
+                "rank": "3",
+                "program": "JTBC지방선거개표방송2026우리의선택4부",
+                "channel": "JTBC",
+                "rate": "1.79"
+            },
+            {
+                "rank": "4",
+                "program": "나의선택2026-2부",
+                "channel": "채널A",
+                "rate": "1.46"
+            },
+            {
+                "rank": "5",
+                "program": "JTBC지방선거개표방송2026우리의선택1부",
+                "channel": "JTBC",
+                "rate": "1.38"
+            },
+            {
+                "rank": "6",
+                "program": "뉴스A",
+                "channel": "채널A",
+                "rate": "1.38"
+            },
+            {
+                "rank": "7",
+                "program": "김진의돌직구쇼",
+                "channel": "채널A",
+                "rate": "1.35"
+            },
+            {
+                "rank": "8",
+                "program": "결정2026전국동시지방선거특집TV조선뉴스9-2부",
+                "channel": "TV CHOSUN",
+                "rate": "1.28"
+            },
+            {
+                "rank": "9",
+                "program": "결정2026전국동시지방선거개표방송1부",
+                "channel": "TV CHOSUN",
+                "rate": "1.2"
+            },
+            {
+                "rank": "10",
+                "program": "나의선택2026-1부",
+                "channel": "채널A",
+                "rate": "1.19"
+            },
+            {
+                "rank": "11",
+                "program": "63지방선거특집시사쇼정치다",
+                "channel": "TV CHOSUN",
+                "rate": "1.18"
+            },
+            {
+                "rank": "12",
+                "program": "결정2026전국동시지방선거개표방송3부",
+                "channel": "TV CHOSUN",
+                "rate": "1.01"
+            },
+            {
+                "rank": "13",
+                "program": "뉴스ALIVE",
+                "channel": "채널A",
+                "rate": "1.01"
+            },
+            {
+                "rank": "14",
+                "program": "JTBC지방선거개표방송2026우리의선택5부",
+                "channel": "JTBC",
+                "rate": "1"
+            },
+            {
+                "rank": "15",
+                "program": "속풀이쇼동치미<재>",
+                "channel": "MBN",
+                "rate": "0.98"
+            },
+            {
+                "rank": "16",
+                "program": "63지방선거특집보도본부핫라인",
+                "channel": "TV CHOSUN",
+                "rate": "0.94"
+            },
+            {
+                "rank": "17",
+                "program": "63지방선거특집TV조선뉴스퍼레이드",
+                "channel": "TV CHOSUN",
+                "rate": "0.88"
+            },
+            {
+                "rank": "18",
+                "program": "63지방선거특집신통방통",
+                "channel": "TV CHOSUN",
+                "rate": "0.86"
+            },
+            {
+                "rank": "19",
+                "program": "뉴스TOP10",
+                "channel": "채널A",
+                "rate": "0.79"
+            },
+            {
+                "rank": "20",
+                "program": "나의선택2026-3부",
+                "channel": "채널A",
+                "rate": "0.76"
+            }
+        ],
+        "cable": [
+            {
+                "rank": "1",
+                "program": "나는SOLO",
+                "channel": "ENA",
+                "rate": "1.99"
+            },
+            {
+                "rank": "2",
+                "program": "티빙오리지널취사병전설이되다",
+                "channel": "tvN",
+                "rate": "1.98"
+            },
+            {
+                "rank": "3",
+                "program": "티빙오리지널취사병전설이되다",
+                "channel": "tvN",
+                "rate": "1.94"
+            },
+            {
+                "rank": "4",
+                "program": "2026KBO리그",
+                "channel": "KBSN스포츠",
+                "rate": "1.91"
+            },
+            {
+                "rank": "5",
+                "program": "2026KBO리그",
+                "channel": "MBC SPORTS+",
+                "rate": "1.87"
+            },
+            {
+                "rank": "6",
+                "program": "유퀴즈온더블럭국민이선택한자기님들특집",
+                "channel": "tvN",
+                "rate": "1.76"
+            },
+            {
+                "rank": "7",
+                "program": "나는SOLO",
+                "channel": "SBS Plus",
+                "rate": "1.66"
+            },
+            {
+                "rank": "8",
+                "program": "티빙오리지널취사병전설이되다",
+                "channel": "tvN",
+                "rate": "1.62"
+            },
+            {
+                "rank": "9",
+                "program": "2026KBO리그",
+                "channel": "SBS Sports",
+                "rate": "1.27"
+            },
+            {
+                "rank": "10",
+                "program": "민심2026",
+                "channel": "YTN",
+                "rate": "1.21"
+            },
+            {
+                "rank": "11",
+                "program": "벌거벗은세계사",
+                "channel": "tvN STORY",
+                "rate": "1.19"
+            },
+            {
+                "rank": "12",
+                "program": "민심2026",
+                "channel": "YTN",
+                "rate": "1.16"
+            },
+            {
+                "rank": "13",
+                "program": "민심2026",
+                "channel": "YTN",
+                "rate": "1.13"
+            },
+            {
+                "rank": "14",
+                "program": "영자와세리의남겨서뭐하게",
+                "channel": "tvN",
+                "rate": "1.09"
+            },
+            {
+                "rank": "15",
+                "program": "지방선거2026선택우리의내일",
+                "channel": "연합뉴스TV",
+                "rate": "1.08"
+            },
+            {
+                "rank": "16",
+                "program": "민심2026",
+                "channel": "YTN",
+                "rate": "1.07"
+            },
+            {
+                "rank": "17",
+                "program": "이호선상담소관계VS전쟁",
+                "channel": "tvN STORY",
+                "rate": "0.99"
+            },
+            {
+                "rank": "18",
+                "program": "지방선거2026선택우리의내일",
+                "channel": "연합뉴스TV",
+                "rate": "0.98"
+            },
+            {
+                "rank": "19",
+                "program": "닥터섬보이",
+                "channel": "ENA",
+                "rate": "0.98"
+            },
+            {
+                "rank": "20",
+                "program": "티빙오리지널취사병전설이되다",
+                "channel": "tvN",
+                "rate": "0.97"
+            }
+        ]
     }
 }
