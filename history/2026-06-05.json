@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-05 13:45",
+    "date": "2026-06-05 14:48",
     "terrestrial": [
         {
             "rank": "1",
@@ -99,6 +99,12 @@
         },
         {
             "rank": "17",
+            "program": "인간극장",
+            "channel": "KBS1",
+            "rate": "2.3"
+        },
+        {
+            "rank": "17",
             "program": "특별대담63민심의선택향후정국은",
             "channel": "KBS1",
             "rate": "2.3"
@@ -110,15 +116,9 @@
             "rate": "2.3"
         },
         {
-            "rank": "17",
-            "program": "인간극장",
-            "channel": "KBS1",
-            "rate": "2.3"
-        },
-        {
             "rank": "20",
-            "program": "꼬리에꼬리를무는그날이야기",
-            "channel": "SBS",
+            "program": "구해줘홈즈",
+            "channel": "MBC",
             "rate": "2.2"
         }
     ],
