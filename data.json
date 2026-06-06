@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-06 09:19",
+    "date": "2026-06-06 13:18",
     "terrestrial": [
         {
             "rank": "1",
@@ -33,12 +33,6 @@
         },
         {
             "rank": "6",
-            "program": "오십프로",
-            "channel": "MBC",
-            "rate": "4.8"
-        },
-        {
-            "rank": "6",
             "program": "첫번째남자",
             "channel": "MBC",
             "rate": "4.8"
@@ -46,6 +40,12 @@
         {
             "rank": "6",
             "program": "MBC뉴스데스크",
+            "channel": "MBC",
+            "rate": "4.8"
+        },
+        {
+            "rank": "6",
+            "program": "오십프로",
             "channel": "MBC",
             "rate": "4.8"
         },
