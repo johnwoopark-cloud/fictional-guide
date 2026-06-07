@@ -20664,7 +20664,7 @@
         ]
     },
     "2026-06-07": {
-        "date": "2026-06-07 13:54",
+        "date": "2026-06-07 14:52",
         "terrestrial": [
             {
                 "rank": "1",
@@ -20716,13 +20716,13 @@
             },
             {
                 "rank": "9",
-                "program": "KBS뉴스(09:30)",
+                "program": "시니어토크쇼황금연못",
                 "channel": "KBS1",
                 "rate": "4"
             },
             {
                 "rank": "9",
-                "program": "시니어토크쇼황금연못",
+                "program": "KBS뉴스(09:30)",
                 "channel": "KBS1",
                 "rate": "4"
             },
@@ -20746,13 +20746,13 @@
             },
             {
                 "rank": "14",
-                "program": "남북의창",
+                "program": "특파원보고세계는지금",
                 "channel": "KBS1",
                 "rate": "3.6"
             },
             {
                 "rank": "14",
-                "program": "특파원보고세계는지금",
+                "program": "남북의창",
                 "channel": "KBS1",
                 "rate": "3.6"
             },
