@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-08 13:59",
+    "date": "2026-06-08 15:07",
     "terrestrial": [
         {
             "rank": "1",
@@ -51,13 +51,13 @@
         },
         {
             "rank": "9",
-            "program": "MBC뉴스데스크",
+            "program": "MBC스포츠KBO리그(삼성:KIA)",
             "channel": "MBC",
             "rate": "3.4"
         },
         {
             "rank": "9",
-            "program": "MBC스포츠KBO리그(삼성:KIA)",
+            "program": "MBC뉴스데스크",
             "channel": "MBC",
             "rate": "3.4"
         },
@@ -75,14 +75,14 @@
         },
         {
             "rank": "13",
-            "program": "탐사기획스트레이트",
-            "channel": "MBC",
+            "program": "살림하는남자들<재>",
+            "channel": "KBS2",
             "rate": "2.9"
         },
         {
             "rank": "13",
-            "program": "살림하는남자들<재>",
-            "channel": "KBS2",
+            "program": "탐사기획스트레이트",
+            "channel": "MBC",
             "rate": "2.9"
         },
         {
