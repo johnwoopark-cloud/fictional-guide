@@ -22509,7 +22509,7 @@
         ]
     },
     "2026-06-12": {
-        "date": "2026-06-12 10:39",
+        "date": "2026-06-12 14:01",
         "terrestrial": [
             {
                 "rank": "1",
@@ -22591,13 +22591,13 @@
             },
             {
                 "rank": "14",
-                "program": "KBS뉴스930",
+                "program": "KBS뉴스광장1부",
                 "channel": "KBS1",
                 "rate": "2.7"
             },
             {
                 "rank": "14",
-                "program": "KBS뉴스광장1부",
+                "program": "KBS뉴스930",
                 "channel": "KBS1",
                 "rate": "2.7"
             },
@@ -22609,14 +22609,14 @@
             },
             {
                 "rank": "17",
-                "program": "SBS8뉴스",
-                "channel": "SBS",
+                "program": "신상출시편스토랑",
+                "channel": "KBS2",
                 "rate": "2.3"
             },
             {
                 "rank": "17",
-                "program": "신상출시편스토랑",
-                "channel": "KBS2",
+                "program": "SBS8뉴스",
+                "channel": "SBS",
                 "rate": "2.3"
             },
             {
