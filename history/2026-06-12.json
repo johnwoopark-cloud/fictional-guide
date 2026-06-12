@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-12 14:01",
+    "date": "2026-06-12 15:01",
     "terrestrial": [
         {
             "rank": "1",
@@ -81,13 +81,13 @@
         },
         {
             "rank": "14",
-            "program": "KBS뉴스광장1부",
+            "program": "KBS뉴스930",
             "channel": "KBS1",
             "rate": "2.7"
         },
         {
             "rank": "14",
-            "program": "KBS뉴스930",
+            "program": "KBS뉴스광장1부",
             "channel": "KBS1",
             "rate": "2.7"
         },
