@@ -23616,7 +23616,7 @@
         ]
     },
     "2026-06-15": {
-        "date": "2026-06-15 14:26",
+        "date": "2026-06-15 15:37",
         "terrestrial": [
             {
                 "rank": "1",
@@ -23716,14 +23716,14 @@
             },
             {
                 "rank": "17",
-                "program": "런닝맨",
-                "channel": "SBS",
+                "program": "역사스페셜시간여행자",
+                "channel": "KBS1",
                 "rate": "2.7"
             },
             {
                 "rank": "17",
-                "program": "역사스페셜시간여행자",
-                "channel": "KBS1",
+                "program": "런닝맨",
+                "channel": "SBS",
                 "rate": "2.7"
             },
             {
@@ -23734,8 +23734,8 @@
             },
             {
                 "rank": "20",
-                "program": "특파원보고세계는지금<재>",
-                "channel": "KBS1",
+                "program": "FIFAWORLDCUP2026(예선아이티:스코틀랜드)",
+                "channel": "KBS2",
                 "rate": "2.5"
             }
         ],
