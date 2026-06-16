@@ -23985,7 +23985,7 @@
         ]
     },
     "2026-06-16": {
-        "date": "2026-06-16 10:46",
+        "date": "2026-06-16 14:30",
         "terrestrial": [
             {
                 "rank": "1",
@@ -24055,14 +24055,14 @@
             },
             {
                 "rank": "12",
-                "program": "KBS뉴스7",
-                "channel": "KBS1",
+                "program": "SBS8뉴스",
+                "channel": "SBS",
                 "rate": "3.5"
             },
             {
                 "rank": "12",
-                "program": "SBS8뉴스",
-                "channel": "SBS",
+                "program": "KBS뉴스7",
+                "channel": "KBS1",
                 "rate": "3.5"
             },
             {
@@ -24293,14 +24293,14 @@
             },
             {
                 "rank": "11",
-                "program": "뉴스START2부",
-                "channel": "YTN",
+                "program": "신입사원강회장<재>",
+                "channel": "JTBC2",
                 "rate": "0.99"
             },
             {
                 "rank": "11",
-                "program": "신입사원강회장<재>",
-                "channel": "JTBC2",
+                "program": "뉴스START2부",
+                "channel": "YTN",
                 "rate": "0.99"
             },
             {
