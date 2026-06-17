@@ -24354,7 +24354,7 @@
         ]
     },
     "2026-06-17": {
-        "date": "2026-06-17 10:41",
+        "date": "2026-06-17 14:14",
         "terrestrial": [
             {
                 "rank": "1",
@@ -24424,8 +24424,8 @@
             },
             {
                 "rank": "12",
-                "program": "동상이몽2너는내운명",
-                "channel": "SBS",
+                "program": "이웃집찰스",
+                "channel": "KBS1",
                 "rate": "2.9"
             },
             {
@@ -24436,8 +24436,8 @@
             },
             {
                 "rank": "12",
-                "program": "이웃집찰스",
-                "channel": "KBS1",
+                "program": "동상이몽2너는내운명",
+                "channel": "SBS",
                 "rate": "2.9"
             },
             {
@@ -24454,7 +24454,13 @@
             },
             {
                 "rank": "17",
-                "program": "셀럽들의은밀한생로병사셀럽병사의비밀",
+                "program": "PD수첩",
+                "channel": "MBC",
+                "rate": "2.2"
+            },
+            {
+                "rank": "17",
+                "program": "2TV생생정보",
                 "channel": "KBS2",
                 "rate": "2.2"
             },
@@ -24466,14 +24472,8 @@
             },
             {
                 "rank": "17",
-                "program": "2TV생생정보",
+                "program": "셀럽들의은밀한생로병사셀럽병사의비밀",
                 "channel": "KBS2",
-                "rate": "2.2"
-            },
-            {
-                "rank": "17",
-                "program": "PD수첩",
-                "channel": "MBC",
                 "rate": "2.2"
             }
         ],
