@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-17 14:14",
+    "date": "2026-06-17 15:26",
     "terrestrial": [
         {
             "rank": "1",
@@ -99,18 +99,6 @@
         },
         {
             "rank": "17",
-            "program": "PD수첩",
-            "channel": "MBC",
-            "rate": "2.2"
-        },
-        {
-            "rank": "17",
-            "program": "2TV생생정보",
-            "channel": "KBS2",
-            "rate": "2.2"
-        },
-        {
-            "rank": "17",
             "program": "법륜로드스님과손님",
             "channel": "SBS",
             "rate": "2.2"
@@ -120,128 +108,140 @@
             "program": "셀럽들의은밀한생로병사셀럽병사의비밀",
             "channel": "KBS2",
             "rate": "2.2"
+        },
+        {
+            "rank": "17",
+            "program": "PD수첩",
+            "channel": "MBC",
+            "rate": "2.2"
+        },
+        {
+            "rank": "17",
+            "program": "2TV생생정보",
+            "channel": "KBS2",
+            "rate": "2.2"
         }
     ],
     "comprehensive": [
         {
             "rank": "1",
-            "program": "JTBC뉴스룸",
-            "channel": "JTBC",
-            "rate": "2.67"
-        },
-        {
-            "rank": "2",
-            "program": "히든싱어8",
-            "channel": "JTBC",
-            "rate": "2.49"
-        },
-        {
-            "rank": "3",
-            "program": "TV조선뉴스9",
+            "program": "TV조선재난특집",
             "channel": "TV CHOSUN",
-            "rate": "2.14"
+            "rate": "0"
         },
         {
-            "rank": "4",
-            "program": "사건반장",
-            "channel": "JTBC",
-            "rate": "2.03"
-        },
-        {
-            "rank": "5",
-            "program": "남의집귀한가족1부",
-            "channel": "MBN",
-            "rate": "1.75"
-        },
-        {
-            "rank": "6",
-            "program": "보도본부핫라인",
+            "rank": "1",
+            "program": "시사팩트오늘",
             "channel": "TV CHOSUN",
-            "rate": "1.75"
+            "rate": "0"
         },
         {
-            "rank": "7",
-            "program": "남의집귀한가족2부",
-            "channel": "MBN",
-            "rate": "1.62"
+            "rank": "1",
+            "program": "조선의사랑꾼<재>",
+            "channel": "TV CHOSUN",
+            "rate": "0"
         },
         {
-            "rank": "8",
-            "program": "뉴스파이터",
-            "channel": "MBN",
-            "rate": "1.54"
-        },
-        {
-            "rank": "9",
-            "program": "MBN뉴스와이드",
-            "channel": "MBN",
-            "rate": "1.51"
-        },
-        {
-            "rank": "10",
-            "program": "이시각월드컵",
-            "channel": "JTBC",
-            "rate": "1.44"
-        },
-        {
-            "rank": "11",
-            "program": "2026FIFA북중미월드컵(예선이란:뉴질랜드)",
-            "channel": "JTBC",
-            "rate": "1.43"
-        },
-        {
-            "rank": "12",
-            "program": "김진의돌직구쇼",
+            "rank": "1",
+            "program": "뉴스ACITYLIVE",
             "channel": "채널A",
-            "rate": "1.41"
+            "rate": "0"
         },
         {
-            "rank": "13",
-            "program": "신입사원강회장<재>",
-            "channel": "JTBC",
-            "rate": "1.39"
+            "rank": "1",
+            "program": "명의보감닥터스",
+            "channel": "TV CHOSUN",
+            "rate": "0"
         },
         {
-            "rank": "14",
-            "program": "뉴스TOP10",
+            "rank": "1",
+            "program": "요즘육아금쪽같은내새끼<재>",
             "channel": "채널A",
-            "rate": "1.34"
+            "rate": "0"
         },
         {
-            "rank": "15",
-            "program": "2026FIFA북중미월드컵(예선사우디아라비아:우루과이)",
-            "channel": "JTBC",
-            "rate": "1.33"
-        },
-        {
-            "rank": "16",
-            "program": "뉴스A",
-            "channel": "채널A",
-            "rate": "1.31"
-        },
-        {
-            "rank": "17",
-            "program": "MBN뉴스7",
-            "channel": "MBN",
-            "rate": "1.25"
-        },
-        {
-            "rank": "18",
-            "program": "아침엔매일경제",
-            "channel": "MBN",
-            "rate": "1.11"
-        },
-        {
-            "rank": "19",
-            "program": "2026FIFA북중미월드컵매치하이라이트",
-            "channel": "JTBC",
-            "rate": "1.11"
-        },
-        {
-            "rank": "20",
+            "rank": "1",
             "program": "이가혁라이브",
             "channel": "JTBC",
-            "rate": "1.07"
+            "rate": "0"
+        },
+        {
+            "rank": "1",
+            "program": "2026FIFA북중미월드컵오늘의월드컵",
+            "channel": "JTBC",
+            "rate": "0"
+        },
+        {
+            "rank": "1",
+            "program": "프레스룸LIVE",
+            "channel": "MBN",
+            "rate": "0"
+        },
+        {
+            "rank": "1",
+            "program": "엄지의제왕스페셜",
+            "channel": "MBN",
+            "rate": "0"
+        },
+        {
+            "rank": "1",
+            "program": "탐정들의영업비밀스페셜<재>",
+            "channel": "채널A",
+            "rate": "0"
+        },
+        {
+            "rank": "1",
+            "program": "MBN뉴스7",
+            "channel": "MBN",
+            "rate": "0"
+        },
+        {
+            "rank": "1",
+            "program": "TV조선건강다큐(태워야빠진다지방타는골든타임의비밀)<재>",
+            "channel": "TV CHOSUN",
+            "rate": "0"
+        },
+        {
+            "rank": "1",
+            "program": "생존왕2베스트",
+            "channel": "TV CHOSUN",
+            "rate": "0"
+        },
+        {
+            "rank": "1",
+            "program": "신입사원강회장<재>",
+            "channel": "JTBC",
+            "rate": "0"
+        },
+        {
+            "rank": "1",
+            "program": "2026FIFA북중미월드컵특집차박로드",
+            "channel": "JTBC",
+            "rate": "0"
+        },
+        {
+            "rank": "1",
+            "program": "히든싱어8",
+            "channel": "JTBC",
+            "rate": "0"
+        },
+        {
+            "rank": "1",
+            "program": "채널A화재대응방송<재>",
+            "channel": "채널A",
+            "rate": "0"
+        },
+        {
+            "rank": "1",
+            "program": "휴먼다큐(사노라면)<재>",
+            "channel": "MBN",
+            "rate": "0"
+        },
+        {
+            "rank": "1",
+            "program": "MBN뉴스와이드",
+            "channel": "MBN",
+            "rate": "0"
         }
     ],
     "cable": [
