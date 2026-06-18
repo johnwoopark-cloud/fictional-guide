@@ -24723,7 +24723,7 @@
         ]
     },
     "2026-06-18": {
-        "date": "2026-06-18 14:00",
+        "date": "2026-06-18 15:10",
         "terrestrial": [
             {
                 "rank": "1",
@@ -24787,25 +24787,25 @@
             },
             {
                 "rank": "11",
-                "program": "황금어장라디오스타",
-                "channel": "MBC",
-                "rate": "3.2"
-            },
-            {
-                "rank": "11",
                 "program": "KBS뉴스930",
                 "channel": "KBS1",
                 "rate": "3.2"
             },
             {
+                "rank": "11",
+                "program": "황금어장라디오스타",
+                "channel": "MBC",
+                "rate": "3.2"
+            },
+            {
                 "rank": "13",
-                "program": "골때리는그녀들체육대회",
+                "program": "SBS8뉴스",
                 "channel": "SBS",
                 "rate": "3.1"
             },
             {
                 "rank": "13",
-                "program": "SBS8뉴스",
+                "program": "골때리는그녀들체육대회",
                 "channel": "SBS",
                 "rate": "3.1"
             },
@@ -25049,14 +25049,14 @@
             },
             {
                 "rank": "14",
-                "program": "라이브투데이1부",
-                "channel": "연합뉴스TV",
+                "program": "영자와세리의남겨서뭐하게",
+                "channel": "tvN",
                 "rate": "1.01"
             },
             {
                 "rank": "14",
-                "program": "영자와세리의남겨서뭐하게",
-                "channel": "tvN",
+                "program": "라이브투데이1부",
+                "channel": "연합뉴스TV",
                 "rate": "1.01"
             },
             {
