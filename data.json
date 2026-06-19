@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-19 14:22",
+    "date": "2026-06-19 15:31",
     "terrestrial": [
         {
             "rank": "1",
@@ -81,14 +81,14 @@
         },
         {
             "rank": "14",
-            "program": "꼬리에꼬리를무는그날이야기",
-            "channel": "SBS",
+            "program": "KBS뉴스광장1부",
+            "channel": "KBS1",
             "rate": "2.6"
         },
         {
             "rank": "14",
-            "program": "KBS뉴스광장1부",
-            "channel": "KBS1",
+            "program": "꼬리에꼬리를무는그날이야기",
+            "channel": "SBS",
             "rate": "2.6"
         },
         {
@@ -111,14 +111,14 @@
         },
         {
             "rank": "19",
-            "program": "모닝와이드3부",
-            "channel": "SBS",
+            "program": "북중미월드컵NOW",
+            "channel": "KBS2",
             "rate": "2"
         },
         {
             "rank": "19",
-            "program": "북중미월드컵NOW",
-            "channel": "KBS2",
+            "program": "모닝와이드3부",
+            "channel": "SBS",
             "rate": "2"
         }
     ],
@@ -301,14 +301,14 @@
         },
         {
             "rank": "10",
-            "program": "2026KBO리그",
-            "channel": "KBSN스포츠",
+            "program": "뉴스START2부",
+            "channel": "YTN",
             "rate": "1"
         },
         {
             "rank": "10",
-            "program": "뉴스START2부",
-            "channel": "YTN",
+            "program": "2026KBO리그",
+            "channel": "KBSN스포츠",
             "rate": "1"
         },
         {
