@@ -25461,7 +25461,7 @@
         ]
     },
     "2026-06-20": {
-        "date": "2026-06-20 13:39",
+        "date": "2026-06-20 14:43",
         "terrestrial": [
             {
                 "rank": "1",
@@ -25519,14 +25519,14 @@
             },
             {
                 "rank": "10",
-                "program": "궁금한이야기Y",
-                "channel": "SBS",
+                "program": "FIFAWORLDCUP2026(예선캐나다:카타르)",
+                "channel": "KBS1",
                 "rate": "4"
             },
             {
                 "rank": "10",
-                "program": "FIFAWORLDCUP2026(예선캐나다:카타르)",
-                "channel": "KBS1",
+                "program": "궁금한이야기Y",
+                "channel": "SBS",
                 "rate": "4"
             },
             {
@@ -25567,20 +25567,20 @@
             },
             {
                 "rank": "18",
-                "program": "KBS뉴스5",
-                "channel": "KBS1",
-                "rate": "2.3"
-            },
-            {
-                "rank": "18",
                 "program": "동물의왕국",
                 "channel": "KBS1",
                 "rate": "2.3"
             },
             {
+                "rank": "18",
+                "program": "KBS뉴스5",
+                "channel": "KBS1",
+                "rate": "2.3"
+            },
+            {
                 "rank": "20",
-                "program": "모닝와이드3부",
-                "channel": "SBS",
+                "program": "FIFAWORLDCUP2026하이라이트",
+                "channel": "KBS2",
                 "rate": "2.2"
             }
         ],
@@ -25745,14 +25745,14 @@
             },
             {
                 "rank": "7",
-                "program": "뉴스START2부",
-                "channel": "YTN",
+                "program": "라이브투데이1부",
+                "channel": "연합뉴스TV",
                 "rate": "1.13"
             },
             {
                 "rank": "7",
-                "program": "라이브투데이1부",
-                "channel": "연합뉴스TV",
+                "program": "뉴스START2부",
+                "channel": "YTN",
                 "rate": "1.13"
             },
             {
@@ -25763,14 +25763,14 @@
             },
             {
                 "rank": "10",
-                "program": "2026KBO리그",
-                "channel": "SPOTV2",
+                "program": "오십프로",
+                "channel": "MBC드라마넷",
                 "rate": "1"
             },
             {
                 "rank": "10",
-                "program": "오십프로",
-                "channel": "MBC드라마넷",
+                "program": "2026KBO리그",
+                "channel": "SPOTV2",
                 "rate": "1"
             },
             {
