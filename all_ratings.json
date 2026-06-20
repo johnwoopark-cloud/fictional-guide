@@ -25461,7 +25461,7 @@
         ]
     },
     "2026-06-20": {
-        "date": "2026-06-20 09:19",
+        "date": "2026-06-20 13:39",
         "terrestrial": [
             {
                 "rank": "1",
@@ -25519,6 +25519,12 @@
             },
             {
                 "rank": "10",
+                "program": "궁금한이야기Y",
+                "channel": "SBS",
+                "rate": "4"
+            },
+            {
+                "rank": "10",
                 "program": "FIFAWORLDCUP2026(예선캐나다:카타르)",
                 "channel": "KBS1",
                 "rate": "4"
@@ -25527,12 +25533,6 @@
                 "rank": "10",
                 "program": "인간극장",
                 "channel": "KBS1",
-                "rate": "4"
-            },
-            {
-                "rank": "10",
-                "program": "궁금한이야기Y",
-                "channel": "SBS",
                 "rate": "4"
             },
             {
@@ -25567,20 +25567,20 @@
             },
             {
                 "rank": "18",
-                "program": "동물의왕국",
-                "channel": "KBS1",
-                "rate": "2.3"
-            },
-            {
-                "rank": "18",
                 "program": "KBS뉴스5",
                 "channel": "KBS1",
                 "rate": "2.3"
             },
             {
-                "rank": "20",
-                "program": "생활의발견스페셜<재>",
+                "rank": "18",
+                "program": "동물의왕국",
                 "channel": "KBS1",
+                "rate": "2.3"
+            },
+            {
+                "rank": "20",
+                "program": "모닝와이드3부",
+                "channel": "SBS",
                 "rate": "2.2"
             }
         ],
