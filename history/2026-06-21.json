@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-21 14:16",
+    "date": "2026-06-21 15:18",
     "terrestrial": [
         {
             "rank": "1",
@@ -45,14 +45,14 @@
         },
         {
             "rank": "8",
-            "program": "MBC뉴스데스크",
-            "channel": "MBC",
+            "program": "시니어토크쇼황금연못",
+            "channel": "KBS1",
             "rate": "4.2"
         },
         {
             "rank": "8",
-            "program": "시니어토크쇼황금연못",
-            "channel": "KBS1",
+            "program": "MBC뉴스데스크",
+            "channel": "MBC",
             "rate": "4.2"
         },
         {
@@ -69,14 +69,14 @@
         },
         {
             "rank": "12",
-            "program": "놀면뭐하니",
-            "channel": "MBC",
+            "program": "특파원보고세계는지금",
+            "channel": "KBS1",
             "rate": "3.6"
         },
         {
             "rank": "12",
-            "program": "특파원보고세계는지금",
-            "channel": "KBS1",
+            "program": "놀면뭐하니",
+            "channel": "MBC",
             "rate": "3.6"
         },
         {
@@ -105,20 +105,20 @@
         },
         {
             "rank": "18",
-            "program": "전지적참견시점",
-            "channel": "MBC",
-            "rate": "3"
-        },
-        {
-            "rank": "18",
             "program": "팔도밥상",
             "channel": "KBS1",
             "rate": "3"
         },
         {
+            "rank": "18",
+            "program": "전지적참견시점",
+            "channel": "MBC",
+            "rate": "3"
+        },
+        {
             "rank": "20",
-            "program": "동행",
-            "channel": "KBS1",
+            "program": "나혼자산다스페셜",
+            "channel": "MBC",
             "rate": "2.9"
         }
     ],
