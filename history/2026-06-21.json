@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-21 09:21",
+    "date": "2026-06-21 14:16",
     "terrestrial": [
         {
             "rank": "1",
@@ -87,14 +87,14 @@
         },
         {
             "rank": "15",
-            "program": "KBS뉴스광장2부",
-            "channel": "KBS1",
+            "program": "멋진신세계<재>",
+            "channel": "SBS",
             "rate": "3.4"
         },
         {
             "rank": "15",
-            "program": "멋진신세계<재>",
-            "channel": "SBS",
+            "program": "KBS뉴스광장2부",
+            "channel": "KBS1",
             "rate": "3.4"
         },
         {
@@ -117,8 +117,8 @@
         },
         {
             "rank": "20",
-            "program": "나혼자산다스페셜",
-            "channel": "MBC",
+            "program": "동행",
+            "channel": "KBS1",
             "rate": "2.9"
         }
     ],
