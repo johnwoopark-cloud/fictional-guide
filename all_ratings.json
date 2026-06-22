@@ -26199,7 +26199,7 @@
         ]
     },
     "2026-06-22": {
-        "date": "2026-06-22 14:28",
+        "date": "2026-06-22 15:40",
         "terrestrial": [
             {
                 "rank": "1",
@@ -26275,6 +26275,12 @@
             },
             {
                 "rank": "13",
+                "program": "동네한바퀴<재>",
+                "channel": "KBS1",
+                "rate": "2.9"
+            },
+            {
+                "rank": "13",
                 "program": "역사스페셜시간여행자",
                 "channel": "KBS1",
                 "rate": "2.9"
@@ -26286,12 +26292,6 @@
                 "rate": "2.9"
             },
             {
-                "rank": "13",
-                "program": "동네한바퀴<재>",
-                "channel": "KBS1",
-                "rate": "2.9"
-            },
-            {
                 "rank": "16",
                 "program": "FIFAWORLDCUP2026(예선튀니지:일본)",
                 "channel": "KBS2",
@@ -26299,7 +26299,7 @@
             },
             {
                 "rank": "17",
-                "program": "MBC스포츠KBO리그(삼성:한화)",
+                "program": "출발비디오여행",
                 "channel": "MBC",
                 "rate": "2.6"
             },
@@ -26311,14 +26311,14 @@
             },
             {
                 "rank": "17",
-                "program": "출발비디오여행",
+                "program": "MBC스포츠KBO리그(삼성:한화)",
                 "channel": "MBC",
                 "rate": "2.6"
             },
             {
                 "rank": "20",
-                "program": "TV쇼진품명품",
-                "channel": "KBS1",
+                "program": "김부장리포트전설의부활",
+                "channel": "SBS",
                 "rate": "2.5"
             }
         ],
