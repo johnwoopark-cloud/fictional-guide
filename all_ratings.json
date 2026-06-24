@@ -26937,7 +26937,7 @@
         ]
     },
     "2026-06-24": {
-        "date": "2026-06-24 13:33",
+        "date": "2026-06-24 14:11",
         "terrestrial": [
             {
                 "rank": "1",
@@ -26971,14 +26971,14 @@
             },
             {
                 "rank": "6",
-                "program": "아침마당",
-                "channel": "KBS1",
+                "program": "MBC뉴스데스크",
+                "channel": "MBC",
                 "rate": "4.9"
             },
             {
                 "rank": "6",
-                "program": "MBC뉴스데스크",
-                "channel": "MBC",
+                "program": "아침마당",
+                "channel": "KBS1",
                 "rate": "4.9"
             },
             {
@@ -27019,14 +27019,14 @@
             },
             {
                 "rank": "14",
-                "program": "2TV생생정보",
-                "channel": "KBS2",
+                "program": "시사기획창",
+                "channel": "KBS1",
                 "rate": "2.6"
             },
             {
                 "rank": "14",
-                "program": "시사기획창",
-                "channel": "KBS1",
+                "program": "2TV생생정보",
+                "channel": "KBS2",
                 "rate": "2.6"
             },
             {
@@ -27055,7 +27055,7 @@
             },
             {
                 "rank": "20",
-                "program": "뉴스라인W",
+                "program": "무엇이든물어보세요",
                 "channel": "KBS1",
                 "rate": "1.7"
             }
