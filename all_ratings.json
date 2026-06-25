@@ -27306,7 +27306,7 @@
         ]
     },
     "2026-06-25": {
-        "date": "2026-06-25 10:26",
+        "date": "2026-06-25 13:32",
         "terrestrial": [
             {
                 "rank": "1",
@@ -27388,13 +27388,13 @@
             },
             {
                 "rank": "14",
-                "program": "KBS뉴스930",
+                "program": "KBS뉴스7",
                 "channel": "KBS1",
                 "rate": "2.7"
             },
             {
                 "rank": "14",
-                "program": "KBS뉴스7",
+                "program": "KBS뉴스930",
                 "channel": "KBS1",
                 "rate": "2.7"
             },
@@ -27424,7 +27424,7 @@
             },
             {
                 "rank": "20",
-                "program": "KBS뉴스5",
+                "program": "무엇이든물어보세요",
                 "channel": "KBS1",
                 "rate": "1.9"
             }
