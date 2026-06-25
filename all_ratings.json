@@ -27306,7 +27306,7 @@
         ]
     },
     "2026-06-25": {
-        "date": "2026-06-25 13:32",
+        "date": "2026-06-25 14:15",
         "terrestrial": [
             {
                 "rank": "1",
@@ -27316,14 +27316,14 @@
             },
             {
                 "rank": "2",
-                "program": "붉은진주",
-                "channel": "KBS2",
+                "program": "KBS9시뉴스",
+                "channel": "KBS1",
                 "rate": "7.2"
             },
             {
                 "rank": "2",
-                "program": "KBS9시뉴스",
-                "channel": "KBS1",
+                "program": "붉은진주",
+                "channel": "KBS2",
                 "rate": "7.2"
             },
             {
@@ -27388,13 +27388,13 @@
             },
             {
                 "rank": "14",
-                "program": "KBS뉴스7",
+                "program": "KBS뉴스930",
                 "channel": "KBS1",
                 "rate": "2.7"
             },
             {
                 "rank": "14",
-                "program": "KBS뉴스930",
+                "program": "KBS뉴스7",
                 "channel": "KBS1",
                 "rate": "2.7"
             },
@@ -27406,14 +27406,14 @@
             },
             {
                 "rank": "17",
-                "program": "골때리는그녀들체육대회",
-                "channel": "SBS",
+                "program": "황신혜의같이삽시다",
+                "channel": "KBS1",
                 "rate": "2.4"
             },
             {
                 "rank": "17",
-                "program": "황신혜의같이삽시다",
-                "channel": "KBS1",
+                "program": "골때리는그녀들체육대회",
+                "channel": "SBS",
                 "rate": "2.4"
             },
             {
@@ -27424,7 +27424,7 @@
             },
             {
                 "rank": "20",
-                "program": "무엇이든물어보세요",
+                "program": "KBS뉴스5",
                 "channel": "KBS1",
                 "rate": "1.9"
             }
