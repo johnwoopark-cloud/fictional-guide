@@ -28044,7 +28044,7 @@
         ]
     },
     "2026-06-27": {
-        "date": "2026-06-27 13:14",
+        "date": "2026-06-27 14:03",
         "terrestrial": [
             {
                 "rank": "1",
@@ -28066,12 +28066,6 @@
             },
             {
                 "rank": "4",
-                "program": "첫번째남자",
-                "channel": "MBC",
-                "rate": "6"
-            },
-            {
-                "rank": "4",
                 "program": "오십프로",
                 "channel": "MBC",
                 "rate": "6"
@@ -28079,6 +28073,12 @@
             {
                 "rank": "4",
                 "program": "나혼자산다",
+                "channel": "MBC",
+                "rate": "6"
+            },
+            {
+                "rank": "4",
+                "program": "첫번째남자",
                 "channel": "MBC",
                 "rate": "6"
             },
