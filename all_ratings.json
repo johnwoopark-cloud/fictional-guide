@@ -28413,7 +28413,7 @@
         ]
     },
     "2026-06-28": {
-        "date": "2026-06-28 09:13",
+        "date": "2026-06-28 13:47",
         "terrestrial": [
             {
                 "rank": "1",
@@ -28477,13 +28477,13 @@
             },
             {
                 "rank": "11",
-                "program": "동네한바퀴",
+                "program": "특파원보고세계는지금",
                 "channel": "KBS1",
                 "rate": "4"
             },
             {
                 "rank": "11",
-                "program": "특파원보고세계는지금",
+                "program": "동네한바퀴",
                 "channel": "KBS1",
                 "rate": "4"
             },
@@ -28513,14 +28513,14 @@
             },
             {
                 "rank": "17",
-                "program": "전지적참견시점",
-                "channel": "MBC",
+                "program": "걸어서세계속으로",
+                "channel": "KBS1",
                 "rate": "3"
             },
             {
                 "rank": "17",
-                "program": "걸어서세계속으로",
-                "channel": "KBS1",
+                "program": "전지적참견시점",
+                "channel": "MBC",
                 "rate": "3"
             },
             {
