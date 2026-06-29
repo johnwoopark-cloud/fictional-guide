@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-29 09:18",
+    "date": "2026-06-29 13:57",
     "terrestrial": [
         {
             "rank": "1",
@@ -45,21 +45,15 @@
         },
         {
             "rank": "8",
-            "program": "이슈PICK쌤과함께",
-            "channel": "KBS1",
-            "rate": "3.2"
-        },
-        {
-            "rank": "8",
             "program": "사장님귀는당나귀귀",
             "channel": "KBS2",
             "rate": "3.2"
         },
         {
-            "rank": "10",
-            "program": "SBS8뉴스",
-            "channel": "SBS",
-            "rate": "3.1"
+            "rank": "8",
+            "program": "이슈PICK쌤과함께",
+            "channel": "KBS1",
+            "rate": "3.2"
         },
         {
             "rank": "10",
@@ -70,6 +64,12 @@
         {
             "rank": "10",
             "program": "TV동물농장",
+            "channel": "SBS",
+            "rate": "3.1"
+        },
+        {
+            "rank": "10",
+            "program": "SBS8뉴스",
             "channel": "SBS",
             "rate": "3.1"
         },
@@ -87,21 +87,15 @@
         },
         {
             "rank": "15",
-            "program": "김부장<재>",
-            "channel": "SBS",
-            "rate": "2.7"
-        },
-        {
-            "rank": "15",
             "program": "바다건너사랑",
             "channel": "KBS1",
             "rate": "2.7"
         },
         {
-            "rank": "17",
-            "program": "특파원보고세계는지금<재>",
-            "channel": "KBS1",
-            "rate": "2.6"
+            "rank": "15",
+            "program": "김부장<재>",
+            "channel": "SBS",
+            "rate": "2.7"
         },
         {
             "rank": "17",
@@ -112,6 +106,12 @@
         {
             "rank": "17",
             "program": "TV쇼진품명품",
+            "channel": "KBS1",
+            "rate": "2.6"
+        },
+        {
+            "rank": "17",
+            "program": "특파원보고세계는지금<재>",
             "channel": "KBS1",
             "rate": "2.6"
         },
@@ -215,14 +215,14 @@
         },
         {
             "rank": "16",
-            "program": "무명전설콘서트<재>",
-            "channel": "MBN",
+            "program": "TV조선뉴스현장",
+            "channel": "TV CHOSUN",
             "rate": "1.23"
         },
         {
             "rank": "16",
-            "program": "TV조선뉴스현장",
-            "channel": "TV CHOSUN",
+            "program": "무명전설콘서트<재>",
+            "channel": "MBN",
             "rate": "1.23"
         },
         {
@@ -239,8 +239,8 @@
         },
         {
             "rank": "20",
-            "program": "신성공시대마이웨이",
-            "channel": "TV CHOSUN",
+            "program": "특종세상<재>",
+            "channel": "MBN",
             "rate": "1.07"
         }
     ],
