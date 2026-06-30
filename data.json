@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-30 09:18",
+    "date": "2026-06-30 13:32",
     "terrestrial": [
         {
             "rank": "1",
@@ -99,13 +99,13 @@
         },
         {
             "rank": "17",
-            "program": "다큐3일",
+            "program": "2TV생생정보",
             "channel": "KBS2",
             "rate": "2.8"
         },
         {
             "rank": "17",
-            "program": "2TV생생정보",
+            "program": "다큐3일",
             "channel": "KBS2",
             "rate": "2.8"
         },
@@ -117,8 +117,8 @@
         },
         {
             "rank": "20",
-            "program": "아니근데진짜",
-            "channel": "SBS",
+            "program": "KBS뉴스광장1부",
+            "channel": "KBS1",
             "rate": "2.5"
         }
     ],
