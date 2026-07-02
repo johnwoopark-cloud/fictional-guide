@@ -1,5 +1,5 @@
 {
-    "date": "2026-07-02 13:19",
+    "date": "2026-07-02 14:09",
     "terrestrial": [
         {
             "rank": "1",
@@ -75,14 +75,14 @@
         },
         {
             "rank": "13",
-            "program": "골때리는그녀들체육대회",
-            "channel": "SBS",
+            "program": "KBS뉴스930",
+            "channel": "KBS1",
             "rate": "3.1"
         },
         {
             "rank": "13",
-            "program": "KBS뉴스930",
-            "channel": "KBS1",
+            "program": "골때리는그녀들체육대회",
+            "channel": "SBS",
             "rate": "3.1"
         },
         {
