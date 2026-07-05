@@ -30996,7 +30996,7 @@
         ]
     },
     "2026-07-05": {
-        "date": "2026-07-05 13:18",
+        "date": "2026-07-05 14:09",
         "terrestrial": [
             {
                 "rank": "1",
@@ -31024,6 +31024,12 @@
             },
             {
                 "rank": "5",
+                "program": "MBC뉴스데스크",
+                "channel": "MBC",
+                "rate": "4.5"
+            },
+            {
+                "rank": "5",
                 "program": "그것이알고싶다",
                 "channel": "SBS",
                 "rate": "4.5"
@@ -31032,12 +31038,6 @@
                 "rank": "5",
                 "program": "김부장<재>",
                 "channel": "SBS",
-                "rate": "4.5"
-            },
-            {
-                "rank": "5",
-                "program": "MBC뉴스데스크",
-                "channel": "MBC",
                 "rate": "4.5"
             },
             {
@@ -31060,13 +31060,13 @@
             },
             {
                 "rank": "11",
-                "program": "남북의창",
+                "program": "특파원보고세계는지금",
                 "channel": "KBS1",
                 "rate": "4"
             },
             {
                 "rank": "11",
-                "program": "특파원보고세계는지금",
+                "program": "남북의창",
                 "channel": "KBS1",
                 "rate": "4"
             },
@@ -31096,14 +31096,14 @@
             },
             {
                 "rank": "17",
-                "program": "걸어서세계속으로",
-                "channel": "KBS1",
+                "program": "김부장<재>",
+                "channel": "SBS",
                 "rate": "3.1"
             },
             {
                 "rank": "17",
-                "program": "김부장<재>",
-                "channel": "SBS",
+                "program": "걸어서세계속으로",
+                "channel": "KBS1",
                 "rate": "3.1"
             },
             {
