@@ -31365,7 +31365,7 @@
         ]
     },
     "2026-07-06": {
-        "date": "2026-07-06 09:15",
+        "date": "2026-07-06 13:37",
         "terrestrial": [
             {
                 "rank": "1",
@@ -31715,14 +31715,14 @@
             },
             {
                 "rank": "18",
-                "program": "연합뉴스TV뉴스14",
-                "channel": "연합뉴스TV",
+                "program": "2026KBO리그",
+                "channel": "MBC SPORTS+",
                 "rate": "1.1"
             },
             {
                 "rank": "18",
-                "program": "2026KBO리그",
-                "channel": "MBC SPORTS+",
+                "program": "연합뉴스TV뉴스14",
+                "channel": "연합뉴스TV",
                 "rate": "1.1"
             },
             {
