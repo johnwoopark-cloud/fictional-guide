@@ -31365,7 +31365,7 @@
         ]
     },
     "2026-07-06": {
-        "date": "2026-07-06 13:37",
+        "date": "2026-07-06 14:37",
         "terrestrial": [
             {
                 "rank": "1",
@@ -31453,14 +31453,14 @@
             },
             {
                 "rank": "15",
-                "program": "SBS8뉴스",
-                "channel": "SBS",
+                "program": "동네한바퀴<재>",
+                "channel": "KBS1",
                 "rate": "3"
             },
             {
                 "rank": "15",
-                "program": "동네한바퀴<재>",
-                "channel": "KBS1",
+                "program": "SBS8뉴스",
+                "channel": "SBS",
                 "rate": "3"
             },
             {
