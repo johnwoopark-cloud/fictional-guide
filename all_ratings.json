@@ -31734,7 +31734,7 @@
         ]
     },
     "2026-07-07": {
-        "date": "2026-07-07 13:14",
+        "date": "2026-07-07 14:08",
         "terrestrial": [
             {
                 "rank": "1",
@@ -31822,14 +31822,14 @@
             },
             {
                 "rank": "15",
-                "program": "뉴스라인W",
-                "channel": "KBS1",
+                "program": "말자쇼",
+                "channel": "KBS2",
                 "rate": "3"
             },
             {
                 "rank": "15",
-                "program": "말자쇼",
-                "channel": "KBS2",
+                "program": "뉴스라인W",
+                "channel": "KBS1",
                 "rate": "3"
             },
             {
@@ -31840,13 +31840,13 @@
             },
             {
                 "rank": "18",
-                "program": "생활의달인",
+                "program": "SBS8뉴스",
                 "channel": "SBS",
                 "rate": "2.9"
             },
             {
                 "rank": "18",
-                "program": "SBS8뉴스",
+                "program": "생활의달인",
                 "channel": "SBS",
                 "rate": "2.9"
             },
