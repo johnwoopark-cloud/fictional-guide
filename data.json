@@ -1,5 +1,5 @@
 {
-    "date": "2026-07-09 09:19",
+    "date": "2026-07-09 13:11",
     "terrestrial": [
         {
             "rank": "1",
@@ -93,13 +93,13 @@
         },
         {
             "rank": "16",
-            "program": "2TV생생정보",
+            "program": "슈퍼맨이돌아왔다",
             "channel": "KBS2",
             "rate": "2.8"
         },
         {
             "rank": "16",
-            "program": "슈퍼맨이돌아왔다",
+            "program": "2TV생생정보",
             "channel": "KBS2",
             "rate": "2.8"
         },
@@ -117,7 +117,7 @@
         },
         {
             "rank": "20",
-            "program": "황신혜의같이삽시다",
+            "program": "KBS뉴스5",
             "channel": "KBS1",
             "rate": "2.1"
         }
