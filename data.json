@@ -1,5 +1,5 @@
 {
-    "date": "2026-07-09 13:11",
+    "date": "2026-07-09 14:12",
     "terrestrial": [
         {
             "rank": "1",
@@ -45,14 +45,14 @@
         },
         {
             "rank": "8",
-            "program": "가족관계증명서",
-            "channel": "MBC",
+            "program": "KBS뉴스광장2부",
+            "channel": "KBS1",
             "rate": "4.3"
         },
         {
             "rank": "8",
-            "program": "KBS뉴스광장2부",
-            "channel": "KBS1",
+            "program": "가족관계증명서",
+            "channel": "MBC",
             "rate": "4.3"
         },
         {
@@ -81,14 +81,14 @@
         },
         {
             "rank": "14",
-            "program": "SBS8뉴스",
-            "channel": "SBS",
+            "program": "KBS뉴스7",
+            "channel": "KBS1",
             "rate": "2.9"
         },
         {
             "rank": "14",
-            "program": "KBS뉴스7",
-            "channel": "KBS1",
+            "program": "SBS8뉴스",
+            "channel": "SBS",
             "rate": "2.9"
         },
         {
@@ -117,8 +117,8 @@
         },
         {
             "rank": "20",
-            "program": "KBS뉴스5",
-            "channel": "KBS1",
+            "program": "모닝와이드3부",
+            "channel": "SBS",
             "rate": "2.1"
         }
     ],
@@ -191,13 +191,13 @@
         },
         {
             "rank": "12",
-            "program": "시사팩트오늘",
+            "program": "보도본부핫라인",
             "channel": "TV CHOSUN",
             "rate": "1.49"
         },
         {
             "rank": "12",
-            "program": "보도본부핫라인",
+            "program": "시사팩트오늘",
             "channel": "TV CHOSUN",
             "rate": "1.49"
         },
