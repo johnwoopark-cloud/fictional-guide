@@ -1,5 +1,5 @@
 {
-    "date": "2026-07-11 12:39",
+    "date": "2026-07-11 13:29",
     "terrestrial": [
         {
             "rank": "1",
@@ -87,13 +87,13 @@
         },
         {
             "rank": "15",
-            "program": "SINCE1983추적60분",
+            "program": "KBS뉴스광장1부",
             "channel": "KBS1",
             "rate": "3.1"
         },
         {
             "rank": "15",
-            "program": "KBS뉴스광장1부",
+            "program": "SINCE1983추적60분",
             "channel": "KBS1",
             "rate": "3.1"
         },
@@ -349,13 +349,13 @@
         },
         {
             "rank": "18",
-            "program": "뉴스START2부",
+            "program": "뉴스NIGHT",
             "channel": "YTN",
             "rate": "0.83"
         },
         {
             "rank": "18",
-            "program": "뉴스NIGHT",
+            "program": "뉴스START2부",
             "channel": "YTN",
             "rate": "0.83"
         },
