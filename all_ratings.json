@@ -33579,7 +33579,7 @@
         ]
     },
     "2026-07-12": {
-        "date": "2026-07-12 09:10",
+        "date": "2026-07-12 12:53",
         "terrestrial": [
             {
                 "rank": "1",
@@ -33595,14 +33595,14 @@
             },
             {
                 "rank": "3",
-                "program": "동네한바퀴",
-                "channel": "KBS1",
+                "program": "결혼의완성",
+                "channel": "KBS2",
                 "rate": "5.3"
             },
             {
                 "rank": "3",
-                "program": "결혼의완성",
-                "channel": "KBS2",
+                "program": "동네한바퀴",
+                "channel": "KBS1",
                 "rate": "5.3"
             },
             {
@@ -33649,14 +33649,14 @@
             },
             {
                 "rank": "12",
-                "program": "그것이알고싶다",
-                "channel": "SBS",
+                "program": "불후의명곡",
+                "channel": "KBS2",
                 "rate": "3.9"
             },
             {
                 "rank": "12",
-                "program": "불후의명곡",
-                "channel": "KBS2",
+                "program": "그것이알고싶다",
+                "channel": "SBS",
                 "rate": "3.9"
             },
             {
