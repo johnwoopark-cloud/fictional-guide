@@ -1,5 +1,5 @@
 {
-    "date": "2026-07-12 12:53",
+    "date": "2026-07-12 13:41",
     "terrestrial": [
         {
             "rank": "1",
@@ -57,26 +57,26 @@
         },
         {
             "rank": "10",
-            "program": "남북의창",
-            "channel": "KBS1",
-            "rate": "4.2"
-        },
-        {
-            "rank": "10",
             "program": "특파원보고세계는지금",
             "channel": "KBS1",
             "rate": "4.2"
         },
         {
-            "rank": "12",
-            "program": "불후의명곡",
-            "channel": "KBS2",
-            "rate": "3.9"
+            "rank": "10",
+            "program": "남북의창",
+            "channel": "KBS1",
+            "rate": "4.2"
         },
         {
             "rank": "12",
             "program": "그것이알고싶다",
             "channel": "SBS",
+            "rate": "3.9"
+        },
+        {
+            "rank": "12",
+            "program": "불후의명곡",
+            "channel": "KBS2",
             "rate": "3.9"
         },
         {
@@ -99,14 +99,14 @@
         },
         {
             "rank": "17",
-            "program": "동행",
-            "channel": "KBS1",
+            "program": "SBS8뉴스",
+            "channel": "SBS",
             "rate": "3"
         },
         {
             "rank": "17",
-            "program": "SBS8뉴스",
-            "channel": "SBS",
+            "program": "동행",
+            "channel": "KBS1",
             "rate": "3"
         },
         {
@@ -117,7 +117,7 @@
         },
         {
             "rank": "20",
-            "program": "팔도밥상",
+            "program": "KBS뉴스(09:30)",
             "channel": "KBS1",
             "rate": "2.7"
         }
