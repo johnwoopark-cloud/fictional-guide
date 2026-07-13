@@ -1,5 +1,5 @@
 {
-    "date": "2026-07-13 12:57",
+    "date": "2026-07-13 13:48",
     "terrestrial": [
         {
             "rank": "1",
@@ -51,14 +51,14 @@
         },
         {
             "rank": "9",
-            "program": "KBS뉴스(12:00)",
-            "channel": "KBS1",
+            "program": "TV동물농장",
+            "channel": "SBS",
             "rate": "4.5"
         },
         {
             "rank": "9",
-            "program": "TV동물농장",
-            "channel": "SBS",
+            "program": "KBS뉴스(12:00)",
+            "channel": "KBS1",
             "rate": "4.5"
         },
         {
@@ -69,13 +69,13 @@
         },
         {
             "rank": "12",
-            "program": "FIFAWORLDCUP2026(8강노르웨이:잉글랜드)",
+            "program": "사장님귀는당나귀귀",
             "channel": "KBS2",
             "rate": "3.8"
         },
         {
             "rank": "12",
-            "program": "사장님귀는당나귀귀",
+            "program": "FIFAWORLDCUP2026(8강노르웨이:잉글랜드)",
             "channel": "KBS2",
             "rate": "3.8"
         },
