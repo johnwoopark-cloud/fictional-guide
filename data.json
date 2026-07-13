@@ -1,5 +1,5 @@
 {
-    "date": "2026-07-13 09:10",
+    "date": "2026-07-13 12:57",
     "terrestrial": [
         {
             "rank": "1",
@@ -105,12 +105,6 @@
         },
         {
             "rank": "18",
-            "program": "열린음악회여름특집",
-            "channel": "KBS1",
-            "rate": "2.6"
-        },
-        {
-            "rank": "18",
             "program": "특파원보고세계는지금<재>",
             "channel": "KBS1",
             "rate": "2.6"
@@ -119,6 +113,12 @@
             "rank": "18",
             "program": "탐사기획스트레이트",
             "channel": "MBC",
+            "rate": "2.6"
+        },
+        {
+            "rank": "18",
+            "program": "이슈PICK쌤과함께",
+            "channel": "KBS1",
             "rate": "2.6"
         }
     ],
