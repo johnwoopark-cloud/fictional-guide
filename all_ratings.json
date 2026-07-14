@@ -34317,7 +34317,7 @@
         ]
     },
     "2026-07-14": {
-        "date": "2026-07-14 12:30",
+        "date": "2026-07-14 13:17",
         "terrestrial": [
             {
                 "rank": "1",
@@ -34345,14 +34345,14 @@
             },
             {
                 "rank": "5",
-                "program": "아침마당",
-                "channel": "KBS1",
+                "program": "MBC뉴스데스크",
+                "channel": "MBC",
                 "rate": "5.7"
             },
             {
                 "rank": "5",
-                "program": "MBC뉴스데스크",
-                "channel": "MBC",
+                "program": "아침마당",
+                "channel": "KBS1",
                 "rate": "5.7"
             },
             {
