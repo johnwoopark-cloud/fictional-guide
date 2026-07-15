@@ -34686,7 +34686,7 @@
         ]
     },
     "2026-07-15": {
-        "date": "2026-07-15 09:04",
+        "date": "2026-07-15 12:30",
         "terrestrial": [
             {
                 "rank": "1",
@@ -34750,12 +34750,6 @@
             },
             {
                 "rank": "11",
-                "program": "산골총각영웅",
-                "channel": "SBS",
-                "rate": "3.6"
-            },
-            {
-                "rank": "11",
                 "program": "KBS뉴스7",
                 "channel": "KBS1",
                 "rate": "3.6"
@@ -34764,6 +34758,12 @@
                 "rank": "11",
                 "program": "PD수첩",
                 "channel": "MBC",
+                "rate": "3.6"
+            },
+            {
+                "rank": "11",
+                "program": "산골총각영웅",
+                "channel": "SBS",
                 "rate": "3.6"
             },
             {
@@ -34798,7 +34798,7 @@
             },
             {
                 "rank": "19",
-                "program": "동물의왕국",
+                "program": "KBS뉴스5",
                 "channel": "KBS1",
                 "rate": "2.3"
             },
