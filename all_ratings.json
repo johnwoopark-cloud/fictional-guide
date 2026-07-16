@@ -35055,7 +35055,7 @@
         ]
     },
     "2026-07-16": {
-        "date": "2026-07-16 09:08",
+        "date": "2026-07-16 12:33",
         "terrestrial": [
             {
                 "rank": "1",
@@ -35161,13 +35161,13 @@
             },
             {
                 "rank": "17",
-                "program": "동물의왕국",
+                "program": "KBS뉴스7",
                 "channel": "KBS1",
                 "rate": "2.6"
             },
             {
                 "rank": "17",
-                "program": "KBS뉴스7",
+                "program": "동물의왕국",
                 "channel": "KBS1",
                 "rate": "2.6"
             },
@@ -35399,14 +35399,14 @@
             },
             {
                 "rank": "17",
-                "program": "뉴스잇",
-                "channel": "연합뉴스TV",
+                "program": "뉴스퀘어2PM",
+                "channel": "YTN",
                 "rate": "0.86"
             },
             {
                 "rank": "17",
-                "program": "뉴스퀘어2PM",
-                "channel": "YTN",
+                "program": "뉴스잇",
+                "channel": "연합뉴스TV",
                 "rate": "0.86"
             },
             {
