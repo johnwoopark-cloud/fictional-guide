@@ -35055,7 +35055,7 @@
         ]
     },
     "2026-07-16": {
-        "date": "2026-07-16 12:33",
+        "date": "2026-07-16 13:26",
         "terrestrial": [
             {
                 "rank": "1",
@@ -35077,14 +35077,14 @@
             },
             {
                 "rank": "4",
-                "program": "아침마당",
-                "channel": "KBS1",
+                "program": "붉은진주",
+                "channel": "KBS2",
                 "rate": "7"
             },
             {
                 "rank": "4",
-                "program": "붉은진주",
-                "channel": "KBS2",
+                "program": "아침마당",
+                "channel": "KBS1",
                 "rate": "7"
             },
             {
@@ -35125,14 +35125,14 @@
             },
             {
                 "rank": "12",
-                "program": "GIFACUP골때리는그녀들",
-                "channel": "SBS",
+                "program": "황금어장라디오스타",
+                "channel": "MBC",
                 "rate": "3.6"
             },
             {
                 "rank": "12",
-                "program": "황금어장라디오스타",
-                "channel": "MBC",
+                "program": "GIFACUP골때리는그녀들",
+                "channel": "SBS",
                 "rate": "3.6"
             },
             {
@@ -35155,14 +35155,14 @@
             },
             {
                 "rank": "17",
-                "program": "슈퍼맨이돌아왔다",
-                "channel": "KBS2",
+                "program": "KBS뉴스7",
+                "channel": "KBS1",
                 "rate": "2.6"
             },
             {
                 "rank": "17",
-                "program": "KBS뉴스7",
-                "channel": "KBS1",
+                "program": "슈퍼맨이돌아왔다",
+                "channel": "KBS2",
                 "rate": "2.6"
             },
             {
