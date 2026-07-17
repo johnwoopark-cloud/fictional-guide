@@ -35424,7 +35424,7 @@
         ]
     },
     "2026-07-17": {
-        "date": "2026-07-17 09:11",
+        "date": "2026-07-17 12:34",
         "terrestrial": [
             {
                 "rank": "1",
@@ -35458,14 +35458,14 @@
             },
             {
                 "rank": "6",
-                "program": "아침마당",
-                "channel": "KBS1",
+                "program": "MBC뉴스데스크",
+                "channel": "MBC",
                 "rate": "4.6"
             },
             {
                 "rank": "6",
-                "program": "MBC뉴스데스크",
-                "channel": "MBC",
+                "program": "아침마당",
+                "channel": "KBS1",
                 "rate": "4.6"
             },
             {
@@ -35476,13 +35476,13 @@
             },
             {
                 "rank": "9",
-                "program": "6시내고향",
+                "program": "한국인의밥상",
                 "channel": "KBS1",
                 "rate": "4"
             },
             {
                 "rank": "9",
-                "program": "한국인의밥상",
+                "program": "6시내고향",
                 "channel": "KBS1",
                 "rate": "4"
             },
@@ -35506,25 +35506,25 @@
             },
             {
                 "rank": "14",
-                "program": "KBS뉴스광장1부",
-                "channel": "KBS1",
-                "rate": "2.8"
-            },
-            {
-                "rank": "14",
                 "program": "2TV생생정보",
                 "channel": "KBS2",
                 "rate": "2.8"
             },
             {
                 "rank": "14",
-                "program": "KBS뉴스7",
+                "program": "KBS뉴스광장1부",
                 "channel": "KBS1",
                 "rate": "2.8"
             },
             {
                 "rank": "14",
                 "program": "다큐인사이트(미국독립기획)",
+                "channel": "KBS1",
+                "rate": "2.8"
+            },
+            {
+                "rank": "14",
+                "program": "KBS뉴스7",
                 "channel": "KBS1",
                 "rate": "2.8"
             },
@@ -35542,8 +35542,8 @@
             },
             {
                 "rank": "20",
-                "program": "모닝와이드2부",
-                "channel": "SBS",
+                "program": "신상출시편스토랑",
+                "channel": "KBS2",
                 "rate": "2.1"
             }
         ],
