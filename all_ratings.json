@@ -35424,7 +35424,7 @@
         ]
     },
     "2026-07-17": {
-        "date": "2026-07-17 12:34",
+        "date": "2026-07-17 13:26",
         "terrestrial": [
             {
                 "rank": "1",
@@ -35476,13 +35476,13 @@
             },
             {
                 "rank": "9",
-                "program": "한국인의밥상",
+                "program": "6시내고향",
                 "channel": "KBS1",
                 "rate": "4"
             },
             {
                 "rank": "9",
-                "program": "6시내고향",
+                "program": "한국인의밥상",
                 "channel": "KBS1",
                 "rate": "4"
             },
@@ -35506,8 +35506,8 @@
             },
             {
                 "rank": "14",
-                "program": "2TV생생정보",
-                "channel": "KBS2",
+                "program": "KBS뉴스7",
+                "channel": "KBS1",
                 "rate": "2.8"
             },
             {
@@ -35518,21 +35518,15 @@
             },
             {
                 "rank": "14",
-                "program": "다큐인사이트(미국독립기획)",
-                "channel": "KBS1",
+                "program": "2TV생생정보",
+                "channel": "KBS2",
                 "rate": "2.8"
             },
             {
                 "rank": "14",
-                "program": "KBS뉴스7",
+                "program": "다큐인사이트(미국독립기획)",
                 "channel": "KBS1",
                 "rate": "2.8"
-            },
-            {
-                "rank": "18",
-                "program": "구해줘홈즈",
-                "channel": "MBC",
-                "rate": "2.7"
             },
             {
                 "rank": "18",
@@ -35541,9 +35535,15 @@
                 "rate": "2.7"
             },
             {
+                "rank": "18",
+                "program": "구해줘홈즈",
+                "channel": "MBC",
+                "rate": "2.7"
+            },
+            {
                 "rank": "20",
-                "program": "신상출시편스토랑",
-                "channel": "KBS2",
+                "program": "동물의왕국",
+                "channel": "KBS1",
                 "rate": "2.1"
             }
         ],
@@ -35616,14 +35616,14 @@
             },
             {
                 "rank": "12",
-                "program": "MBN뉴스와이드",
-                "channel": "MBN",
+                "program": "야구여왕2",
+                "channel": "채널A",
                 "rate": "1.68"
             },
             {
                 "rank": "12",
-                "program": "야구여왕2",
-                "channel": "채널A",
+                "program": "MBN뉴스와이드",
+                "channel": "MBN",
                 "rate": "1.68"
             },
             {
