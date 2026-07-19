@@ -1,5 +1,5 @@
 {
-    "date": "2026-07-19 09:09",
+    "date": "2026-07-19 12:50",
     "terrestrial": [
         {
             "rank": "1",
@@ -259,14 +259,14 @@
         },
         {
             "rank": "3",
-            "program": "2026KBO리그",
-            "channel": "SPOTV2",
+            "program": "와이드08",
+            "channel": "연합뉴스TV",
             "rate": "1.85"
         },
         {
             "rank": "3",
-            "program": "와이드08",
-            "channel": "연합뉴스TV",
+            "program": "2026KBO리그",
+            "channel": "SPOTV2",
             "rate": "1.85"
         },
         {
