@@ -1,5 +1,5 @@
 {
-    "date": "2026-07-20 09:11",
+    "date": "2026-07-20 13:01",
     "terrestrial": [
         {
             "rank": "1",
@@ -15,8 +15,8 @@
         },
         {
             "rank": "3",
-            "program": "전국노래자랑2026상반기인기상스페셜",
-            "channel": "KBS1",
+            "program": "결혼의완성",
+            "channel": "KBS2",
             "rate": "6.4"
         },
         {
@@ -27,8 +27,8 @@
         },
         {
             "rank": "3",
-            "program": "결혼의완성",
-            "channel": "KBS2",
+            "program": "전국노래자랑2026상반기인기상스페셜",
+            "channel": "KBS1",
             "rate": "6.4"
         },
         {
@@ -75,14 +75,14 @@
         },
         {
             "rank": "13",
-            "program": "탐사기획스트레이트",
-            "channel": "MBC",
+            "program": "SBS8뉴스",
+            "channel": "SBS",
             "rate": "3"
         },
         {
             "rank": "13",
-            "program": "SBS8뉴스",
-            "channel": "SBS",
+            "program": "탐사기획스트레이트",
+            "channel": "MBC",
             "rate": "3"
         },
         {
@@ -99,14 +99,14 @@
         },
         {
             "rank": "17",
-            "program": "출발비디오여행",
-            "channel": "MBC",
+            "program": "KBS뉴스(19:00)",
+            "channel": "KBS1",
             "rate": "2.7"
         },
         {
             "rank": "17",
-            "program": "KBS뉴스(19:00)",
-            "channel": "KBS1",
+            "program": "출발비디오여행",
+            "channel": "MBC",
             "rate": "2.7"
         },
         {
@@ -117,8 +117,8 @@
         },
         {
             "rank": "20",
-            "program": "김부장<재>",
-            "channel": "SBS",
+            "program": "역사스페셜시간여행자",
+            "channel": "KBS1",
             "rate": "2.5"
         }
     ],
