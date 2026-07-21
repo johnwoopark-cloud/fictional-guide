@@ -36900,7 +36900,7 @@
         ]
     },
     "2026-07-21": {
-        "date": "2026-07-21 12:41",
+        "date": "2026-07-21 13:33",
         "terrestrial": [
             {
                 "rank": "1",
@@ -36964,14 +36964,14 @@
             },
             {
                 "rank": "11",
-                "program": "오은영리포트다시사랑그후",
-                "channel": "MBC",
+                "program": "우리말겨루기",
+                "channel": "KBS1",
                 "rate": "3.6"
             },
             {
                 "rank": "11",
-                "program": "우리말겨루기",
-                "channel": "KBS1",
+                "program": "오은영리포트다시사랑그후",
+                "channel": "MBC",
                 "rate": "3.6"
             },
             {
@@ -37000,14 +37000,14 @@
             },
             {
                 "rank": "17",
-                "program": "말자쇼",
-                "channel": "KBS2",
+                "program": "KBS뉴스7",
+                "channel": "KBS1",
                 "rate": "3.1"
             },
             {
                 "rank": "17",
-                "program": "KBS뉴스7",
-                "channel": "KBS1",
+                "program": "말자쇼",
+                "channel": "KBS2",
                 "rate": "3.1"
             },
             {
