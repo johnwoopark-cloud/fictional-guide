@@ -1,5 +1,5 @@
 {
-    "date": "2026-07-22 12:42",
+    "date": "2026-07-22 13:34",
     "terrestrial": [
         {
             "rank": "1",
@@ -57,14 +57,14 @@
         },
         {
             "rank": "10",
-            "program": "가족관계증명서",
-            "channel": "MBC",
+            "program": "6시내고향",
+            "channel": "KBS1",
             "rate": "4.2"
         },
         {
             "rank": "10",
-            "program": "6시내고향",
-            "channel": "KBS1",
+            "program": "가족관계증명서",
+            "channel": "MBC",
             "rate": "4.2"
         },
         {
@@ -111,14 +111,14 @@
         },
         {
             "rank": "19",
-            "program": "PD수첩",
-            "channel": "MBC",
+            "program": "스모킹건",
+            "channel": "KBS2",
             "rate": "2.5"
         },
         {
             "rank": "19",
-            "program": "스모킹건",
-            "channel": "KBS2",
+            "program": "PD수첩",
+            "channel": "MBC",
             "rate": "2.5"
         }
     ],
