@@ -1,5 +1,5 @@
 {
-    "date": "2026-07-23 12:41",
+    "date": "2026-07-23 13:35",
     "terrestrial": [
         {
             "rank": "1",
@@ -69,14 +69,14 @@
         },
         {
             "rank": "12",
-            "program": "KBS뉴스7",
-            "channel": "KBS1",
+            "program": "황금어장라디오스타",
+            "channel": "MBC",
             "rate": "3.7"
         },
         {
             "rank": "12",
-            "program": "황금어장라디오스타",
-            "channel": "MBC",
+            "program": "KBS뉴스7",
+            "channel": "KBS1",
             "rate": "3.7"
         },
         {
@@ -87,14 +87,14 @@
         },
         {
             "rank": "15",
-            "program": "KBS뉴스광장1부",
-            "channel": "KBS1",
+            "program": "SBS8뉴스",
+            "channel": "SBS",
             "rate": "2.8"
         },
         {
             "rank": "15",
-            "program": "SBS8뉴스",
-            "channel": "SBS",
+            "program": "KBS뉴스광장1부",
+            "channel": "KBS1",
             "rate": "2.8"
         },
         {
