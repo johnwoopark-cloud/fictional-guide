@@ -38005,5 +38005,374 @@
                 "rate": "0.99"
             }
         ]
+    },
+    "2026-07-24": {
+        "date": "2026-07-24 09:09",
+        "terrestrial": [
+            {
+                "rank": "1",
+                "program": "기쁜우리좋은날",
+                "channel": "KBS1",
+                "rate": "11.7"
+            },
+            {
+                "rank": "2",
+                "program": "KBS9시뉴스",
+                "channel": "KBS1",
+                "rate": "7.5"
+            },
+            {
+                "rank": "3",
+                "program": "붉은진주",
+                "channel": "KBS2",
+                "rate": "7.4"
+            },
+            {
+                "rank": "4",
+                "program": "인간극장",
+                "channel": "KBS1",
+                "rate": "5.7"
+            },
+            {
+                "rank": "5",
+                "program": "MBC뉴스데스크",
+                "channel": "MBC",
+                "rate": "5.3"
+            },
+            {
+                "rank": "6",
+                "program": "아침마당",
+                "channel": "KBS1",
+                "rate": "5"
+            },
+            {
+                "rank": "7",
+                "program": "KBS뉴스광장2부",
+                "channel": "KBS1",
+                "rate": "4.5"
+            },
+            {
+                "rank": "8",
+                "program": "가족관계증명서",
+                "channel": "MBC",
+                "rate": "4.4"
+            },
+            {
+                "rank": "8",
+                "program": "6시내고향",
+                "channel": "KBS1",
+                "rate": "4.4"
+            },
+            {
+                "rank": "10",
+                "program": "한국인의밥상",
+                "channel": "KBS1",
+                "rate": "4.3"
+            },
+            {
+                "rank": "11",
+                "program": "KBS뉴스7",
+                "channel": "KBS1",
+                "rate": "4"
+            },
+            {
+                "rank": "12",
+                "program": "실화탐사대",
+                "channel": "MBC",
+                "rate": "3.8"
+            },
+            {
+                "rank": "13",
+                "program": "KBS뉴스930",
+                "channel": "KBS1",
+                "rate": "3.6"
+            },
+            {
+                "rank": "14",
+                "program": "다큐인사이트(알파고쇼크10년블루스팟의아이들)",
+                "channel": "KBS1",
+                "rate": "2.9"
+            },
+            {
+                "rank": "14",
+                "program": "KBS뉴스광장1부",
+                "channel": "KBS1",
+                "rate": "2.9"
+            },
+            {
+                "rank": "16",
+                "program": "SBS8뉴스",
+                "channel": "SBS",
+                "rate": "2.7"
+            },
+            {
+                "rank": "16",
+                "program": "2TV생생정보",
+                "channel": "KBS2",
+                "rate": "2.7"
+            },
+            {
+                "rank": "18",
+                "program": "구해줘홈즈",
+                "channel": "MBC",
+                "rate": "2.6"
+            },
+            {
+                "rank": "19",
+                "program": "꼬리에꼬리를무는그날이야기",
+                "channel": "SBS",
+                "rate": "2.5"
+            },
+            {
+                "rank": "20",
+                "program": "동물의왕국",
+                "channel": "KBS1",
+                "rate": "2.3"
+            }
+        ],
+        "comprehensive": [
+            {
+                "rank": "1",
+                "program": "미스트롯포유2부",
+                "channel": "TV CHOSUN",
+                "rate": "4.09"
+            },
+            {
+                "rank": "2",
+                "program": "미스트롯포유1부",
+                "channel": "TV CHOSUN",
+                "rate": "3.86"
+            },
+            {
+                "rank": "3",
+                "program": "미스트롯포유3부",
+                "channel": "TV CHOSUN",
+                "rate": "3.39"
+            },
+            {
+                "rank": "4",
+                "program": "JTBC뉴스룸",
+                "channel": "JTBC",
+                "rate": "3.01"
+            },
+            {
+                "rank": "5",
+                "program": "사건반장",
+                "channel": "JTBC",
+                "rate": "2.29"
+            },
+            {
+                "rank": "6",
+                "program": "특종세상",
+                "channel": "MBN",
+                "rate": "2.14"
+            },
+            {
+                "rank": "7",
+                "program": "TV조선뉴스9",
+                "channel": "TV CHOSUN",
+                "rate": "1.84"
+            },
+            {
+                "rank": "8",
+                "program": "뉴스A",
+                "channel": "채널A",
+                "rate": "1.62"
+            },
+            {
+                "rank": "9",
+                "program": "야구여왕2",
+                "channel": "채널A",
+                "rate": "1.55"
+            },
+            {
+                "rank": "10",
+                "program": "아파트<재>",
+                "channel": "JTBC",
+                "rate": "1.52"
+            },
+            {
+                "rank": "11",
+                "program": "보도본부핫라인",
+                "channel": "TV CHOSUN",
+                "rate": "1.5"
+            },
+            {
+                "rank": "12",
+                "program": "MBN뉴스7",
+                "channel": "MBN",
+                "rate": "1.43"
+            },
+            {
+                "rank": "13",
+                "program": "아침엔매일경제",
+                "channel": "MBN",
+                "rate": "1.41"
+            },
+            {
+                "rank": "14",
+                "program": "시사팩트오늘",
+                "channel": "TV CHOSUN",
+                "rate": "1.4"
+            },
+            {
+                "rank": "15",
+                "program": "아파트<재>",
+                "channel": "JTBC",
+                "rate": "1.35"
+            },
+            {
+                "rank": "16",
+                "program": "뉴스TOP10",
+                "channel": "채널A",
+                "rate": "1.35"
+            },
+            {
+                "rank": "17",
+                "program": "김진의돌직구쇼",
+                "channel": "채널A",
+                "rate": "1.35"
+            },
+            {
+                "rank": "18",
+                "program": "MBN뉴스와이드",
+                "channel": "MBN",
+                "rate": "1.29"
+            },
+            {
+                "rank": "19",
+                "program": "THE펀치더펀하고더치열하게",
+                "channel": "MBN",
+                "rate": "1.2"
+            },
+            {
+                "rank": "20",
+                "program": "전설의사내<재>",
+                "channel": "MBN",
+                "rate": "1.02"
+            }
+        ],
+        "cable": [
+            {
+                "rank": "1",
+                "program": "계급장떼고본토로언더커버셰프",
+                "channel": "tvN",
+                "rate": "6.15"
+            },
+            {
+                "rank": "2",
+                "program": "2026KBO리그",
+                "channel": "MBC SPORTS+",
+                "rate": "2.13"
+            },
+            {
+                "rank": "3",
+                "program": "어서와한국은처음이지",
+                "channel": "MBC every1",
+                "rate": "1.68"
+            },
+            {
+                "rank": "4",
+                "program": "라이브투데이2부",
+                "channel": "연합뉴스TV",
+                "rate": "1.55"
+            },
+            {
+                "rank": "5",
+                "program": "TVN토일드라마(오싹한연애)",
+                "channel": "tvN",
+                "rate": "1.43"
+            },
+            {
+                "rank": "6",
+                "program": "2026KBO리그",
+                "channel": "KBSN스포츠",
+                "rate": "1.38"
+            },
+            {
+                "rank": "7",
+                "program": "출발600",
+                "channel": "연합뉴스TV",
+                "rate": "1.31"
+            },
+            {
+                "rank": "8",
+                "program": "어서와한국은처음이지<재>",
+                "channel": "MBC every1",
+                "rate": "1.29"
+            },
+            {
+                "rank": "9",
+                "program": "나는SOLO그후사랑은계속된다",
+                "channel": "ENA",
+                "rate": "1.27"
+            },
+            {
+                "rank": "10",
+                "program": "라이브투데이1부",
+                "channel": "연합뉴스TV",
+                "rate": "1.26"
+            },
+            {
+                "rank": "11",
+                "program": "뉴스UP",
+                "channel": "YTN",
+                "rate": "1.26"
+            },
+            {
+                "rank": "12",
+                "program": "TVN토일드라마(오싹한연애)",
+                "channel": "tvN",
+                "rate": "1.19"
+            },
+            {
+                "rank": "13",
+                "program": "뉴스퀘어2PM",
+                "channel": "YTN",
+                "rate": "1.14"
+            },
+            {
+                "rank": "14",
+                "program": "유퀴즈온더블럭",
+                "channel": "tvN",
+                "rate": "1.1"
+            },
+            {
+                "rank": "15",
+                "program": "뉴스START3부",
+                "channel": "YTN",
+                "rate": "1.06"
+            },
+            {
+                "rank": "16",
+                "program": "뉴스리뷰",
+                "channel": "연합뉴스TV",
+                "rate": "1.01"
+            },
+            {
+                "rank": "17",
+                "program": "뉴스NIGHT",
+                "channel": "YTN",
+                "rate": "1"
+            },
+            {
+                "rank": "18",
+                "program": "뉴스PLUS",
+                "channel": "YTN",
+                "rate": "0.99"
+            },
+            {
+                "rank": "19",
+                "program": "뉴스투나잇",
+                "channel": "연합뉴스TV",
+                "rate": "0.99"
+            },
+            {
+                "rank": "20",
+                "program": "YTN뉴스특보",
+                "channel": "YTN",
+                "rate": "0.98"
+            }
+        ]
     }
 }
