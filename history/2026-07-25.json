@@ -1,5 +1,5 @@
 {
-    "date": "2026-07-25 09:14",
+    "date": "2026-07-25 12:34",
     "terrestrial": [
         {
             "rank": "1",
@@ -51,13 +51,13 @@
         },
         {
             "rank": "9",
-            "program": "MBC뉴스데스크",
+            "program": "가족관계증명서",
             "channel": "MBC",
             "rate": "4.5"
         },
         {
             "rank": "9",
-            "program": "가족관계증명서",
+            "program": "MBC뉴스데스크",
             "channel": "MBC",
             "rate": "4.5"
         },
@@ -87,12 +87,6 @@
         },
         {
             "rank": "15",
-            "program": "뉴스라인W",
-            "channel": "KBS1",
-            "rate": "2.6"
-        },
-        {
-            "rank": "15",
             "program": "SINCE1983추적60분",
             "channel": "KBS1",
             "rate": "2.6"
@@ -100,6 +94,12 @@
         {
             "rank": "15",
             "program": "다큐3일<재>",
+            "channel": "KBS1",
+            "rate": "2.6"
+        },
+        {
+            "rank": "15",
+            "program": "뉴스라인W",
             "channel": "KBS1",
             "rate": "2.6"
         },
@@ -221,14 +221,14 @@
         },
         {
             "rank": "17",
-            "program": "이가혁라이브",
-            "channel": "JTBC",
+            "program": "길바닥무먹큐멘터리전현무계획4-2부",
+            "channel": "MBN",
             "rate": "1.05"
         },
         {
             "rank": "17",
-            "program": "길바닥무먹큐멘터리전현무계획4-2부",
-            "channel": "MBN",
+            "program": "이가혁라이브",
+            "channel": "JTBC",
             "rate": "1.05"
         },
         {
