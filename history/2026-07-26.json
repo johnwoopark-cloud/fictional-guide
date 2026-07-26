@@ -1,5 +1,5 @@
 {
-    "date": "2026-07-26 09:12",
+    "date": "2026-07-26 12:52",
     "terrestrial": [
         {
             "rank": "1",
@@ -87,14 +87,14 @@
         },
         {
             "rank": "15",
-            "program": "동행",
-            "channel": "KBS1",
+            "program": "살림하는남자들",
+            "channel": "KBS2",
             "rate": "3.5"
         },
         {
             "rank": "15",
-            "program": "살림하는남자들",
-            "channel": "KBS2",
+            "program": "동행",
+            "channel": "KBS1",
             "rate": "3.5"
         },
         {
