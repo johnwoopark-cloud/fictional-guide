@@ -1,5 +1,5 @@
 {
-    "date": "2026-07-26 12:52",
+    "date": "2026-07-26 13:43",
     "terrestrial": [
         {
             "rank": "1",
@@ -15,14 +15,14 @@
         },
         {
             "rank": "3",
-            "program": "김부장<재>",
-            "channel": "SBS",
+            "program": "KBS9시뉴스",
+            "channel": "KBS1",
             "rate": "5.5"
         },
         {
             "rank": "3",
-            "program": "KBS9시뉴스",
-            "channel": "KBS1",
+            "program": "김부장<재>",
+            "channel": "SBS",
             "rate": "5.5"
         },
         {
@@ -63,14 +63,14 @@
         },
         {
             "rank": "11",
-            "program": "놀면뭐하니",
-            "channel": "MBC",
+            "program": "그것이알고싶다",
+            "channel": "SBS",
             "rate": "3.9"
         },
         {
             "rank": "11",
-            "program": "그것이알고싶다",
-            "channel": "SBS",
+            "program": "놀면뭐하니",
+            "channel": "MBC",
             "rate": "3.9"
         },
         {
@@ -87,14 +87,14 @@
         },
         {
             "rank": "15",
-            "program": "살림하는남자들",
-            "channel": "KBS2",
+            "program": "동행",
+            "channel": "KBS1",
             "rate": "3.5"
         },
         {
             "rank": "15",
-            "program": "동행",
-            "channel": "KBS1",
+            "program": "살림하는남자들",
+            "channel": "KBS2",
             "rate": "3.5"
         },
         {
