@@ -1,5 +1,5 @@
 {
-    "date": "2026-07-27 09:11",
+    "date": "2026-07-27 12:59",
     "terrestrial": [
         {
             "rank": "1",
@@ -81,18 +81,6 @@
         },
         {
             "rank": "14",
-            "program": "전지적참견시점스페셜",
-            "channel": "MBC",
-            "rate": "2.8"
-        },
-        {
-            "rank": "14",
-            "program": "TV쇼진품명품",
-            "channel": "KBS1",
-            "rate": "2.8"
-        },
-        {
-            "rank": "14",
             "program": "이슈PICK쌤과함께",
             "channel": "KBS1",
             "rate": "2.8"
@@ -111,13 +99,25 @@
         },
         {
             "rank": "14",
+            "program": "전지적참견시점스페셜",
+            "channel": "MBC",
+            "rate": "2.8"
+        },
+        {
+            "rank": "14",
             "program": "열린음악회",
             "channel": "KBS1",
             "rate": "2.8"
         },
         {
+            "rank": "14",
+            "program": "TV쇼진품명품",
+            "channel": "KBS1",
+            "rate": "2.8"
+        },
+        {
             "rank": "20",
-            "program": "동물의왕국",
+            "program": "한국인의밥상<재>",
             "channel": "KBS1",
             "rate": "2.7"
         }
