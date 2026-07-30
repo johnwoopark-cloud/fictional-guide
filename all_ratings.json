@@ -40221,7 +40221,7 @@
         ]
     },
     "2026-07-30": {
-        "date": "2026-07-30 09:09",
+        "date": "2026-07-30 12:25",
         "terrestrial": [
             {
                 "rank": "1",
@@ -40315,14 +40315,14 @@
             },
             {
                 "rank": "15",
-                "program": "슈퍼맨이돌아왔다",
-                "channel": "KBS2",
+                "program": "KBS뉴스광장1부",
+                "channel": "KBS1",
                 "rate": "2.8"
             },
             {
                 "rank": "15",
-                "program": "KBS뉴스광장1부",
-                "channel": "KBS1",
+                "program": "슈퍼맨이돌아왔다",
+                "channel": "KBS2",
                 "rate": "2.8"
             },
             {
@@ -40425,13 +40425,13 @@
             },
             {
                 "rank": "14",
-                "program": "뉴스TOP10",
+                "program": "개와늑대의시간2",
                 "channel": "채널A",
                 "rate": "1.17"
             },
             {
                 "rank": "14",
-                "program": "개와늑대의시간2",
+                "program": "뉴스TOP10",
                 "channel": "채널A",
                 "rate": "1.17"
             },
