@@ -40959,7 +40959,7 @@
         ]
     },
     "2026-08-01": {
-        "date": "2026-08-01 12:47",
+        "date": "2026-08-01 13:36",
         "terrestrial": [
             {
                 "rank": "1",
@@ -41059,13 +41059,13 @@
             },
             {
                 "rank": "17",
-                "program": "KBS뉴스광장1부",
+                "program": "동물의왕국",
                 "channel": "KBS1",
                 "rate": "3"
             },
             {
                 "rank": "17",
-                "program": "동물의왕국",
+                "program": "KBS뉴스광장1부",
                 "channel": "KBS1",
                 "rate": "3"
             },
