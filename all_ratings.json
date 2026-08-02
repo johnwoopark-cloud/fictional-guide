@@ -41328,7 +41328,7 @@
         ]
     },
     "2026-08-02": {
-        "date": "2026-08-02 09:11",
+        "date": "2026-08-02 12:49",
         "terrestrial": [
             {
                 "rank": "1",
@@ -41368,14 +41368,14 @@
             },
             {
                 "rank": "7",
-                "program": "놀면뭐하니",
-                "channel": "MBC",
+                "program": "불후의명곡",
+                "channel": "KBS2",
                 "rate": "4.2"
             },
             {
                 "rank": "7",
-                "program": "불후의명곡",
-                "channel": "KBS2",
+                "program": "놀면뭐하니",
+                "channel": "MBC",
                 "rate": "4.2"
             },
             {
@@ -41416,19 +41416,19 @@
             },
             {
                 "rank": "14",
-                "program": "동행",
-                "channel": "KBS1",
-                "rate": "3.1"
-            },
-            {
-                "rank": "14",
                 "program": "그것이알고싶다",
                 "channel": "SBS",
                 "rate": "3.1"
             },
             {
+                "rank": "14",
+                "program": "동행",
+                "channel": "KBS1",
+                "rate": "3.1"
+            },
+            {
                 "rank": "17",
-                "program": "KBS뉴스(09:30)",
+                "program": "팔도밥상",
                 "channel": "KBS1",
                 "rate": "2.9"
             },
@@ -41440,7 +41440,7 @@
             },
             {
                 "rank": "17",
-                "program": "팔도밥상",
+                "program": "KBS뉴스(09:30)",
                 "channel": "KBS1",
                 "rate": "2.9"
             },
