@@ -42066,7 +42066,7 @@
         ]
     },
     "2026-08-04": {
-        "date": "2026-08-04 09:15",
+        "date": "2026-08-04 12:33",
         "terrestrial": [
             {
                 "rank": "1",
@@ -42082,14 +42082,14 @@
             },
             {
                 "rank": "3",
-                "program": "붉은진주",
-                "channel": "KBS2",
+                "program": "KBS9시뉴스",
+                "channel": "KBS1",
                 "rate": "7.4"
             },
             {
                 "rank": "3",
-                "program": "KBS9시뉴스",
-                "channel": "KBS1",
+                "program": "붉은진주",
+                "channel": "KBS2",
                 "rate": "7.4"
             },
             {
@@ -42154,14 +42154,14 @@
             },
             {
                 "rank": "14",
-                "program": "여름특선다큐(한국어세계를잇다)<재>",
-                "channel": "KBS1",
+                "program": "2TV생생정보",
+                "channel": "KBS2",
                 "rate": "2.8"
             },
             {
                 "rank": "14",
-                "program": "2TV생생정보",
-                "channel": "KBS2",
+                "program": "여름특선다큐(한국어세계를잇다)<재>",
+                "channel": "KBS1",
                 "rate": "2.8"
             },
             {
@@ -42344,13 +42344,13 @@
             },
             {
                 "rank": "6",
-                "program": "뉴스ON",
+                "program": "뉴스UP",
                 "channel": "YTN",
                 "rate": "1.15"
             },
             {
                 "rank": "6",
-                "program": "뉴스UP",
+                "program": "뉴스ON",
                 "channel": "YTN",
                 "rate": "1.15"
             },
