@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-04 12:33",
+    "date": "2026-08-04 13:32",
     "terrestrial": [
         {
             "rank": "1",
@@ -27,14 +27,14 @@
         },
         {
             "rank": "5",
-            "program": "아침마당",
-            "channel": "KBS1",
+            "program": "MBC뉴스데스크",
+            "channel": "MBC",
             "rate": "5.8"
         },
         {
             "rank": "5",
-            "program": "MBC뉴스데스크",
-            "channel": "MBC",
+            "program": "아침마당",
+            "channel": "KBS1",
             "rate": "5.8"
         },
         {
@@ -81,13 +81,13 @@
         },
         {
             "rank": "14",
-            "program": "말자쇼스페셜",
+            "program": "2TV생생정보",
             "channel": "KBS2",
             "rate": "2.8"
         },
         {
             "rank": "14",
-            "program": "2TV생생정보",
+            "program": "말자쇼스페셜",
             "channel": "KBS2",
             "rate": "2.8"
         },
