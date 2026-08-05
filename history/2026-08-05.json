@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-05 12:29",
+    "date": "2026-08-05 13:31",
     "terrestrial": [
         {
             "rank": "1",
@@ -99,14 +99,14 @@
         },
         {
             "rank": "17",
-            "program": "KBS뉴스광장1부",
-            "channel": "KBS1",
+            "program": "스모킹건",
+            "channel": "KBS2",
             "rate": "2.5"
         },
         {
             "rank": "17",
-            "program": "스모킹건",
-            "channel": "KBS2",
+            "program": "KBS뉴스광장1부",
+            "channel": "KBS1",
             "rate": "2.5"
         },
         {
