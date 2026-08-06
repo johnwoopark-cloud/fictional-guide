@@ -42804,7 +42804,7 @@
         ]
     },
     "2026-08-06": {
-        "date": "2026-08-06 12:33",
+        "date": "2026-08-06 13:31",
         "terrestrial": [
             {
                 "rank": "1",
@@ -42910,14 +42910,14 @@
             },
             {
                 "rank": "18",
-                "program": "황금어장라디오스타",
-                "channel": "MBC",
+                "program": "KBS뉴스광장1부",
+                "channel": "KBS1",
                 "rate": "2.5"
             },
             {
                 "rank": "18",
-                "program": "KBS뉴스광장1부",
-                "channel": "KBS1",
+                "program": "황금어장라디오스타",
+                "channel": "MBC",
                 "rate": "2.5"
             },
             {
@@ -43008,14 +43008,14 @@
             },
             {
                 "rank": "14",
-                "program": "시사팩트오늘",
-                "channel": "TV CHOSUN",
+                "program": "무명에서전설까지",
+                "channel": "MBN",
                 "rate": "1.32"
             },
             {
                 "rank": "14",
-                "program": "무명에서전설까지",
-                "channel": "MBN",
+                "program": "시사팩트오늘",
+                "channel": "TV CHOSUN",
                 "rate": "1.32"
             },
             {
