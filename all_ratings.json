@@ -43173,7 +43173,7 @@
         ]
     },
     "2026-08-07": {
-        "date": "2026-08-07 12:13",
+        "date": "2026-08-07 13:03",
         "terrestrial": [
             {
                 "rank": "1",
@@ -43255,14 +43255,14 @@
             },
             {
                 "rank": "14",
-                "program": "바다와함께살아왔다아지매<재>",
-                "channel": "KBS1",
+                "program": "SBS8뉴스",
+                "channel": "SBS",
                 "rate": "3.1"
             },
             {
                 "rank": "14",
-                "program": "SBS8뉴스",
-                "channel": "SBS",
+                "program": "바다와함께살아왔다아지매<재>",
+                "channel": "KBS1",
                 "rate": "3.1"
             },
             {
