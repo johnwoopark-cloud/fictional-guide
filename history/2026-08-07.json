@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-07 10:43",
+    "date": "2026-08-07 12:13",
     "terrestrial": [
         {
             "rank": "1",
@@ -343,25 +343,25 @@
         },
         {
             "rank": "17",
-            "program": "뉴스NOW",
-            "channel": "YTN",
-            "rate": "0.97"
-        },
-        {
-            "rank": "17",
             "program": "뉴스퀘어8PM",
             "channel": "YTN",
             "rate": "0.97"
         },
         {
+            "rank": "17",
+            "program": "뉴스NOW",
+            "channel": "YTN",
+            "rate": "0.97"
+        },
+        {
             "rank": "19",
-            "program": "출발600",
+            "program": "라이브투데이2부",
             "channel": "연합뉴스TV",
             "rate": "0.93"
         },
         {
             "rank": "19",
-            "program": "라이브투데이2부",
+            "program": "출발600",
             "channel": "연합뉴스TV",
             "rate": "0.93"
         }
