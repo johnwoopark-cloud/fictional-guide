@@ -43542,7 +43542,7 @@
         ]
     },
     "2026-08-08": {
-        "date": "2026-08-08 11:19",
+        "date": "2026-08-08 12:00",
         "terrestrial": [
             {
                 "rank": "1",
@@ -43642,14 +43642,14 @@
             },
             {
                 "rank": "17",
-                "program": "SBS8뉴스",
-                "channel": "SBS",
+                "program": "SINCE1983추적60분",
+                "channel": "KBS1",
                 "rate": "3.2"
             },
             {
                 "rank": "17",
-                "program": "SINCE1983추적60분",
-                "channel": "KBS1",
+                "program": "SBS8뉴스",
+                "channel": "SBS",
                 "rate": "3.2"
             },
             {
@@ -43886,14 +43886,14 @@
             },
             {
                 "rank": "17",
-                "program": "뉴스NOW",
-                "channel": "YTN",
+                "program": "뉴스포커스",
+                "channel": "연합뉴스TV",
                 "rate": "0.91"
             },
             {
                 "rank": "17",
-                "program": "뉴스포커스",
-                "channel": "연합뉴스TV",
+                "program": "뉴스NOW",
+                "channel": "YTN",
                 "rate": "0.91"
             },
             {
