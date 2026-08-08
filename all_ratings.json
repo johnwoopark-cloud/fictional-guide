@@ -43542,7 +43542,7 @@
         ]
     },
     "2026-08-08": {
-        "date": "2026-08-08 08:47",
+        "date": "2026-08-08 11:19",
         "terrestrial": [
             {
                 "rank": "1",
@@ -43886,14 +43886,14 @@
             },
             {
                 "rank": "17",
-                "program": "뉴스포커스",
-                "channel": "연합뉴스TV",
+                "program": "뉴스NOW",
+                "channel": "YTN",
                 "rate": "0.91"
             },
             {
                 "rank": "17",
-                "program": "뉴스NOW",
-                "channel": "YTN",
+                "program": "뉴스포커스",
+                "channel": "연합뉴스TV",
                 "rate": "0.91"
             },
             {
