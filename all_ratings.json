@@ -44280,7 +44280,7 @@
         ]
     },
     "2026-08-10": {
-        "date": "2026-08-10 11:31",
+        "date": "2026-08-10 12:18",
         "terrestrial": [
             {
                 "rank": "1",
@@ -44344,8 +44344,8 @@
             },
             {
                 "rank": "11",
-                "program": "탐사기획스트레이트",
-                "channel": "MBC",
+                "program": "SBS8뉴스",
+                "channel": "SBS",
                 "rate": "3.4"
             },
             {
@@ -44356,15 +44356,21 @@
             },
             {
                 "rank": "11",
-                "program": "SBS8뉴스",
-                "channel": "SBS",
+                "program": "특파원보고세계는지금<재>",
+                "channel": "KBS1",
                 "rate": "3.4"
             },
             {
                 "rank": "11",
-                "program": "특파원보고세계는지금<재>",
-                "channel": "KBS1",
+                "program": "탐사기획스트레이트",
+                "channel": "MBC",
                 "rate": "3.4"
+            },
+            {
+                "rank": "15",
+                "program": "런닝맨",
+                "channel": "SBS",
+                "rate": "3"
             },
             {
                 "rank": "15",
@@ -44376,12 +44382,6 @@
                 "rank": "15",
                 "program": "살림하는남자들<재>",
                 "channel": "KBS2",
-                "rate": "3"
-            },
-            {
-                "rank": "15",
-                "program": "런닝맨",
-                "channel": "SBS",
                 "rate": "3"
             },
             {
