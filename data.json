@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-10 08:45",
+    "date": "2026-08-10 11:31",
     "terrestrial": [
         {
             "rank": "1",
@@ -75,14 +75,14 @@
         },
         {
             "rank": "11",
-            "program": "특파원보고세계는지금<재>",
-            "channel": "KBS1",
+            "program": "SBS8뉴스",
+            "channel": "SBS",
             "rate": "3.4"
         },
         {
             "rank": "11",
-            "program": "SBS8뉴스",
-            "channel": "SBS",
+            "program": "특파원보고세계는지금<재>",
+            "channel": "KBS1",
             "rate": "3.4"
         },
         {
@@ -93,14 +93,14 @@
         },
         {
             "rank": "15",
-            "program": "런닝맨",
-            "channel": "SBS",
+            "program": "살림하는남자들<재>",
+            "channel": "KBS2",
             "rate": "3"
         },
         {
             "rank": "15",
-            "program": "살림하는남자들<재>",
-            "channel": "KBS2",
+            "program": "런닝맨",
+            "channel": "SBS",
             "rate": "3"
         },
         {
