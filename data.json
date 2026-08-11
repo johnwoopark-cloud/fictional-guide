@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-11 08:49",
+    "date": "2026-08-11 11:25",
     "terrestrial": [
         {
             "rank": "1",
@@ -45,13 +45,13 @@
         },
         {
             "rank": "8",
-            "program": "가요무대",
+            "program": "6시내고향",
             "channel": "KBS1",
             "rate": "4.9"
         },
         {
             "rank": "8",
-            "program": "6시내고향",
+            "program": "가요무대",
             "channel": "KBS1",
             "rate": "4.9"
         },
@@ -81,26 +81,26 @@
         },
         {
             "rank": "14",
-            "program": "SBS8뉴스",
-            "channel": "SBS",
-            "rate": "3.5"
-        },
-        {
-            "rank": "14",
             "program": "말자쇼",
             "channel": "KBS2",
             "rate": "3.5"
         },
         {
-            "rank": "16",
-            "program": "오은영리포트결혼지옥",
-            "channel": "MBC",
-            "rate": "3.1"
+            "rank": "14",
+            "program": "SBS8뉴스",
+            "channel": "SBS",
+            "rate": "3.5"
         },
         {
             "rank": "16",
             "program": "생활의달인",
             "channel": "SBS",
+            "rate": "3.1"
+        },
+        {
+            "rank": "16",
+            "program": "오은영리포트결혼지옥",
+            "channel": "MBC",
             "rate": "3.1"
         },
         {
