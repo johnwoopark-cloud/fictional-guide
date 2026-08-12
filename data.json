@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-12 11:41",
+    "date": "2026-08-12 12:29",
     "terrestrial": [
         {
             "rank": "1",
@@ -99,25 +99,25 @@
         },
         {
             "rank": "17",
-            "program": "KBS뉴스5",
-            "channel": "KBS1",
-            "rate": "2.4"
-        },
-        {
-            "rank": "17",
             "program": "시사기획창",
             "channel": "KBS1",
             "rate": "2.4"
         },
         {
+            "rank": "17",
+            "program": "KBS뉴스5",
+            "channel": "KBS1",
+            "rate": "2.4"
+        },
+        {
             "rank": "19",
-            "program": "KBS뉴스광장1부",
+            "program": "이웃집찰스",
             "channel": "KBS1",
             "rate": "2.3"
         },
         {
             "rank": "19",
-            "program": "이웃집찰스",
+            "program": "KBS뉴스광장1부",
             "channel": "KBS1",
             "rate": "2.3"
         }
