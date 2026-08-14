@@ -45756,7 +45756,7 @@
         ]
     },
     "2026-08-14": {
-        "date": "2026-08-14 08:57",
+        "date": "2026-08-14 11:42",
         "terrestrial": [
             {
                 "rank": "1",
@@ -45790,13 +45790,13 @@
             },
             {
                 "rank": "6",
-                "program": "아침마당",
+                "program": "6시내고향",
                 "channel": "KBS1",
                 "rate": "4.9"
             },
             {
                 "rank": "6",
-                "program": "6시내고향",
+                "program": "아침마당",
                 "channel": "KBS1",
                 "rate": "4.9"
             },
@@ -45820,13 +45820,13 @@
             },
             {
                 "rank": "11",
-                "program": "KBS뉴스7",
+                "program": "KBS뉴스930",
                 "channel": "KBS1",
                 "rate": "3.4"
             },
             {
                 "rank": "11",
-                "program": "KBS뉴스930",
+                "program": "KBS뉴스7",
                 "channel": "KBS1",
                 "rate": "3.4"
             },
@@ -45844,14 +45844,14 @@
             },
             {
                 "rank": "15",
-                "program": "꼬리에꼬리를무는그날이야기",
-                "channel": "SBS",
+                "program": "KBS뉴스광장1부",
+                "channel": "KBS1",
                 "rate": "2.7"
             },
             {
                 "rank": "15",
-                "program": "KBS뉴스광장1부",
-                "channel": "KBS1",
+                "program": "꼬리에꼬리를무는그날이야기",
+                "channel": "SBS",
                 "rate": "2.7"
             },
             {
