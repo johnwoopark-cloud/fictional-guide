@@ -46125,7 +46125,7 @@
         ]
     },
     "2026-08-15": {
-        "date": "2026-08-15 08:35",
+        "date": "2026-08-15 10:47",
         "terrestrial": [
             {
                 "rank": "1",
@@ -46147,14 +46147,14 @@
             },
             {
                 "rank": "4",
-                "program": "KBS9시뉴스",
-                "channel": "KBS1",
+                "program": "욕망의덫",
+                "channel": "KBS2",
                 "rate": "7"
             },
             {
                 "rank": "4",
-                "program": "욕망의덫",
-                "channel": "KBS2",
+                "program": "KBS9시뉴스",
+                "channel": "KBS1",
                 "rate": "7"
             },
             {
@@ -46243,8 +46243,8 @@
             },
             {
                 "rank": "20",
-                "program": "2TV생생정보",
-                "channel": "KBS2",
+                "program": "SINCE1983추적60분",
+                "channel": "KBS1",
                 "rate": "2.4"
             }
         ],
