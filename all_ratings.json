@@ -46125,7 +46125,7 @@
         ]
     },
     "2026-08-15": {
-        "date": "2026-08-15 10:47",
+        "date": "2026-08-15 11:19",
         "terrestrial": [
             {
                 "rank": "1",
@@ -46171,14 +46171,14 @@
             },
             {
                 "rank": "8",
-                "program": "재벌X형사2",
-                "channel": "SBS",
+                "program": "MBC뉴스데스크",
+                "channel": "MBC",
                 "rate": "5.1"
             },
             {
                 "rank": "8",
-                "program": "MBC뉴스데스크",
-                "channel": "MBC",
+                "program": "재벌X형사2",
+                "channel": "SBS",
                 "rate": "5.1"
             },
             {
@@ -46231,13 +46231,13 @@
             },
             {
                 "rank": "18",
-                "program": "동물의왕국",
+                "program": "KBS뉴스광장1부",
                 "channel": "KBS1",
                 "rate": "2.5"
             },
             {
                 "rank": "18",
-                "program": "KBS뉴스광장1부",
+                "program": "동물의왕국",
                 "channel": "KBS1",
                 "rate": "2.5"
             },
