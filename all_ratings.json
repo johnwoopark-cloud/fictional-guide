@@ -46863,7 +46863,7 @@
         ]
     },
     "2026-08-17": {
-        "date": "2026-08-17 08:33",
+        "date": "2026-08-17 10:53",
         "terrestrial": [
             {
                 "rank": "1",
@@ -46909,14 +46909,14 @@
             },
             {
                 "rank": "8",
-                "program": "MBC뉴스데스크",
-                "channel": "MBC",
+                "program": "사장님귀는당나귀귀",
+                "channel": "KBS2",
                 "rate": "4.1"
             },
             {
                 "rank": "8",
-                "program": "사장님귀는당나귀귀",
-                "channel": "KBS2",
+                "program": "MBC뉴스데스크",
+                "channel": "MBC",
                 "rate": "4.1"
             },
             {
@@ -46951,12 +46951,6 @@
             },
             {
                 "rank": "15",
-                "program": "동물의왕국",
-                "channel": "KBS1",
-                "rate": "3"
-            },
-            {
-                "rank": "15",
                 "program": "런닝맨",
                 "channel": "SBS",
                 "rate": "3"
@@ -46965,6 +46959,12 @@
                 "rank": "15",
                 "program": "살림하는남자들<재>",
                 "channel": "KBS2",
+                "rate": "3"
+            },
+            {
+                "rank": "15",
+                "program": "동물의왕국",
+                "channel": "KBS1",
                 "rate": "3"
             },
             {
