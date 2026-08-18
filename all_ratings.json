@@ -47232,7 +47232,7 @@
         ]
     },
     "2026-08-18": {
-        "date": "2026-08-18 08:35",
+        "date": "2026-08-18 10:48",
         "terrestrial": [
             {
                 "rank": "1",
@@ -47308,6 +47308,12 @@
             },
             {
                 "rank": "13",
+                "program": "6시내고향",
+                "channel": "KBS1",
+                "rate": "4.1"
+            },
+            {
+                "rank": "13",
                 "program": "2TV생생정보",
                 "channel": "KBS2",
                 "rate": "4.1"
@@ -47315,12 +47321,6 @@
             {
                 "rank": "13",
                 "program": "KBS뉴스광장2부",
-                "channel": "KBS1",
-                "rate": "4.1"
-            },
-            {
-                "rank": "13",
-                "program": "6시내고향",
                 "channel": "KBS1",
                 "rate": "4.1"
             },
@@ -47350,8 +47350,8 @@
             },
             {
                 "rank": "20",
-                "program": "오은영리포트결혼지옥",
-                "channel": "MBC",
+                "program": "KBS뉴스특보",
+                "channel": "KBS1",
                 "rate": "3.3"
             }
         ],
