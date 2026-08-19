@@ -47601,7 +47601,7 @@
         ]
     },
     "2026-08-19": {
-        "date": "2026-08-19 08:34",
+        "date": "2026-08-19 10:50",
         "terrestrial": [
             {
                 "rank": "1",
@@ -47635,14 +47635,14 @@
             },
             {
                 "rank": "6",
-                "program": "MBC뉴스데스크",
-                "channel": "MBC",
+                "program": "KBS뉴스광장2부",
+                "channel": "KBS1",
                 "rate": "5"
             },
             {
                 "rank": "6",
-                "program": "KBS뉴스광장2부",
-                "channel": "KBS1",
+                "program": "MBC뉴스데스크",
+                "channel": "MBC",
                 "rate": "5"
             },
             {
@@ -47683,14 +47683,14 @@
             },
             {
                 "rank": "14",
-                "program": "동상이몽2너는내운명",
-                "channel": "SBS",
+                "program": "시사기획창",
+                "channel": "KBS1",
                 "rate": "2.9"
             },
             {
                 "rank": "14",
-                "program": "시사기획창",
-                "channel": "KBS1",
+                "program": "동상이몽2너는내운명",
+                "channel": "SBS",
                 "rate": "2.9"
             },
             {
