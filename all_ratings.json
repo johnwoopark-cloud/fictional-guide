@@ -47970,7 +47970,7 @@
         ]
     },
     "2026-08-20": {
-        "date": "2026-08-20 10:49",
+        "date": "2026-08-20 11:30",
         "terrestrial": [
             {
                 "rank": "1",
@@ -48046,14 +48046,14 @@
             },
             {
                 "rank": "13",
-                "program": "슈퍼맨이돌아왔다",
-                "channel": "KBS2",
+                "program": "KBS뉴스7",
+                "channel": "KBS1",
                 "rate": "2.9"
             },
             {
                 "rank": "13",
-                "program": "KBS뉴스7",
-                "channel": "KBS1",
+                "program": "슈퍼맨이돌아왔다",
+                "channel": "KBS2",
                 "rate": "2.9"
             },
             {
