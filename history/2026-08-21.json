@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-21 10:55",
+    "date": "2026-08-21 11:36",
     "terrestrial": [
         {
             "rank": "1",
@@ -15,14 +15,14 @@
         },
         {
             "rank": "3",
-            "program": "KBS9시뉴스",
-            "channel": "KBS1",
+            "program": "욕망의덫",
+            "channel": "KBS2",
             "rate": "6.3"
         },
         {
             "rank": "3",
-            "program": "욕망의덫",
-            "channel": "KBS2",
+            "program": "KBS9시뉴스",
+            "channel": "KBS1",
             "rate": "6.3"
         },
         {
@@ -75,6 +75,12 @@
         },
         {
             "rank": "13",
+            "program": "다큐인사이트(반도체머니돈의궤적)",
+            "channel": "KBS1",
+            "rate": "3.1"
+        },
+        {
+            "rank": "13",
             "program": "신상출시편스토랑",
             "channel": "KBS2",
             "rate": "3.1"
@@ -86,21 +92,15 @@
             "rate": "3.1"
         },
         {
-            "rank": "13",
-            "program": "다큐인사이트(반도체머니돈의궤적)",
-            "channel": "KBS1",
-            "rate": "3.1"
+            "rank": "16",
+            "program": "SBS8뉴스",
+            "channel": "SBS",
+            "rate": "2.8"
         },
         {
             "rank": "16",
             "program": "KBS뉴스930",
             "channel": "KBS1",
-            "rate": "2.8"
-        },
-        {
-            "rank": "16",
-            "program": "SBS8뉴스",
-            "channel": "SBS",
             "rate": "2.8"
         },
         {
