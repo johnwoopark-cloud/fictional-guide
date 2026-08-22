@@ -48708,7 +48708,7 @@
         ]
     },
     "2026-08-22": {
-        "date": "2026-08-22 10:48",
+        "date": "2026-08-22 11:28",
         "terrestrial": [
             {
                 "rank": "1",
@@ -48724,14 +48724,14 @@
             },
             {
                 "rank": "3",
-                "program": "인간극장",
-                "channel": "KBS1",
+                "program": "욕망의덫",
+                "channel": "KBS2",
                 "rate": "7.5"
             },
             {
                 "rank": "3",
-                "program": "욕망의덫",
-                "channel": "KBS2",
+                "program": "인간극장",
+                "channel": "KBS1",
                 "rate": "7.5"
             },
             {
@@ -48742,14 +48742,14 @@
             },
             {
                 "rank": "6",
-                "program": "재벌X형사2",
-                "channel": "SBS",
+                "program": "KBS9시뉴스",
+                "channel": "KBS1",
                 "rate": "6.2"
             },
             {
                 "rank": "6",
-                "program": "KBS9시뉴스",
-                "channel": "KBS1",
+                "program": "재벌X형사2",
+                "channel": "SBS",
                 "rate": "6.2"
             },
             {
@@ -48802,14 +48802,14 @@
             },
             {
                 "rank": "16",
-                "program": "2TV생생정보",
-                "channel": "KBS2",
+                "program": "동물의왕국",
+                "channel": "KBS1",
                 "rate": "2.9"
             },
             {
                 "rank": "16",
-                "program": "동물의왕국",
-                "channel": "KBS1",
+                "program": "2TV생생정보",
+                "channel": "KBS2",
                 "rate": "2.9"
             },
             {
@@ -49022,14 +49022,14 @@
             },
             {
                 "rank": "12",
-                "program": "유부녀킬러",
-                "channel": "MBC드라마넷",
+                "program": "아이러브베이스볼",
+                "channel": "KBSN스포츠",
                 "rate": "0.9"
             },
             {
                 "rank": "12",
-                "program": "아이러브베이스볼",
-                "channel": "KBSN스포츠",
+                "program": "유부녀킬러",
+                "channel": "MBC드라마넷",
                 "rate": "0.9"
             },
             {
