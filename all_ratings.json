@@ -49077,7 +49077,7 @@
         ]
     },
     "2026-08-23": {
-        "date": "2026-08-23 08:34",
+        "date": "2026-08-23 10:57",
         "terrestrial": [
             {
                 "rank": "1",
@@ -49135,14 +49135,14 @@
             },
             {
                 "rank": "10",
-                "program": "남북의창",
-                "channel": "KBS1",
+                "program": "살림하는남자들",
+                "channel": "KBS2",
                 "rate": "4.3"
             },
             {
                 "rank": "10",
-                "program": "살림하는남자들",
-                "channel": "KBS2",
+                "program": "남북의창",
+                "channel": "KBS1",
                 "rate": "4.3"
             },
             {
