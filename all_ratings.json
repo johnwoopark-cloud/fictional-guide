@@ -49446,7 +49446,7 @@
         ]
     },
     "2026-08-24": {
-        "date": "2026-08-24 08:34",
+        "date": "2026-08-24 10:55",
         "terrestrial": [
             {
                 "rank": "1",
@@ -49534,14 +49534,14 @@
             },
             {
                 "rank": "15",
-                "program": "열린음악회YOURIDOL",
-                "channel": "KBS1",
+                "program": "SBS8뉴스",
+                "channel": "SBS",
                 "rate": "2.9"
             },
             {
                 "rank": "15",
-                "program": "SBS8뉴스",
-                "channel": "SBS",
+                "program": "열린음악회YOURIDOL",
+                "channel": "KBS1",
                 "rate": "2.9"
             },
             {
