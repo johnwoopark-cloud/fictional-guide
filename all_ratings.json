@@ -49815,7 +49815,7 @@
         ]
     },
     "2026-08-25": {
-        "date": "2026-08-25 10:49",
+        "date": "2026-08-25 11:31",
         "terrestrial": [
             {
                 "rank": "1",
@@ -49891,14 +49891,14 @@
             },
             {
                 "rank": "13",
-                "program": "KBS뉴스7",
-                "channel": "KBS1",
+                "program": "2TV생생정보",
+                "channel": "KBS2",
                 "rate": "3.6"
             },
             {
                 "rank": "13",
-                "program": "2TV생생정보",
-                "channel": "KBS2",
+                "program": "KBS뉴스7",
+                "channel": "KBS1",
                 "rate": "3.6"
             },
             {
