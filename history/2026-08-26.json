@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-26 10:56",
+    "date": "2026-08-26 11:39",
     "terrestrial": [
         {
             "rank": "1",
@@ -15,14 +15,14 @@
         },
         {
             "rank": "3",
-            "program": "욕망의덫",
-            "channel": "KBS2",
+            "program": "KBS9시뉴스",
+            "channel": "KBS1",
             "rate": "7.2"
         },
         {
             "rank": "3",
-            "program": "KBS9시뉴스",
-            "channel": "KBS1",
+            "program": "욕망의덫",
+            "channel": "KBS2",
             "rate": "7.2"
         },
         {
