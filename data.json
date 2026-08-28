@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-28 15:55",
+    "date": "2026-08-28 20:20",
     "terrestrial": [
         {
             "rank": "1",
@@ -39,14 +39,14 @@
         },
         {
             "rank": "7",
-            "program": "가족관계증명서",
-            "channel": "MBC",
+            "program": "아침마당",
+            "channel": "KBS1",
             "rate": "4.8"
         },
         {
             "rank": "7",
-            "program": "아침마당",
-            "channel": "KBS1",
+            "program": "가족관계증명서",
+            "channel": "MBC",
             "rate": "4.8"
         },
         {
@@ -75,13 +75,13 @@
         },
         {
             "rank": "13",
-            "program": "KBS뉴스930",
+            "program": "한국인의밥상",
             "channel": "KBS1",
             "rate": "3.1"
         },
         {
             "rank": "13",
-            "program": "한국인의밥상",
+            "program": "KBS뉴스930",
             "channel": "KBS1",
             "rate": "3.1"
         },
