@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-30 10:14",
+    "date": "2026-08-30 14:21",
     "terrestrial": [
         {
             "rank": "1",
@@ -57,14 +57,14 @@
         },
         {
             "rank": "10",
-            "program": "살림하는남자들",
-            "channel": "KBS2",
+            "program": "동네한바퀴",
+            "channel": "KBS1",
             "rate": "4.3"
         },
         {
             "rank": "10",
-            "program": "동네한바퀴",
-            "channel": "KBS1",
+            "program": "살림하는남자들",
+            "channel": "KBS2",
             "rate": "4.3"
         },
         {
@@ -75,13 +75,13 @@
         },
         {
             "rank": "13",
-            "program": "재벌X형사2<재>",
+            "program": "그것이알고싶다",
             "channel": "SBS",
             "rate": "3.8"
         },
         {
             "rank": "13",
-            "program": "그것이알고싶다",
+            "program": "재벌X형사2<재>",
             "channel": "SBS",
             "rate": "3.8"
         },
@@ -105,14 +105,14 @@
         },
         {
             "rank": "18",
-            "program": "나혼자산다스페셜",
-            "channel": "MBC",
+            "program": "KBS뉴스(09:30)",
+            "channel": "KBS1",
             "rate": "2.8"
         },
         {
             "rank": "18",
-            "program": "KBS뉴스(09:30)",
-            "channel": "KBS1",
+            "program": "나혼자산다스페셜",
+            "channel": "MBC",
             "rate": "2.8"
         },
         {
@@ -307,14 +307,14 @@
         },
         {
             "rank": "11",
-            "program": "연합뉴스TV뉴스19",
-            "channel": "연합뉴스TV",
+            "program": "뉴스START2부",
+            "channel": "YTN",
             "rate": "1.21"
         },
         {
             "rank": "11",
-            "program": "뉴스START2부",
-            "channel": "YTN",
+            "program": "연합뉴스TV뉴스19",
+            "channel": "연합뉴스TV",
             "rate": "1.21"
         },
         {
