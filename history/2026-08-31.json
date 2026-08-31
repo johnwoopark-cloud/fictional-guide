@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-31 10:22",
+    "date": "2026-08-31 14:29",
     "terrestrial": [
         {
             "rank": "1",
@@ -39,14 +39,14 @@
         },
         {
             "rank": "7",
-            "program": "MBC뉴스데스크",
-            "channel": "MBC",
+            "program": "KBS뉴스(12:00)",
+            "channel": "KBS1",
             "rate": "4.7"
         },
         {
             "rank": "7",
-            "program": "KBS뉴스(12:00)",
-            "channel": "KBS1",
+            "program": "MBC뉴스데스크",
+            "channel": "MBC",
             "rate": "4.7"
         },
         {
@@ -81,8 +81,8 @@
         },
         {
             "rank": "14",
-            "program": "특파원보고세계는지금<재>",
-            "channel": "KBS1",
+            "program": "탐사기획스트레이트",
+            "channel": "MBC",
             "rate": "3.3"
         },
         {
@@ -93,20 +93,20 @@
         },
         {
             "rank": "14",
-            "program": "탐사기획스트레이트",
-            "channel": "MBC",
-            "rate": "3.3"
-        },
-        {
-            "rank": "17",
-            "program": "역사스페셜시간여행자",
+            "program": "특파원보고세계는지금<재>",
             "channel": "KBS1",
-            "rate": "3"
+            "rate": "3.3"
         },
         {
             "rank": "17",
             "program": "런닝맨",
             "channel": "SBS",
+            "rate": "3"
+        },
+        {
+            "rank": "17",
+            "program": "역사스페셜시간여행자",
+            "channel": "KBS1",
             "rate": "3"
         },
         {
@@ -289,14 +289,14 @@
         },
         {
             "rank": "8",
-            "program": "뉴스와이드(17:50)",
-            "channel": "YTN",
+            "program": "2026KBO리그",
+            "channel": "SPOTV",
             "rate": "1.64"
         },
         {
             "rank": "8",
-            "program": "2026KBO리그",
-            "channel": "SPOTV",
+            "program": "뉴스와이드(17:50)",
+            "channel": "YTN",
             "rate": "1.64"
         },
         {
