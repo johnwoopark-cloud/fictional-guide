@@ -1,5 +1,5 @@
 {
-    "date": "2026-09-01 10:49",
+    "date": "2026-09-01 14:03",
     "terrestrial": [
         {
             "rank": "1",
@@ -15,14 +15,14 @@
         },
         {
             "rank": "3",
-            "program": "욕망의덫",
-            "channel": "KBS2",
+            "program": "인간극장",
+            "channel": "KBS1",
             "rate": "7.8"
         },
         {
             "rank": "3",
-            "program": "인간극장",
-            "channel": "KBS1",
+            "program": "욕망의덫",
+            "channel": "KBS2",
             "rate": "7.8"
         },
         {
@@ -99,26 +99,26 @@
         },
         {
             "rank": "17",
-            "program": "생활의달인",
-            "channel": "SBS",
-            "rate": "3.2"
-        },
-        {
-            "rank": "17",
             "program": "말자쇼",
             "channel": "KBS2",
             "rate": "3.2"
         },
         {
-            "rank": "19",
-            "program": "뉴스라인W",
-            "channel": "KBS1",
-            "rate": "2.9"
+            "rank": "17",
+            "program": "생활의달인",
+            "channel": "SBS",
+            "rate": "3.2"
         },
         {
             "rank": "19",
             "program": "다큐3일",
             "channel": "KBS2",
+            "rate": "2.9"
+        },
+        {
+            "rank": "19",
+            "program": "뉴스라인W",
+            "channel": "KBS1",
             "rate": "2.9"
         }
     ],
