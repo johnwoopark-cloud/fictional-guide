@@ -52398,7 +52398,7 @@
         ]
     },
     "2026-09-01": {
-        "date": "2026-09-01 14:03",
+        "date": "2026-09-01 15:15",
         "terrestrial": [
             {
                 "rank": "1",
@@ -52498,26 +52498,26 @@
             },
             {
                 "rank": "17",
-                "program": "말자쇼",
-                "channel": "KBS2",
-                "rate": "3.2"
-            },
-            {
-                "rank": "17",
                 "program": "생활의달인",
                 "channel": "SBS",
                 "rate": "3.2"
             },
             {
-                "rank": "19",
-                "program": "다큐3일",
+                "rank": "17",
+                "program": "말자쇼",
                 "channel": "KBS2",
-                "rate": "2.9"
+                "rate": "3.2"
             },
             {
                 "rank": "19",
                 "program": "뉴스라인W",
                 "channel": "KBS1",
+                "rate": "2.9"
+            },
+            {
+                "rank": "19",
+                "program": "다큐3일",
+                "channel": "KBS2",
                 "rate": "2.9"
             }
         ],
