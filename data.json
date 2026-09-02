@@ -1,5 +1,5 @@
 {
-    "date": "2026-09-02 10:00",
+    "date": "2026-09-02 13:28",
     "terrestrial": [
         {
             "rank": "1",
@@ -87,14 +87,14 @@
         },
         {
             "rank": "15",
-            "program": "SBS8뉴스",
-            "channel": "SBS",
+            "program": "2TV생생정보",
+            "channel": "KBS2",
             "rate": "3"
         },
         {
             "rank": "15",
-            "program": "2TV생생정보",
-            "channel": "KBS2",
+            "program": "SBS8뉴스",
+            "channel": "SBS",
             "rate": "3"
         },
         {
@@ -105,14 +105,14 @@
         },
         {
             "rank": "18",
-            "program": "옥탑방의문제아들",
-            "channel": "KBS2",
+            "program": "KBS뉴스5",
+            "channel": "KBS1",
             "rate": "2.6"
         },
         {
             "rank": "18",
-            "program": "KBS뉴스5",
-            "channel": "KBS1",
+            "program": "옥탑방의문제아들",
+            "channel": "KBS2",
             "rate": "2.6"
         },
         {
