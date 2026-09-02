@@ -52767,7 +52767,7 @@
         ]
     },
     "2026-09-02": {
-        "date": "2026-09-02 13:28",
+        "date": "2026-09-02 14:51",
         "terrestrial": [
             {
                 "rank": "1",
@@ -52813,13 +52813,13 @@
             },
             {
                 "rank": "8",
-                "program": "6시내고향",
+                "program": "KBS뉴스광장2부",
                 "channel": "KBS1",
                 "rate": "4.7"
             },
             {
                 "rank": "8",
-                "program": "KBS뉴스광장2부",
+                "program": "6시내고향",
                 "channel": "KBS1",
                 "rate": "4.7"
             },
@@ -52855,14 +52855,14 @@
             },
             {
                 "rank": "15",
-                "program": "2TV생생정보",
-                "channel": "KBS2",
+                "program": "SBS8뉴스",
+                "channel": "SBS",
                 "rate": "3"
             },
             {
                 "rank": "15",
-                "program": "SBS8뉴스",
-                "channel": "SBS",
+                "program": "2TV생생정보",
+                "channel": "KBS2",
                 "rate": "3"
             },
             {
@@ -52885,7 +52885,7 @@
             },
             {
                 "rank": "20",
-                "program": "동물의왕국",
+                "program": "시사기획창",
                 "channel": "KBS1",
                 "rate": "2.5"
             }
