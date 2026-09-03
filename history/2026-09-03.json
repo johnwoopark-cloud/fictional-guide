@@ -1,5 +1,5 @@
 {
-    "date": "2026-09-03 10:06",
+    "date": "2026-09-03 13:21",
     "terrestrial": [
         {
             "rank": "1",
@@ -87,14 +87,14 @@
         },
         {
             "rank": "15",
-            "program": "황금어장라디오스타",
-            "channel": "MBC",
+            "program": "2TV생생정보",
+            "channel": "KBS2",
             "rate": "2.7"
         },
         {
             "rank": "15",
-            "program": "2TV생생정보",
-            "channel": "KBS2",
+            "program": "황금어장라디오스타",
+            "channel": "MBC",
             "rate": "2.7"
         },
         {
@@ -111,7 +111,7 @@
         },
         {
             "rank": "19",
-            "program": "황신혜의같이삽시다",
+            "program": "KBS뉴스광장1부",
             "channel": "KBS1",
             "rate": "2.3"
         },
