@@ -1,5 +1,5 @@
 {
-    "date": "2026-09-05 09:56",
+    "date": "2026-09-05 13:22",
     "terrestrial": [
         {
             "rank": "1",
@@ -27,14 +27,14 @@
         },
         {
             "rank": "5",
-            "program": "KBS9시뉴스",
-            "channel": "KBS1",
+            "program": "재벌X형사2",
+            "channel": "SBS",
             "rate": "6.7"
         },
         {
             "rank": "5",
-            "program": "재벌X형사2",
-            "channel": "SBS",
+            "program": "KBS9시뉴스",
+            "channel": "KBS1",
             "rate": "6.7"
         },
         {
@@ -93,14 +93,14 @@
         },
         {
             "rank": "16",
-            "program": "2TV생생정보",
-            "channel": "KBS2",
+            "program": "KBS뉴스광장1부",
+            "channel": "KBS1",
             "rate": "2.8"
         },
         {
             "rank": "16",
-            "program": "KBS뉴스광장1부",
-            "channel": "KBS1",
+            "program": "2TV생생정보",
+            "channel": "KBS2",
             "rate": "2.8"
         },
         {
