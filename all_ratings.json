@@ -54243,7 +54243,7 @@
         ]
     },
     "2026-09-06": {
-        "date": "2026-09-06 09:56",
+        "date": "2026-09-06 13:33",
         "terrestrial": [
             {
                 "rank": "1",
@@ -54277,14 +54277,14 @@
             },
             {
                 "rank": "6",
-                "program": "동네한바퀴",
-                "channel": "KBS1",
+                "program": "놀면뭐하니",
+                "channel": "MBC",
                 "rate": "4.2"
             },
             {
                 "rank": "6",
-                "program": "놀면뭐하니",
-                "channel": "MBC",
+                "program": "동네한바퀴",
+                "channel": "KBS1",
                 "rate": "4.2"
             },
             {
@@ -54325,14 +54325,14 @@
             },
             {
                 "rank": "14",
-                "program": "걸어서세계속으로",
-                "channel": "KBS1",
+                "program": "그것이알고싶다",
+                "channel": "SBS",
                 "rate": "3.2"
             },
             {
                 "rank": "14",
-                "program": "그것이알고싶다",
-                "channel": "SBS",
+                "program": "걸어서세계속으로",
+                "channel": "KBS1",
                 "rate": "3.2"
             },
             {
