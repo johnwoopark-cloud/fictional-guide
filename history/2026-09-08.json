@@ -1,5 +1,5 @@
 {
-    "date": "2026-09-08 10:11",
+    "date": "2026-09-08 13:30",
     "terrestrial": [
         {
             "rank": "1",
@@ -33,13 +33,13 @@
         },
         {
             "rank": "6",
-            "program": "아침마당",
+            "program": "KBS뉴스광장2부",
             "channel": "KBS1",
             "rate": "5.1"
         },
         {
             "rank": "6",
-            "program": "KBS뉴스광장2부",
+            "program": "아침마당",
             "channel": "KBS1",
             "rate": "5.1"
         },
@@ -93,14 +93,14 @@
         },
         {
             "rank": "16",
-            "program": "SBS8뉴스",
-            "channel": "SBS",
+            "program": "2TV생생정보",
+            "channel": "KBS2",
             "rate": "3.3"
         },
         {
             "rank": "16",
-            "program": "2TV생생정보",
-            "channel": "KBS2",
+            "program": "SBS8뉴스",
+            "channel": "SBS",
             "rate": "3.3"
         },
         {
@@ -349,14 +349,14 @@
         },
         {
             "rank": "18",
-            "program": "뉴스포커스",
-            "channel": "연합뉴스TV",
+            "program": "뉴스NOW",
+            "channel": "YTN",
             "rate": "0.77"
         },
         {
             "rank": "18",
-            "program": "뉴스NOW",
-            "channel": "YTN",
+            "program": "뉴스포커스",
+            "channel": "연합뉴스TV",
             "rate": "0.77"
         },
         {
