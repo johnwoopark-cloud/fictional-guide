@@ -55350,7 +55350,7 @@
         ]
     },
     "2026-09-09": {
-        "date": "2026-09-09 13:37",
+        "date": "2026-09-09 15:00",
         "terrestrial": [
             {
                 "rank": "1",
@@ -55408,14 +55408,14 @@
             },
             {
                 "rank": "10",
-                "program": "틈만나면",
-                "channel": "SBS",
+                "program": "KBS뉴스930",
+                "channel": "KBS1",
                 "rate": "3.4"
             },
             {
                 "rank": "10",
-                "program": "KBS뉴스930",
-                "channel": "KBS1",
+                "program": "틈만나면",
+                "channel": "SBS",
                 "rate": "3.4"
             },
             {
@@ -55438,14 +55438,14 @@
             },
             {
                 "rank": "15",
-                "program": "동상이몽2너는내운명",
-                "channel": "SBS",
+                "program": "KBS뉴스광장1부",
+                "channel": "KBS1",
                 "rate": "2.7"
             },
             {
                 "rank": "15",
-                "program": "KBS뉴스광장1부",
-                "channel": "KBS1",
+                "program": "동상이몽2너는내운명",
+                "channel": "SBS",
                 "rate": "2.7"
             },
             {
@@ -55468,8 +55468,8 @@
             },
             {
                 "rank": "20",
-                "program": "옥탑방의문제아들",
-                "channel": "KBS2",
+                "program": "KBS뉴스5",
+                "channel": "KBS1",
                 "rate": "2"
             }
         ],
