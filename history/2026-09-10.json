@@ -1,5 +1,5 @@
 {
-    "date": "2026-09-10 10:03",
+    "date": "2026-09-10 13:37",
     "terrestrial": [
         {
             "rank": "1",
@@ -99,14 +99,14 @@
         },
         {
             "rank": "16",
-            "program": "SBS8뉴스",
-            "channel": "SBS",
+            "program": "동물의왕국",
+            "channel": "KBS1",
             "rate": "2.6"
         },
         {
             "rank": "16",
-            "program": "동물의왕국",
-            "channel": "KBS1",
+            "program": "SBS8뉴스",
+            "channel": "SBS",
             "rate": "2.6"
         },
         {
@@ -325,13 +325,13 @@
         },
         {
             "rank": "14",
-            "program": "뉴스잇",
+            "program": "뉴스포커스",
             "channel": "연합뉴스TV",
             "rate": "0.8"
         },
         {
             "rank": "14",
-            "program": "뉴스포커스",
+            "program": "뉴스잇",
             "channel": "연합뉴스TV",
             "rate": "0.8"
         },
