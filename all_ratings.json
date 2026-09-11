@@ -56088,7 +56088,7 @@
         ]
     },
     "2026-09-11": {
-        "date": "2026-09-11 10:04",
+        "date": "2026-09-11 13:35",
         "terrestrial": [
             {
                 "rank": "1",
@@ -56188,13 +56188,13 @@
             },
             {
                 "rank": "17",
-                "program": "KBS뉴스광장1부",
+                "program": "동물의왕국",
                 "channel": "KBS1",
                 "rate": "2.5"
             },
             {
                 "rank": "17",
-                "program": "동물의왕국",
+                "program": "KBS뉴스광장1부",
                 "channel": "KBS1",
                 "rate": "2.5"
             },
@@ -56328,8 +56328,8 @@
             },
             {
                 "rank": "20",
-                "program": "이가혁라이브",
-                "channel": "JTBC",
+                "program": "신통방통",
+                "channel": "TV CHOSUN",
                 "rate": "0.77"
             }
         ],
