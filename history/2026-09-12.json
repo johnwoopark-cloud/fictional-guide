@@ -1,5 +1,5 @@
 {
-    "date": "2026-09-12 13:30",
+    "date": "2026-09-12 14:49",
     "terrestrial": [
         {
             "rank": "1",
@@ -99,8 +99,8 @@
         },
         {
             "rank": "17",
-            "program": "2TV생생정보",
-            "channel": "KBS2",
+            "program": "SINCE1983추적60분",
+            "channel": "KBS1",
             "rate": "2.5"
         },
         {
@@ -111,8 +111,8 @@
         },
         {
             "rank": "17",
-            "program": "SINCE1983추적60분",
-            "channel": "KBS1",
+            "program": "2TV생생정보",
+            "channel": "KBS2",
             "rate": "2.5"
         },
         {
@@ -215,13 +215,13 @@
         },
         {
             "rank": "16",
-            "program": "신랑수업2",
+            "program": "김진의돌직구쇼",
             "channel": "채널A",
             "rate": "1.07"
         },
         {
             "rank": "16",
-            "program": "김진의돌직구쇼",
+            "program": "신랑수업2",
             "channel": "채널A",
             "rate": "1.07"
         },
