@@ -56826,7 +56826,7 @@
         ]
     },
     "2026-09-13": {
-        "date": "2026-09-13 13:42",
+        "date": "2026-09-13 15:13",
         "terrestrial": [
             {
                 "rank": "1",
@@ -56902,13 +56902,13 @@
             },
             {
                 "rank": "13",
-                "program": "KBS뉴스(19:00)",
+                "program": "동행",
                 "channel": "KBS1",
                 "rate": "3.2"
             },
             {
                 "rank": "13",
-                "program": "동행",
+                "program": "KBS뉴스(19:00)",
                 "channel": "KBS1",
                 "rate": "3.2"
             },
@@ -56926,20 +56926,20 @@
             },
             {
                 "rank": "17",
-                "program": "걸어서세계속으로",
-                "channel": "KBS1",
-                "rate": "2.9"
-            },
-            {
-                "rank": "17",
                 "program": "KBS뉴스(09:30)",
                 "channel": "KBS1",
                 "rate": "2.9"
             },
             {
+                "rank": "17",
+                "program": "걸어서세계속으로",
+                "channel": "KBS1",
+                "rate": "2.9"
+            },
+            {
                 "rank": "19",
-                "program": "너말고다른연애",
-                "channel": "KBS2",
+                "program": "숨터스페셜<재>",
+                "channel": "KBS1",
                 "rate": "2.6"
             },
             {
@@ -57152,13 +57152,13 @@
             },
             {
                 "rank": "14",
-                "program": "YTN24(14:50)",
+                "program": "뉴스와이드(15:50)",
                 "channel": "YTN",
                 "rate": "0.97"
             },
             {
                 "rank": "14",
-                "program": "뉴스와이드(15:50)",
+                "program": "YTN24(14:50)",
                 "channel": "YTN",
                 "rate": "0.97"
             },
