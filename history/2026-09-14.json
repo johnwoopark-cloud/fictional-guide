@@ -1,5 +1,5 @@
 {
-    "date": "2026-09-14 10:03",
+    "date": "2026-09-14 13:51",
     "terrestrial": [
         {
             "rank": "1",
@@ -87,14 +87,14 @@
         },
         {
             "rank": "15",
-            "program": "이슈PICK쌤과함께",
-            "channel": "KBS1",
+            "program": "살림하는남자들<재>",
+            "channel": "KBS2",
             "rate": "2.4"
         },
         {
             "rank": "15",
-            "program": "살림하는남자들<재>",
-            "channel": "KBS2",
+            "program": "이슈PICK쌤과함께",
+            "channel": "KBS1",
             "rate": "2.4"
         },
         {
@@ -102,12 +102,6 @@
             "program": "출발비디오여행",
             "channel": "MBC",
             "rate": "2.3"
-        },
-        {
-            "rank": "18",
-            "program": "일요진단라이브",
-            "channel": "KBS1",
-            "rate": "2.1"
         },
         {
             "rank": "18",
@@ -119,6 +113,12 @@
             "rank": "18",
             "program": "서프라이즈미스터리살롱",
             "channel": "MBC",
+            "rate": "2.1"
+        },
+        {
+            "rank": "18",
+            "program": "일요진단라이브",
+            "channel": "KBS1",
             "rate": "2.1"
         }
     ],
@@ -349,14 +349,14 @@
         },
         {
             "rank": "18",
-            "program": "YTN24(19:50)",
-            "channel": "YTN",
+            "program": "연합뉴스TV뉴스15",
+            "channel": "연합뉴스TV",
             "rate": "1.07"
         },
         {
             "rank": "18",
-            "program": "연합뉴스TV뉴스15",
-            "channel": "연합뉴스TV",
+            "program": "YTN24(19:50)",
+            "channel": "YTN",
             "rate": "1.07"
         },
         {
