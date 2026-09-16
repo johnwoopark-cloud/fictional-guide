@@ -57933,7 +57933,7 @@
         ]
     },
     "2026-09-16": {
-        "date": "2026-09-16 13:45",
+        "date": "2026-09-16 15:04",
         "terrestrial": [
             {
                 "rank": "1",
@@ -57973,13 +57973,13 @@
             },
             {
                 "rank": "7",
-                "program": "6시내고향",
+                "program": "KBS뉴스7",
                 "channel": "KBS1",
                 "rate": "4.5"
             },
             {
                 "rank": "7",
-                "program": "KBS뉴스7",
+                "program": "6시내고향",
                 "channel": "KBS1",
                 "rate": "4.5"
             },
@@ -57997,14 +57997,14 @@
             },
             {
                 "rank": "11",
-                "program": "틈만나면",
-                "channel": "SBS",
+                "program": "2026아이치나고야아시안게임축구(한국:카타르)",
+                "channel": "MBC",
                 "rate": "3"
             },
             {
                 "rank": "11",
-                "program": "2026아이치나고야아시안게임축구(한국:카타르)",
-                "channel": "MBC",
+                "program": "틈만나면",
+                "channel": "SBS",
                 "rate": "3"
             },
             {
@@ -58051,8 +58051,8 @@
             },
             {
                 "rank": "20",
-                "program": "SBS8뉴스",
-                "channel": "SBS",
+                "program": "KBS뉴스5",
+                "channel": "KBS1",
                 "rate": "1.8"
             }
         ],
