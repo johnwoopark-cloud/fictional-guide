@@ -57933,7 +57933,7 @@
         ]
     },
     "2026-09-16": {
-        "date": "2026-09-16 10:24",
+        "date": "2026-09-16 13:45",
         "terrestrial": [
             {
                 "rank": "1",
@@ -57961,13 +57961,13 @@
             },
             {
                 "rank": "5",
-                "program": "아침마당",
+                "program": "다큐3일<재>",
                 "channel": "KBS1",
                 "rate": "5.1"
             },
             {
                 "rank": "5",
-                "program": "다큐3일<재>",
+                "program": "아침마당",
                 "channel": "KBS1",
                 "rate": "5.1"
             },
@@ -58051,8 +58051,8 @@
             },
             {
                 "rank": "20",
-                "program": "KBS뉴스5",
-                "channel": "KBS1",
+                "program": "SBS8뉴스",
+                "channel": "SBS",
                 "rate": "1.8"
             }
         ],
