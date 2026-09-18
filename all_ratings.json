@@ -58671,7 +58671,7 @@
         ]
     },
     "2026-09-18": {
-        "date": "2026-09-18 10:16",
+        "date": "2026-09-18 13:39",
         "terrestrial": [
             {
                 "rank": "1",
@@ -58741,13 +58741,13 @@
             },
             {
                 "rank": "12",
-                "program": "신상출시편스토랑",
+                "program": "2TV생생정보",
                 "channel": "KBS2",
                 "rate": "3.5"
             },
             {
                 "rank": "12",
-                "program": "2TV생생정보",
+                "program": "신상출시편스토랑",
                 "channel": "KBS2",
                 "rate": "3.5"
             },
@@ -58759,14 +58759,14 @@
             },
             {
                 "rank": "15",
-                "program": "KBS뉴스930",
-                "channel": "KBS1",
+                "program": "SBS8뉴스",
+                "channel": "SBS",
                 "rate": "2.9"
             },
             {
                 "rank": "15",
-                "program": "SBS8뉴스",
-                "channel": "SBS",
+                "program": "KBS뉴스930",
+                "channel": "KBS1",
                 "rate": "2.9"
             },
             {
