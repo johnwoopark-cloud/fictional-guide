@@ -1,5 +1,5 @@
 {
-    "date": "2026-09-19 13:34",
+    "date": "2026-09-19 14:56",
     "terrestrial": [
         {
             "rank": "1",
@@ -39,14 +39,14 @@
         },
         {
             "rank": "7",
-            "program": "아침마당",
-            "channel": "KBS1",
+            "program": "가족관계증명서",
+            "channel": "MBC",
             "rate": "4.5"
         },
         {
             "rank": "7",
-            "program": "가족관계증명서",
-            "channel": "MBC",
+            "program": "아침마당",
+            "channel": "KBS1",
             "rate": "4.5"
         },
         {
