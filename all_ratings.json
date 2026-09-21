@@ -59778,7 +59778,7 @@
         ]
     },
     "2026-09-21": {
-        "date": "2026-09-21 10:03",
+        "date": "2026-09-21 13:51",
         "terrestrial": [
             {
                 "rank": "1",
@@ -59818,13 +59818,13 @@
             },
             {
                 "rank": "7",
-                "program": "KBS뉴스(12:00)",
+                "program": "KBS뉴스(19:00)",
                 "channel": "KBS1",
                 "rate": "4.1"
             },
             {
                 "rank": "7",
-                "program": "KBS뉴스(19:00)",
+                "program": "KBS뉴스(12:00)",
                 "channel": "KBS1",
                 "rate": "4.1"
             },
@@ -59866,13 +59866,13 @@
             },
             {
                 "rank": "15",
-                "program": "TV쇼진품명품",
+                "program": "팔도밥상스페셜",
                 "channel": "KBS1",
                 "rate": "2.7"
             },
             {
                 "rank": "15",
-                "program": "팔도밥상스페셜",
+                "program": "TV쇼진품명품",
                 "channel": "KBS1",
                 "rate": "2.7"
             },
