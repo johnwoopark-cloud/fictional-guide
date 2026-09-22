@@ -1,5 +1,5 @@
 {
-    "date": "2026-09-22 10:36",
+    "date": "2026-09-22 13:50",
     "terrestrial": [
         {
             "rank": "1",
@@ -105,8 +105,8 @@
         },
         {
             "rank": "18",
-            "program": "모닝와이드3부",
-            "channel": "SBS",
+            "program": "무엇이든물어보세요",
+            "channel": "KBS1",
             "rate": "1.7"
         },
         {
@@ -117,8 +117,8 @@
         },
         {
             "rank": "18",
-            "program": "무엇이든물어보세요",
-            "channel": "KBS1",
+            "program": "모닝와이드3부",
+            "channel": "SBS",
             "rate": "1.7"
         }
     ],
