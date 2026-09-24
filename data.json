@@ -1,5 +1,5 @@
 {
-    "date": "2026-09-24 13:45",
+    "date": "2026-09-24 15:11",
     "terrestrial": [
         {
             "rank": "1",
@@ -81,6 +81,12 @@
         },
         {
             "rank": "14",
+            "program": "나고야2026특집SBS8뉴스",
+            "channel": "SBS",
+            "rate": "2"
+        },
+        {
+            "rank": "14",
             "program": "무엇이든물어보세요",
             "channel": "KBS1",
             "rate": "2"
@@ -89,12 +95,6 @@
             "rank": "14",
             "program": "2026아이치나고야아시안게임",
             "channel": "KBS1",
-            "rate": "2"
-        },
-        {
-            "rank": "14",
-            "program": "나고야2026특집SBS8뉴스",
-            "channel": "SBS",
             "rate": "2"
         },
         {
@@ -361,8 +361,8 @@
         },
         {
             "rank": "20",
-            "program": "뉴스센터",
-            "channel": "연합뉴스TV",
+            "program": "벌거벗은세계사",
+            "channel": "tvN",
             "rate": "0.77"
         }
     ]
