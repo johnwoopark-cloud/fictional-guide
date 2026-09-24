@@ -1,5 +1,5 @@
 {
-    "date": "2026-09-24 10:23",
+    "date": "2026-09-24 13:45",
     "terrestrial": [
         {
             "rank": "1",
@@ -81,32 +81,32 @@
         },
         {
             "rank": "14",
-            "program": "나고야2026특집SBS8뉴스",
-            "channel": "SBS",
-            "rate": "2"
-        },
-        {
-            "rank": "14",
-            "program": "2026아이치나고야아시안게임",
-            "channel": "KBS1",
-            "rate": "2"
-        },
-        {
-            "rank": "14",
             "program": "무엇이든물어보세요",
             "channel": "KBS1",
             "rate": "2"
         },
         {
-            "rank": "17",
-            "program": "모닝와이드2부",
+            "rank": "14",
+            "program": "2026아이치나고야아시안게임",
+            "channel": "KBS1",
+            "rate": "2"
+        },
+        {
+            "rank": "14",
+            "program": "나고야2026특집SBS8뉴스",
             "channel": "SBS",
-            "rate": "1.9"
+            "rate": "2"
         },
         {
             "rank": "17",
             "program": "2026아이치나고야아시안게임",
             "channel": "MBC",
+            "rate": "1.9"
+        },
+        {
+            "rank": "17",
+            "program": "모닝와이드2부",
+            "channel": "SBS",
             "rate": "1.9"
         },
         {
@@ -117,7 +117,7 @@
         },
         {
             "rank": "20",
-            "program": "나고야2026",
+            "program": "골때리는그녀들골때녀핸드볼컵",
             "channel": "SBS",
             "rate": "1.7"
         }
@@ -361,8 +361,8 @@
         },
         {
             "rank": "20",
-            "program": "벌거벗은세계사",
-            "channel": "tvN",
+            "program": "뉴스센터",
+            "channel": "연합뉴스TV",
             "rate": "0.77"
         }
     ]
