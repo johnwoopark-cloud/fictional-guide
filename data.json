@@ -1,5 +1,5 @@
 {
-    "date": "2026-09-25 13:53",
+    "date": "2026-09-25 15:10",
     "terrestrial": [
         {
             "rank": "1",
@@ -15,14 +15,14 @@
         },
         {
             "rank": "3",
-            "program": "KBS뉴스(19:00)",
-            "channel": "KBS1",
+            "program": "2026KBS한가위대기획당신의삶은네버엔딩스토리이승철2부",
+            "channel": "KBS2",
             "rate": "4.4"
         },
         {
             "rank": "3",
-            "program": "2026KBS한가위대기획당신의삶은네버엔딩스토리이승철2부",
-            "channel": "KBS2",
+            "program": "KBS뉴스(19:00)",
+            "channel": "KBS1",
             "rate": "4.4"
         },
         {
