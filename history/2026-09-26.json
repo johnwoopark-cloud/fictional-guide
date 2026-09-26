@@ -1,5 +1,5 @@
 {
-    "date": "2026-09-26 10:32",
+    "date": "2026-09-26 13:53",
     "terrestrial": [
         {
             "rank": "1",
@@ -33,14 +33,14 @@
         },
         {
             "rank": "6",
-            "program": "나고야2026",
-            "channel": "SBS",
+            "program": "아침마당",
+            "channel": "KBS1",
             "rate": "3.9"
         },
         {
             "rank": "6",
-            "program": "아침마당",
-            "channel": "KBS1",
+            "program": "나고야2026",
+            "channel": "SBS",
             "rate": "3.9"
         },
         {
@@ -87,13 +87,13 @@
         },
         {
             "rank": "15",
-            "program": "나고야2026",
+            "program": "THE이은결추석특집매직콘서트1부",
             "channel": "SBS",
             "rate": "2.7"
         },
         {
             "rank": "15",
-            "program": "THE이은결추석특집매직콘서트1부",
+            "program": "나고야2026",
             "channel": "SBS",
             "rate": "2.7"
         },
