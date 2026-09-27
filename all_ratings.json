@@ -61992,7 +61992,7 @@
         ]
     },
     "2026-09-27": {
-        "date": "2026-09-27 14:14",
+        "date": "2026-09-27 15:37",
         "terrestrial": [
             {
                 "rank": "1",
@@ -62014,14 +62014,14 @@
             },
             {
                 "rank": "4",
-                "program": "KBS뉴스(19:00)",
-                "channel": "KBS1",
+                "program": "나고야2026",
+                "channel": "SBS",
                 "rate": "3.7"
             },
             {
                 "rank": "4",
-                "program": "나고야2026",
-                "channel": "SBS",
+                "program": "KBS뉴스(19:00)",
+                "channel": "KBS1",
                 "rate": "3.7"
             },
             {
@@ -62050,13 +62050,13 @@
             },
             {
                 "rank": "10",
-                "program": "행복드림로또645",
+                "program": "MBC뉴스데스크",
                 "channel": "MBC",
                 "rate": "2.7"
             },
             {
                 "rank": "10",
-                "program": "MBC뉴스데스크",
+                "program": "행복드림로또645",
                 "channel": "MBC",
                 "rate": "2.7"
             },
@@ -62080,14 +62080,14 @@
             },
             {
                 "rank": "15",
-                "program": "나고야2026특집SBS8뉴스",
-                "channel": "SBS",
+                "program": "2026아이치나고야아시안게임",
+                "channel": "MBC",
                 "rate": "2.1"
             },
             {
                 "rank": "15",
-                "program": "2026아이치나고야아시안게임",
-                "channel": "MBC",
+                "program": "나고야2026특집SBS8뉴스",
+                "channel": "SBS",
                 "rate": "2.1"
             },
             {
@@ -62095,12 +62095,6 @@
                 "program": "나고야2026",
                 "channel": "SBS",
                 "rate": "2.1"
-            },
-            {
-                "rank": "18",
-                "program": "2026K가곡슈퍼스타<재>",
-                "channel": "KBS1",
-                "rate": "1.9"
             },
             {
                 "rank": "18",
@@ -62110,8 +62104,14 @@
             },
             {
                 "rank": "18",
-                "program": "나고야2026",
-                "channel": "SBS",
+                "program": "사랑의가족",
+                "channel": "KBS1",
+                "rate": "1.9"
+            },
+            {
+                "rank": "18",
+                "program": "2026아이치나고야아시안게임",
+                "channel": "MBC",
                 "rate": "1.9"
             }
         ],
