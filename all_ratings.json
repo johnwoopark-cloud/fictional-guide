@@ -62361,7 +62361,7 @@
         ]
     },
     "2026-09-28": {
-        "date": "2026-09-28 10:38",
+        "date": "2026-09-28 14:19",
         "terrestrial": [
             {
                 "rank": "1",
@@ -62413,14 +62413,14 @@
             },
             {
                 "rank": "9",
-                "program": "KBS뉴스(18:45)",
-                "channel": "KBS1",
+                "program": "나고야2026특집SBS8뉴스",
+                "channel": "SBS",
                 "rate": "3.9"
             },
             {
                 "rank": "9",
-                "program": "나고야2026특집SBS8뉴스",
-                "channel": "SBS",
+                "program": "KBS뉴스(18:45)",
+                "channel": "KBS1",
                 "rate": "3.9"
             },
             {
@@ -62437,13 +62437,13 @@
             },
             {
                 "rank": "13",
-                "program": "동네한바퀴<재>",
+                "program": "2026아이치나고야아시안게임",
                 "channel": "KBS1",
                 "rate": "3.5"
             },
             {
                 "rank": "13",
-                "program": "2026아이치나고야아시안게임",
+                "program": "동네한바퀴<재>",
                 "channel": "KBS1",
                 "rate": "3.5"
             },
@@ -62473,14 +62473,14 @@
             },
             {
                 "rank": "19",
-                "program": "나고야2026",
-                "channel": "SBS",
+                "program": "추석에도나혼자산다",
+                "channel": "MBC",
                 "rate": "2.4"
             },
             {
                 "rank": "19",
-                "program": "추석에도나혼자산다",
-                "channel": "MBC",
+                "program": "나고야2026",
+                "channel": "SBS",
                 "rate": "2.4"
             }
         ],
