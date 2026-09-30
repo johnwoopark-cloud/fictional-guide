@@ -63099,7 +63099,7 @@
         ]
     },
     "2026-09-30": {
-        "date": "2026-09-30 11:06",
+        "date": "2026-09-30 14:28",
         "terrestrial": [
             {
                 "rank": "1",
@@ -63127,13 +63127,13 @@
             },
             {
                 "rank": "5",
-                "program": "2026아이치나고야아시안게임",
+                "program": "KBS뉴스(19:00)",
                 "channel": "KBS1",
                 "rate": "5.1"
             },
             {
                 "rank": "5",
-                "program": "KBS뉴스(19:00)",
+                "program": "2026아이치나고야아시안게임",
                 "channel": "KBS1",
                 "rate": "5.1"
             },
@@ -63157,14 +63157,14 @@
             },
             {
                 "rank": "10",
-                "program": "MBC뉴스데스크",
-                "channel": "MBC",
+                "program": "시사기획창",
+                "channel": "KBS1",
                 "rate": "3.2"
             },
             {
                 "rank": "10",
-                "program": "시사기획창",
-                "channel": "KBS1",
+                "program": "MBC뉴스데스크",
+                "channel": "MBC",
                 "rate": "3.2"
             },
             {
@@ -63205,12 +63205,6 @@
             },
             {
                 "rank": "18",
-                "program": "여기는나고야",
-                "channel": "KBS2",
-                "rate": "2"
-            },
-            {
-                "rank": "18",
                 "program": "나고야2026특집SBS8뉴스",
                 "channel": "SBS",
                 "rate": "2"
@@ -63219,6 +63213,12 @@
                 "rank": "18",
                 "program": "나고야2026",
                 "channel": "SBS",
+                "rate": "2"
+            },
+            {
+                "rank": "18",
+                "program": "여기는나고야",
+                "channel": "KBS2",
                 "rate": "2"
             }
         ],
