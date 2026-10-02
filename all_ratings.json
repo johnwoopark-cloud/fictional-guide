@@ -63837,7 +63837,7 @@
         ]
     },
     "2026-10-02": {
-        "date": "2026-10-02 14:32",
+        "date": "2026-10-02 16:01",
         "terrestrial": [
             {
                 "rank": "1",
@@ -63847,13 +63847,13 @@
             },
             {
                 "rank": "2",
-                "program": "KBS9시뉴스",
+                "program": "인간극장",
                 "channel": "KBS1",
                 "rate": "7"
             },
             {
                 "rank": "2",
-                "program": "인간극장",
+                "program": "KBS9시뉴스",
                 "channel": "KBS1",
                 "rate": "7"
             },
@@ -63925,14 +63925,14 @@
             },
             {
                 "rank": "15",
-                "program": "나고야2026",
-                "channel": "SBS",
+                "program": "실화탐사대",
+                "channel": "MBC",
                 "rate": "2.5"
             },
             {
                 "rank": "15",
-                "program": "실화탐사대",
-                "channel": "MBC",
+                "program": "나고야2026",
+                "channel": "SBS",
                 "rate": "2.5"
             },
             {
