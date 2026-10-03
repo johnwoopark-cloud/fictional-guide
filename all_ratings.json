@@ -64206,7 +64206,7 @@
         ]
     },
     "2026-10-03": {
-        "date": "2026-10-03 10:56",
+        "date": "2026-10-03 14:14",
         "terrestrial": [
             {
                 "rank": "1",
@@ -64222,14 +64222,14 @@
             },
             {
                 "rank": "3",
-                "program": "KBS9시뉴스",
-                "channel": "KBS1",
+                "program": "나혼자산다",
+                "channel": "MBC",
                 "rate": "6"
             },
             {
                 "rank": "3",
-                "program": "나혼자산다",
-                "channel": "MBC",
+                "program": "KBS9시뉴스",
+                "channel": "KBS1",
                 "rate": "6"
             },
             {
@@ -64276,13 +64276,13 @@
             },
             {
                 "rank": "12",
-                "program": "나고야2026특집SBS8뉴스",
+                "program": "무엇이든해줄지니비서진",
                 "channel": "SBS",
                 "rate": "3.3"
             },
             {
                 "rank": "12",
-                "program": "무엇이든해줄지니비서진",
+                "program": "나고야2026특집SBS8뉴스",
                 "channel": "SBS",
                 "rate": "3.3"
             },
@@ -64312,13 +64312,13 @@
             },
             {
                 "rank": "18",
-                "program": "KBS뉴스(22:50)",
+                "program": "KBS뉴스광장1부",
                 "channel": "KBS1",
                 "rate": "2.1"
             },
             {
                 "rank": "18",
-                "program": "KBS뉴스광장1부",
+                "program": "KBS뉴스(22:50)",
                 "channel": "KBS1",
                 "rate": "2.1"
             },
