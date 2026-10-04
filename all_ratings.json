@@ -64573,5 +64573,374 @@
                 "rate": "0.66"
             }
         ]
+    },
+    "2026-10-04": {
+        "date": "2026-10-04 11:38",
+        "terrestrial": [
+            {
+                "rank": "1",
+                "program": "2026아이치나고야아시안게임축구(결승한국:일본)",
+                "channel": "MBC",
+                "rate": "8"
+            },
+            {
+                "rank": "2",
+                "program": "동네한바퀴",
+                "channel": "KBS1",
+                "rate": "5.9"
+            },
+            {
+                "rank": "3",
+                "program": "나고야2026축구",
+                "channel": "SBS",
+                "rate": "4.6"
+            },
+            {
+                "rank": "4",
+                "program": "남북의창",
+                "channel": "KBS1",
+                "rate": "4.5"
+            },
+            {
+                "rank": "4",
+                "program": "MBC뉴스데스크",
+                "channel": "MBC",
+                "rate": "4.5"
+            },
+            {
+                "rank": "6",
+                "program": "KBS뉴스(19:00)",
+                "channel": "KBS1",
+                "rate": "4.3"
+            },
+            {
+                "rank": "6",
+                "program": "행복드림로또645",
+                "channel": "MBC",
+                "rate": "4.3"
+            },
+            {
+                "rank": "8",
+                "program": "나고야2026특집SBS8뉴스",
+                "channel": "SBS",
+                "rate": "4.2"
+            },
+            {
+                "rank": "9",
+                "program": "KBS뉴스광장2부",
+                "channel": "KBS1",
+                "rate": "4.1"
+            },
+            {
+                "rank": "9",
+                "program": "특파원보고세계는지금",
+                "channel": "KBS1",
+                "rate": "4.1"
+            },
+            {
+                "rank": "11",
+                "program": "KBS뉴스(08:30)",
+                "channel": "KBS1",
+                "rate": "4"
+            },
+            {
+                "rank": "12",
+                "program": "여기는나고야",
+                "channel": "KBS2",
+                "rate": "3.9"
+            },
+            {
+                "rank": "13",
+                "program": "국가유산순례드오거휘",
+                "channel": "KBS1",
+                "rate": "3.6"
+            },
+            {
+                "rank": "13",
+                "program": "그것이알고싶다",
+                "channel": "SBS",
+                "rate": "3.6"
+            },
+            {
+                "rank": "15",
+                "program": "동행",
+                "channel": "KBS1",
+                "rate": "3.3"
+            },
+            {
+                "rank": "16",
+                "program": "2026아이치나고야아시안게임리듬체조결승",
+                "channel": "KBS1",
+                "rate": "3.1"
+            },
+            {
+                "rank": "17",
+                "program": "KBS9시뉴스",
+                "channel": "KBS1",
+                "rate": "3"
+            },
+            {
+                "rank": "18",
+                "program": "전지적참견시점",
+                "channel": "MBC",
+                "rate": "2.9"
+            },
+            {
+                "rank": "18",
+                "program": "2026아이치나고야아시안게임남자축구하이라이트",
+                "channel": "MBC",
+                "rate": "2.9"
+            },
+            {
+                "rank": "20",
+                "program": "나고야2026하이라이트",
+                "channel": "SBS",
+                "rate": "2.3"
+            }
+        ],
+        "comprehensive": [
+            {
+                "rank": "1",
+                "program": "아는형님",
+                "channel": "JTBC",
+                "rate": "2.35"
+            },
+            {
+                "rank": "2",
+                "program": "트롯데스매치금타는금요일특별판<재>",
+                "channel": "TV CHOSUN",
+                "rate": "1.98"
+            },
+            {
+                "rank": "3",
+                "program": "JTBC뉴스룸",
+                "channel": "JTBC",
+                "rate": "1.87"
+            },
+            {
+                "rank": "4",
+                "program": "뉴스A",
+                "channel": "채널A",
+                "rate": "1.76"
+            },
+            {
+                "rank": "5",
+                "program": "뉴스TOP10",
+                "channel": "채널A",
+                "rate": "1.62"
+            },
+            {
+                "rank": "6",
+                "program": "날아올라라나비",
+                "channel": "JTBC",
+                "rate": "1.59"
+            },
+            {
+                "rank": "7",
+                "program": "전설의사내<재>",
+                "channel": "MBN",
+                "rate": "1.35"
+            },
+            {
+                "rank": "8",
+                "program": "TV조선뉴스7",
+                "channel": "TV CHOSUN",
+                "rate": "1.33"
+            },
+            {
+                "rank": "9",
+                "program": "TVCHOSUN2026아이치나고야ASIANGAMES",
+                "channel": "TV CHOSUN",
+                "rate": "1.17"
+            },
+            {
+                "rank": "10",
+                "program": "MBN뉴스센터",
+                "channel": "MBN",
+                "rate": "1.02"
+            },
+            {
+                "rank": "11",
+                "program": "속풀이쇼동치미<재>",
+                "channel": "MBN",
+                "rate": "0.93"
+            },
+            {
+                "rank": "12",
+                "program": "연애전쟁<재>",
+                "channel": "JTBC",
+                "rate": "0.9"
+            },
+            {
+                "rank": "13",
+                "program": "김주하의데이앤나잇",
+                "channel": "MBN",
+                "rate": "0.9"
+            },
+            {
+                "rank": "14",
+                "program": "MBN토요와이드",
+                "channel": "MBN",
+                "rate": "0.87"
+            },
+            {
+                "rank": "15",
+                "program": "이혼숙려캠프<재>",
+                "channel": "JTBC",
+                "rate": "0.8"
+            },
+            {
+                "rank": "16",
+                "program": "속풀이쇼동치미1부",
+                "channel": "MBN",
+                "rate": "0.79"
+            },
+            {
+                "rank": "17",
+                "program": "강연배틀쇼사기꾼들역사이야기꾼들<재>",
+                "channel": "JTBC",
+                "rate": "0.77"
+            },
+            {
+                "rank": "18",
+                "program": "이혼숙려캠프<재>",
+                "channel": "JTBC",
+                "rate": "0.73"
+            },
+            {
+                "rank": "19",
+                "program": "톡파원25시<재>",
+                "channel": "JTBC",
+                "rate": "0.72"
+            },
+            {
+                "rank": "20",
+                "program": "속풀이쇼동치미2부",
+                "channel": "MBN",
+                "rate": "0.7"
+            }
+        ],
+        "cable": [
+            {
+                "rank": "1",
+                "program": "포핸즈",
+                "channel": "tvN",
+                "rate": "8.7"
+            },
+            {
+                "rank": "2",
+                "program": "티빙오리지널로또1등도출근합니다",
+                "channel": "tvN",
+                "rate": "1.85"
+            },
+            {
+                "rank": "3",
+                "program": "포핸즈",
+                "channel": "tvN",
+                "rate": "1.78"
+            },
+            {
+                "rank": "4",
+                "program": "100일의거짓말비밀문서",
+                "channel": "tvN",
+                "rate": "1.69"
+            },
+            {
+                "rank": "5",
+                "program": "와이드08",
+                "channel": "연합뉴스TV",
+                "rate": "1.67"
+            },
+            {
+                "rank": "6",
+                "program": "나혼자산다",
+                "channel": "MBC every1",
+                "rate": "1.47"
+            },
+            {
+                "rank": "7",
+                "program": "티빙오리지널로또1등도출근합니다",
+                "channel": "tvN",
+                "rate": "1.4"
+            },
+            {
+                "rank": "8",
+                "program": "나혼자산다",
+                "channel": "MBC드라마넷",
+                "rate": "1.4"
+            },
+            {
+                "rank": "9",
+                "program": "나혼자산다<재>",
+                "channel": "MBC every1",
+                "rate": "1.33"
+            },
+            {
+                "rank": "10",
+                "program": "2026KBO리그",
+                "channel": "KBSN스포츠",
+                "rate": "1.26"
+            },
+            {
+                "rank": "11",
+                "program": "유퀴즈온더블럭",
+                "channel": "tvN",
+                "rate": "1.25"
+            },
+            {
+                "rank": "12",
+                "program": "놀라운토요일세대초월음악예능",
+                "channel": "tvN",
+                "rate": "1.24"
+            },
+            {
+                "rank": "13",
+                "program": "뉴스와이드(07:50)",
+                "channel": "YTN",
+                "rate": "1.07"
+            },
+            {
+                "rank": "14",
+                "program": "뉴스와이드(17:50)",
+                "channel": "YTN",
+                "rate": "1.01"
+            },
+            {
+                "rank": "15",
+                "program": "와이드17",
+                "channel": "연합뉴스TV",
+                "rate": "1"
+            },
+            {
+                "rank": "16",
+                "program": "연합뉴스TV뉴스10",
+                "channel": "연합뉴스TV",
+                "rate": "1"
+            },
+            {
+                "rank": "17",
+                "program": "뉴스와이드(09:50)",
+                "channel": "YTN",
+                "rate": "0.98"
+            },
+            {
+                "rank": "18",
+                "program": "티빙오리지널로또1등도출근합니다",
+                "channel": "tvN",
+                "rate": "0.98"
+            },
+            {
+                "rank": "19",
+                "program": "뉴스오늘3부",
+                "channel": "연합뉴스TV",
+                "rate": "0.97"
+            },
+            {
+                "rank": "20",
+                "program": "유퀴즈온더블럭이주의자기님스페셜",
+                "channel": "tvN",
+                "rate": "0.93"
+            }
+        ]
     }
 }
