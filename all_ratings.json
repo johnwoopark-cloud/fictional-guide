@@ -64944,7 +64944,7 @@
         ]
     },
     "2026-10-05": {
-        "date": "2026-10-05 11:00",
+        "date": "2026-10-05 14:33",
         "terrestrial": [
             {
                 "rank": "1",
@@ -64996,14 +64996,14 @@
             },
             {
                 "rank": "9",
-                "program": "특파원보고세계는지금<재>",
-                "channel": "KBS1",
+                "program": "사장님귀는당나귀귀",
+                "channel": "KBS2",
                 "rate": "3.5"
             },
             {
                 "rank": "9",
-                "program": "사장님귀는당나귀귀",
-                "channel": "KBS2",
+                "program": "특파원보고세계는지금<재>",
+                "channel": "KBS1",
                 "rate": "3.5"
             },
             {
@@ -65038,13 +65038,13 @@
             },
             {
                 "rank": "16",
-                "program": "역사스페셜시간여행자",
+                "program": "TV쇼진품명품",
                 "channel": "KBS1",
                 "rate": "2.4"
             },
             {
                 "rank": "16",
-                "program": "TV쇼진품명품",
+                "program": "역사스페셜시간여행자",
                 "channel": "KBS1",
                 "rate": "2.4"
             },
@@ -65056,14 +65056,14 @@
             },
             {
                 "rank": "18",
-                "program": "너말고다른연애",
-                "channel": "KBS2",
+                "program": "엄마가미쳤어요",
+                "channel": "KBS1",
                 "rate": "2.3"
             },
             {
                 "rank": "18",
-                "program": "엄마가미쳤어요",
-                "channel": "KBS1",
+                "program": "너말고다른연애",
+                "channel": "KBS2",
                 "rate": "2.3"
             }
         ],
