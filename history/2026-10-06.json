@@ -1,5 +1,5 @@
 {
-    "date": "2026-10-06 11:57",
+    "date": "2026-10-06 15:15",
     "terrestrial": [
         {
             "rank": "1",
@@ -63,13 +63,13 @@
         },
         {
             "rank": "10",
-            "program": "KBS뉴스(19:00)",
+            "program": "KBS뉴스930",
             "channel": "KBS1",
             "rate": "4.6"
         },
         {
             "rank": "10",
-            "program": "KBS뉴스930",
+            "program": "KBS뉴스(19:00)",
             "channel": "KBS1",
             "rate": "4.6"
         },
@@ -325,14 +325,14 @@
         },
         {
             "rank": "14",
-            "program": "영자와세리의남겨서뭐하게",
-            "channel": "tvN STORY",
+            "program": "YTN24(14:50)",
+            "channel": "YTN",
             "rate": "1"
         },
         {
             "rank": "14",
-            "program": "YTN24(14:50)",
-            "channel": "YTN",
+            "program": "영자와세리의남겨서뭐하게",
+            "channel": "tvN STORY",
             "rate": "1"
         },
         {
