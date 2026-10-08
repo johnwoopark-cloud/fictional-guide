@@ -66051,7 +66051,7 @@
         ]
     },
     "2026-10-08": {
-        "date": "2026-10-08 14:58",
+        "date": "2026-10-08 16:27",
         "terrestrial": [
             {
                 "rank": "1",
@@ -66067,14 +66067,14 @@
             },
             {
                 "rank": "3",
-                "program": "욕망의덫",
-                "channel": "KBS2",
+                "program": "KBS9시뉴스",
+                "channel": "KBS1",
                 "rate": "7"
             },
             {
                 "rank": "3",
-                "program": "KBS9시뉴스",
-                "channel": "KBS1",
+                "program": "욕망의덫",
+                "channel": "KBS2",
                 "rate": "7"
             },
             {
@@ -66151,14 +66151,14 @@
             },
             {
                 "rank": "17",
-                "program": "슈퍼맨이돌아왔다",
-                "channel": "KBS2",
+                "program": "KBS뉴스광장1부",
+                "channel": "KBS1",
                 "rate": "2.8"
             },
             {
                 "rank": "17",
-                "program": "KBS뉴스광장1부",
-                "channel": "KBS1",
+                "program": "슈퍼맨이돌아왔다",
+                "channel": "KBS2",
                 "rate": "2.8"
             },
             {
