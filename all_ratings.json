@@ -66789,7 +66789,7 @@
         ]
     },
     "2026-10-10": {
-        "date": "2026-10-10 14:47",
+        "date": "2026-10-10 16:11",
         "terrestrial": [
             {
                 "rank": "1",
@@ -66871,6 +66871,12 @@
             },
             {
                 "rank": "14",
+                "program": "6시내고향",
+                "channel": "KBS1",
+                "rate": "3.8"
+            },
+            {
+                "rank": "14",
                 "program": "2TV생생정보",
                 "channel": "KBS2",
                 "rate": "3.8"
@@ -66878,12 +66884,6 @@
             {
                 "rank": "14",
                 "program": "KBS뉴스광장2부",
-                "channel": "KBS1",
-                "rate": "3.8"
-            },
-            {
-                "rank": "14",
-                "program": "6시내고향",
                 "channel": "KBS1",
                 "rate": "3.8"
             },
@@ -66901,14 +66901,14 @@
             },
             {
                 "rank": "19",
-                "program": "무엇이든해줄지니비서진",
-                "channel": "SBS",
+                "program": "해피투게더혼자가아니어서좋아",
+                "channel": "KBS2",
                 "rate": "3"
             },
             {
                 "rank": "19",
-                "program": "해피투게더혼자가아니어서좋아",
-                "channel": "KBS2",
+                "program": "무엇이든해줄지니비서진",
+                "channel": "SBS",
                 "rate": "3"
             }
         ],
