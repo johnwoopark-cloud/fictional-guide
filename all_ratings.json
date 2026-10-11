@@ -67158,7 +67158,7 @@
         ]
     },
     "2026-10-11": {
-        "date": "2026-10-11 10:52",
+        "date": "2026-10-11 14:41",
         "terrestrial": [
             {
                 "rank": "1",
@@ -67192,14 +67192,14 @@
             },
             {
                 "rank": "6",
-                "program": "불후의명곡",
-                "channel": "KBS2",
+                "program": "놀면뭐하니",
+                "channel": "MBC",
                 "rate": "4.5"
             },
             {
                 "rank": "6",
-                "program": "놀면뭐하니",
-                "channel": "MBC",
+                "program": "불후의명곡",
+                "channel": "KBS2",
                 "rate": "4.5"
             },
             {
@@ -67216,13 +67216,13 @@
             },
             {
                 "rank": "10",
-                "program": "남북의창",
+                "program": "KBS뉴스광장2부",
                 "channel": "KBS1",
                 "rate": "3.8"
             },
             {
                 "rank": "10",
-                "program": "KBS뉴스광장2부",
+                "program": "남북의창",
                 "channel": "KBS1",
                 "rate": "3.8"
             },
@@ -67246,14 +67246,14 @@
             },
             {
                 "rank": "15",
-                "program": "살림하는남자들",
-                "channel": "KBS2",
+                "program": "동행",
+                "channel": "KBS1",
                 "rate": "3.3"
             },
             {
                 "rank": "15",
-                "program": "동행",
-                "channel": "KBS1",
+                "program": "살림하는남자들",
+                "channel": "KBS2",
                 "rate": "3.3"
             },
             {
@@ -67392,14 +67392,14 @@
             },
             {
                 "rank": "19",
-                "program": "신랑수업2스페셜",
-                "channel": "채널A",
+                "program": "나누는행복희망플러스",
+                "channel": "TV CHOSUN",
                 "rate": "0.64"
             },
             {
                 "rank": "19",
-                "program": "나누는행복희망플러스",
-                "channel": "TV CHOSUN",
+                "program": "신랑수업2스페셜",
+                "channel": "채널A",
                 "rate": "0.64"
             }
         ],
