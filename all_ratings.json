@@ -67158,7 +67158,7 @@
         ]
     },
     "2026-10-11": {
-        "date": "2026-10-11 14:41",
+        "date": "2026-10-11 16:14",
         "terrestrial": [
             {
                 "rank": "1",
@@ -67180,26 +67180,26 @@
             },
             {
                 "rank": "4",
-                "program": "MBC뉴스데스크",
-                "channel": "MBC",
-                "rate": "4.6"
-            },
-            {
-                "rank": "4",
                 "program": "KBS9시뉴스",
                 "channel": "KBS1",
                 "rate": "4.6"
             },
             {
-                "rank": "6",
-                "program": "놀면뭐하니",
+                "rank": "4",
+                "program": "MBC뉴스데스크",
                 "channel": "MBC",
-                "rate": "4.5"
+                "rate": "4.6"
             },
             {
                 "rank": "6",
                 "program": "불후의명곡",
                 "channel": "KBS2",
+                "rate": "4.5"
+            },
+            {
+                "rank": "6",
+                "program": "놀면뭐하니",
+                "channel": "MBC",
                 "rate": "4.5"
             },
             {
@@ -67246,14 +67246,14 @@
             },
             {
                 "rank": "15",
-                "program": "동행",
-                "channel": "KBS1",
+                "program": "살림하는남자들",
+                "channel": "KBS2",
                 "rate": "3.3"
             },
             {
                 "rank": "15",
-                "program": "살림하는남자들",
-                "channel": "KBS2",
+                "program": "동행",
+                "channel": "KBS1",
                 "rate": "3.3"
             },
             {
