@@ -1,5 +1,5 @@
 {
-    "date": "2026-10-12 11:23",
+    "date": "2026-10-12 14:51",
     "terrestrial": [
         {
             "rank": "1",
@@ -81,14 +81,14 @@
         },
         {
             "rank": "14",
-            "program": "SBS8뉴스",
-            "channel": "SBS",
+            "program": "살림하는남자들<재>",
+            "channel": "KBS2",
             "rate": "3.5"
         },
         {
             "rank": "14",
-            "program": "살림하는남자들<재>",
-            "channel": "KBS2",
+            "program": "SBS8뉴스",
+            "channel": "SBS",
             "rate": "3.5"
         },
         {
@@ -117,7 +117,7 @@
         },
         {
             "rank": "20",
-            "program": "역사스페셜시간여행자",
+            "program": "동네한바퀴<재>",
             "channel": "KBS1",
             "rate": "2.3"
         }
