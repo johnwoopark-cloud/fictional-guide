@@ -1,5 +1,5 @@
 {
-    "date": "2026-10-14 10:53",
+    "date": "2026-10-14 13:48",
     "terrestrial": [
         {
             "rank": "1",
@@ -69,14 +69,14 @@
         },
         {
             "rank": "12",
-            "program": "SBS8뉴스",
-            "channel": "SBS",
+            "program": "KBS뉴스930",
+            "channel": "KBS1",
             "rate": "3.7"
         },
         {
             "rank": "12",
-            "program": "KBS뉴스930",
-            "channel": "KBS1",
+            "program": "SBS8뉴스",
+            "channel": "SBS",
             "rate": "3.7"
         },
         {
@@ -105,13 +105,13 @@
         },
         {
             "rank": "18",
-            "program": "시사기획창",
+            "program": "KBS뉴스광장1부",
             "channel": "KBS1",
             "rate": "2.5"
         },
         {
             "rank": "18",
-            "program": "KBS뉴스광장1부",
+            "program": "시사기획창",
             "channel": "KBS1",
             "rate": "2.5"
         },
