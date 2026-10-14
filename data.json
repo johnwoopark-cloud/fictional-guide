@@ -1,5 +1,5 @@
 {
-    "date": "2026-10-14 13:48",
+    "date": "2026-10-14 15:10",
     "terrestrial": [
         {
             "rank": "1",
@@ -105,13 +105,13 @@
         },
         {
             "rank": "18",
-            "program": "KBS뉴스광장1부",
+            "program": "시사기획창",
             "channel": "KBS1",
             "rate": "2.5"
         },
         {
             "rank": "18",
-            "program": "시사기획창",
+            "program": "KBS뉴스광장1부",
             "channel": "KBS1",
             "rate": "2.5"
         },
