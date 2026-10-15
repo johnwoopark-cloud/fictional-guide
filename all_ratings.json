@@ -68634,7 +68634,7 @@
         ]
     },
     "2026-10-15": {
-        "date": "2026-10-15 13:32",
+        "date": "2026-10-15 14:55",
         "terrestrial": [
             {
                 "rank": "1",
@@ -68662,14 +68662,14 @@
             },
             {
                 "rank": "5",
-                "program": "MBC스포츠KBO리그(두산:LG)",
-                "channel": "MBC",
+                "program": "아침마당",
+                "channel": "KBS1",
                 "rate": "6.5"
             },
             {
                 "rank": "5",
-                "program": "아침마당",
-                "channel": "KBS1",
+                "program": "MBC스포츠KBO리그(두산:LG)",
+                "channel": "MBC",
                 "rate": "6.5"
             },
             {
@@ -68734,14 +68734,14 @@
             },
             {
                 "rank": "17",
-                "program": "KBS뉴스광장1부",
-                "channel": "KBS1",
+                "program": "슈퍼맨이돌아왔다",
+                "channel": "KBS2",
                 "rate": "2.6"
             },
             {
                 "rank": "17",
-                "program": "슈퍼맨이돌아왔다",
-                "channel": "KBS2",
+                "program": "KBS뉴스광장1부",
+                "channel": "KBS1",
                 "rate": "2.6"
             },
             {
@@ -68954,14 +68954,14 @@
             },
             {
                 "rank": "13",
-                "program": "뉴스오늘2부",
-                "channel": "연합뉴스TV",
+                "program": "왕과사는남자",
+                "channel": "OCN",
                 "rate": "0.84"
             },
             {
                 "rank": "13",
-                "program": "왕과사는남자",
-                "channel": "OCN",
+                "program": "뉴스오늘2부",
+                "channel": "연합뉴스TV",
                 "rate": "0.84"
             },
             {
