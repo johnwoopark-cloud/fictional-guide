@@ -69003,7 +69003,7 @@
         ]
     },
     "2026-10-16": {
-        "date": "2026-10-16 13:26",
+        "date": "2026-10-16 14:53",
         "terrestrial": [
             {
                 "rank": "1",
@@ -69043,14 +69043,14 @@
             },
             {
                 "rank": "7",
-                "program": "KBS뉴스광장2부",
-                "channel": "KBS1",
+                "program": "MBC뉴스데스크",
+                "channel": "MBC",
                 "rate": "4.8"
             },
             {
                 "rank": "7",
-                "program": "MBC뉴스데스크",
-                "channel": "MBC",
+                "program": "KBS뉴스광장2부",
+                "channel": "KBS1",
                 "rate": "4.8"
             },
             {
@@ -69109,20 +69109,20 @@
             },
             {
                 "rank": "18",
-                "program": "실화탐사대",
-                "channel": "MBC",
-                "rate": "2.3"
-            },
-            {
-                "rank": "18",
                 "program": "연금복권720플러스",
                 "channel": "MBC",
                 "rate": "2.3"
             },
             {
+                "rank": "18",
+                "program": "실화탐사대",
+                "channel": "MBC",
+                "rate": "2.3"
+            },
+            {
                 "rank": "20",
-                "program": "동물의왕국",
-                "channel": "KBS1",
+                "program": "구해줘홈즈",
+                "channel": "MBC",
                 "rate": "2.2"
             }
         ],
