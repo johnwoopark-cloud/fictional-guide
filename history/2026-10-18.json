@@ -1,5 +1,5 @@
 {
-    "date": "2026-10-18 10:01",
+    "date": "2026-10-18 13:26",
     "terrestrial": [
         {
             "rank": "1",
@@ -87,21 +87,15 @@
         },
         {
             "rank": "15",
-            "program": "걸어서세계속으로",
-            "channel": "KBS1",
-            "rate": "3.2"
-        },
-        {
-            "rank": "15",
             "program": "KBS뉴스(19:00)",
             "channel": "KBS1",
             "rate": "3.2"
         },
         {
-            "rank": "17",
-            "program": "KBS뉴스(09:30)",
+            "rank": "15",
+            "program": "걸어서세계속으로",
             "channel": "KBS1",
-            "rate": "3.1"
+            "rate": "3.2"
         },
         {
             "rank": "17",
@@ -116,9 +110,15 @@
             "rate": "3.1"
         },
         {
+            "rank": "17",
+            "program": "KBS뉴스(09:30)",
+            "channel": "KBS1",
+            "rate": "3.1"
+        },
+        {
             "rank": "20",
-            "program": "나혼자산다스페셜",
-            "channel": "MBC",
+            "program": "SBS8뉴스",
+            "channel": "SBS",
             "rate": "2.9"
         }
     ],
