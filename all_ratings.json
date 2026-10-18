@@ -69741,7 +69741,7 @@
         ]
     },
     "2026-10-18": {
-        "date": "2026-10-18 13:26",
+        "date": "2026-10-18 14:57",
         "terrestrial": [
             {
                 "rank": "1",
@@ -69841,14 +69841,14 @@
             },
             {
                 "rank": "17",
-                "program": "동행",
-                "channel": "KBS1",
+                "program": "살림하는남자들",
+                "channel": "KBS2",
                 "rate": "3.1"
             },
             {
                 "rank": "17",
-                "program": "살림하는남자들",
-                "channel": "KBS2",
+                "program": "동행",
+                "channel": "KBS1",
                 "rate": "3.1"
             },
             {
