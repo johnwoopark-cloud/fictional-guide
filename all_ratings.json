@@ -70110,7 +70110,7 @@
         ]
     },
     "2026-10-19": {
-        "date": "2026-10-19 10:15",
+        "date": "2026-10-19 13:35",
         "terrestrial": [
             {
                 "rank": "1",
@@ -70168,14 +70168,14 @@
             },
             {
                 "rank": "10",
-                "program": "MBC뉴스데스크",
-                "channel": "MBC",
+                "program": "사장님귀는당나귀귀",
+                "channel": "KBS2",
                 "rate": "4.4"
             },
             {
                 "rank": "10",
-                "program": "사장님귀는당나귀귀",
-                "channel": "KBS2",
+                "program": "MBC뉴스데스크",
+                "channel": "MBC",
                 "rate": "4.4"
             },
             {
