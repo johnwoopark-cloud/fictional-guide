@@ -70110,7 +70110,7 @@
         ]
     },
     "2026-10-19": {
-        "date": "2026-10-19 13:35",
+        "date": "2026-10-19 15:14",
         "terrestrial": [
             {
                 "rank": "1",
@@ -70192,14 +70192,14 @@
             },
             {
                 "rank": "14",
-                "program": "SBS8뉴스",
-                "channel": "SBS",
+                "program": "이슈PICK쌤과함께",
+                "channel": "KBS1",
                 "rate": "3.6"
             },
             {
                 "rank": "14",
-                "program": "이슈PICK쌤과함께",
-                "channel": "KBS1",
+                "program": "SBS8뉴스",
+                "channel": "SBS",
                 "rate": "3.6"
             },
             {
