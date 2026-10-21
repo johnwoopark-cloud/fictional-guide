@@ -70848,7 +70848,7 @@
         ]
     },
     "2026-10-21": {
-        "date": "2026-10-21 10:34",
+        "date": "2026-10-21 13:40",
         "terrestrial": [
             {
                 "rank": "1",
@@ -70918,14 +70918,14 @@
             },
             {
                 "rank": "11",
-                "program": "틈만나면",
-                "channel": "SBS",
+                "program": "다큐3일<재>",
+                "channel": "KBS1",
                 "rate": "3.7"
             },
             {
                 "rank": "11",
-                "program": "다큐3일<재>",
-                "channel": "KBS1",
+                "program": "틈만나면",
+                "channel": "SBS",
                 "rate": "3.7"
             },
             {
