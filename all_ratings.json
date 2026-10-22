@@ -71217,7 +71217,7 @@
         ]
     },
     "2026-10-22": {
-        "date": "2026-10-22 10:30",
+        "date": "2026-10-22 13:38",
         "terrestrial": [
             {
                 "rank": "1",
@@ -71263,14 +71263,14 @@
             },
             {
                 "rank": "8",
-                "program": "가족관계증명서",
-                "channel": "MBC",
+                "program": "KBS뉴스930",
+                "channel": "KBS1",
                 "rate": "4.7"
             },
             {
                 "rank": "8",
-                "program": "KBS뉴스930",
-                "channel": "KBS1",
+                "program": "가족관계증명서",
+                "channel": "MBC",
                 "rate": "4.7"
             },
             {
@@ -71287,6 +71287,12 @@
             },
             {
                 "rank": "12",
+                "program": "KBS뉴스7",
+                "channel": "KBS1",
+                "rate": "3.4"
+            },
+            {
+                "rank": "12",
                 "program": "생로병사의비밀",
                 "channel": "KBS1",
                 "rate": "3.4"
@@ -71298,21 +71304,15 @@
                 "rate": "3.4"
             },
             {
-                "rank": "12",
-                "program": "KBS뉴스7",
-                "channel": "KBS1",
-                "rate": "3.4"
+                "rank": "15",
+                "program": "황금어장라디오스타",
+                "channel": "MBC",
+                "rate": "3.2"
             },
             {
                 "rank": "15",
                 "program": "2TV생생정보",
                 "channel": "KBS2",
-                "rate": "3.2"
-            },
-            {
-                "rank": "15",
-                "program": "황금어장라디오스타",
-                "channel": "MBC",
                 "rate": "3.2"
             },
             {
