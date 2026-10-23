@@ -71586,7 +71586,7 @@
         ]
     },
     "2026-10-23": {
-        "date": "2026-10-23 10:29",
+        "date": "2026-10-23 13:44",
         "terrestrial": [
             {
                 "rank": "1",
@@ -71632,14 +71632,14 @@
             },
             {
                 "rank": "8",
-                "program": "KBS뉴스광장2부",
-                "channel": "KBS1",
+                "program": "가족관계증명서",
+                "channel": "MBC",
                 "rate": "4.8"
             },
             {
                 "rank": "8",
-                "program": "가족관계증명서",
-                "channel": "MBC",
+                "program": "KBS뉴스광장2부",
+                "channel": "KBS1",
                 "rate": "4.8"
             },
             {
@@ -71692,19 +71692,19 @@
             },
             {
                 "rank": "18",
-                "program": "꼬리에꼬리를무는그날이야기",
-                "channel": "SBS",
-                "rate": "2.3"
-            },
-            {
-                "rank": "18",
                 "program": "KBS뉴스광장1부",
                 "channel": "KBS1",
                 "rate": "2.3"
             },
             {
+                "rank": "18",
+                "program": "꼬리에꼬리를무는그날이야기",
+                "channel": "SBS",
+                "rate": "2.3"
+            },
+            {
                 "rank": "20",
-                "program": "KBS뉴스5",
+                "program": "동물의왕국",
                 "channel": "KBS1",
                 "rate": "2.1"
             }
