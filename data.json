@@ -1,5 +1,5 @@
 {
-    "date": "2026-10-24 10:34",
+    "date": "2026-10-24 13:31",
     "terrestrial": [
         {
             "rank": "1",
@@ -99,14 +99,14 @@
         },
         {
             "rank": "17",
-            "program": "KBS뉴스930",
-            "channel": "KBS1",
+            "program": "2TV생생정보",
+            "channel": "KBS2",
             "rate": "2.8"
         },
         {
             "rank": "17",
-            "program": "2TV생생정보",
-            "channel": "KBS2",
+            "program": "KBS뉴스930",
+            "channel": "KBS1",
             "rate": "2.8"
         },
         {
