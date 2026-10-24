@@ -1,5 +1,5 @@
 {
-    "date": "2026-10-24 13:31",
+    "date": "2026-10-24 14:56",
     "terrestrial": [
         {
             "rank": "1",
@@ -39,14 +39,14 @@
         },
         {
             "rank": "7",
-            "program": "KBS뉴스광장2부",
-            "channel": "KBS1",
+            "program": "가족관계증명서",
+            "channel": "MBC",
             "rate": "4.7"
         },
         {
             "rank": "7",
-            "program": "가족관계증명서",
-            "channel": "MBC",
+            "program": "KBS뉴스광장2부",
+            "channel": "KBS1",
             "rate": "4.7"
         },
         {
@@ -99,14 +99,14 @@
         },
         {
             "rank": "17",
-            "program": "2TV생생정보",
-            "channel": "KBS2",
+            "program": "KBS뉴스930",
+            "channel": "KBS1",
             "rate": "2.8"
         },
         {
             "rank": "17",
-            "program": "KBS뉴스930",
-            "channel": "KBS1",
+            "program": "2TV생생정보",
+            "channel": "KBS2",
             "rate": "2.8"
         },
         {
@@ -117,8 +117,8 @@
         },
         {
             "rank": "20",
-            "program": "KBS뉴스5",
-            "channel": "KBS1",
+            "program": "알파고대국기념백수이세돌",
+            "channel": "KBS2",
             "rate": "2.3"
         }
     ],
