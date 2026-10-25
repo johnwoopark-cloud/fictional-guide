@@ -1,5 +1,5 @@
 {
-    "date": "2026-10-25 10:08",
+    "date": "2026-10-25 13:36",
     "terrestrial": [
         {
             "rank": "1",
@@ -39,14 +39,14 @@
         },
         {
             "rank": "7",
-            "program": "MBC뉴스데스크",
-            "channel": "MBC",
+            "program": "특파원보고세계는지금",
+            "channel": "KBS1",
             "rate": "4.8"
         },
         {
             "rank": "7",
-            "program": "특파원보고세계는지금",
-            "channel": "KBS1",
+            "program": "MBC뉴스데스크",
+            "channel": "MBC",
             "rate": "4.8"
         },
         {
