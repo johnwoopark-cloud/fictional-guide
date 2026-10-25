@@ -1,5 +1,5 @@
 {
-    "date": "2026-10-25 13:36",
+    "date": "2026-10-25 15:10",
     "terrestrial": [
         {
             "rank": "1",
@@ -51,14 +51,14 @@
         },
         {
             "rank": "9",
-            "program": "그것이알고싶다",
-            "channel": "SBS",
+            "program": "놀면뭐하니",
+            "channel": "MBC",
             "rate": "4.5"
         },
         {
             "rank": "9",
-            "program": "놀면뭐하니",
-            "channel": "MBC",
+            "program": "그것이알고싶다",
+            "channel": "SBS",
             "rate": "4.5"
         },
         {
@@ -87,14 +87,14 @@
         },
         {
             "rank": "15",
-            "program": "살림하는남자들",
-            "channel": "KBS2",
+            "program": "동물의왕국",
+            "channel": "KBS1",
             "rate": "3.4"
         },
         {
             "rank": "15",
-            "program": "동물의왕국",
-            "channel": "KBS1",
+            "program": "살림하는남자들",
+            "channel": "KBS2",
             "rate": "3.4"
         },
         {
@@ -111,14 +111,14 @@
         },
         {
             "rank": "19",
-            "program": "생로병사의비밀미리보기<재>",
-            "channel": "KBS1",
+            "program": "나혼자산다스페셜",
+            "channel": "MBC",
             "rate": "3"
         },
         {
             "rank": "19",
-            "program": "나혼자산다스페셜",
-            "channel": "MBC",
+            "program": "생로병사의비밀미리보기<재>",
+            "channel": "KBS1",
             "rate": "3"
         }
     ],
@@ -361,7 +361,7 @@
         },
         {
             "rank": "20",
-            "program": "뉴스오늘2부",
+            "program": "생생네트워크",
             "channel": "연합뉴스TV",
             "rate": "0.96"
         }
