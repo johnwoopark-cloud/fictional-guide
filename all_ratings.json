@@ -72693,7 +72693,7 @@
         ]
     },
     "2026-10-26": {
-        "date": "2026-10-26 10:08",
+        "date": "2026-10-26 13:41",
         "terrestrial": [
             {
                 "rank": "1",
@@ -72751,13 +72751,13 @@
             },
             {
                 "rank": "10",
-                "program": "이슈PICK쌤과함께",
+                "program": "KBS뉴스(19:00)",
                 "channel": "KBS1",
                 "rate": "4.2"
             },
             {
                 "rank": "10",
-                "program": "KBS뉴스(19:00)",
+                "program": "이슈PICK쌤과함께",
                 "channel": "KBS1",
                 "rate": "4.2"
             },
