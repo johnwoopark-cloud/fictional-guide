@@ -1,5 +1,5 @@
 {
-    "date": "2026-10-27 11:04",
+    "date": "2026-10-27 13:58",
     "terrestrial": [
         {
             "rank": "1",
@@ -51,8 +51,8 @@
         },
         {
             "rank": "9",
-            "program": "KBS뉴스광장2부",
-            "channel": "KBS1",
+            "program": "우리들의발라드2-1부",
+            "channel": "SBS",
             "rate": "4.2"
         },
         {
@@ -63,9 +63,15 @@
         },
         {
             "rank": "9",
-            "program": "우리들의발라드2-1부",
-            "channel": "SBS",
+            "program": "KBS뉴스광장2부",
+            "channel": "KBS1",
             "rate": "4.2"
+        },
+        {
+            "rank": "12",
+            "program": "MBC뉴스데스크",
+            "channel": "MBC",
+            "rate": "3.8"
         },
         {
             "rank": "12",
@@ -80,20 +86,14 @@
             "rate": "3.8"
         },
         {
-            "rank": "12",
-            "program": "MBC뉴스데스크",
-            "channel": "MBC",
-            "rate": "3.8"
-        },
-        {
             "rank": "15",
-            "program": "우리말겨루기2026년다문화청소년특집5부",
+            "program": "KBS뉴스7",
             "channel": "KBS1",
             "rate": "3.6"
         },
         {
             "rank": "15",
-            "program": "KBS뉴스7",
+            "program": "우리말겨루기2026년다문화청소년특집5부",
             "channel": "KBS1",
             "rate": "3.6"
         },
@@ -111,14 +111,14 @@
         },
         {
             "rank": "19",
-            "program": "말자쇼",
-            "channel": "KBS2",
+            "program": "동물의왕국<재>",
+            "channel": "KBS1",
             "rate": "2.5"
         },
         {
             "rank": "19",
-            "program": "동물의왕국<재>",
-            "channel": "KBS1",
+            "program": "말자쇼",
+            "channel": "KBS2",
             "rate": "2.5"
         }
     ],
