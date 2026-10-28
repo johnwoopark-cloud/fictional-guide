@@ -73431,7 +73431,7 @@
         ]
     },
     "2026-10-28": {
-        "date": "2026-10-28 11:13",
+        "date": "2026-10-28 14:35",
         "terrestrial": [
             {
                 "rank": "1",
@@ -73501,13 +73501,13 @@
             },
             {
                 "rank": "11",
-                "program": "KBS뉴스930",
+                "program": "KBS뉴스특보",
                 "channel": "KBS1",
                 "rate": "3.3"
             },
             {
                 "rank": "11",
-                "program": "KBS뉴스특보",
+                "program": "KBS뉴스930",
                 "channel": "KBS1",
                 "rate": "3.3"
             },
