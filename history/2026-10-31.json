@@ -1,5 +1,5 @@
 {
-    "date": "2026-10-31 11:21",
+    "date": "2026-10-31 14:34",
     "terrestrial": [
         {
             "rank": "1",
@@ -63,26 +63,26 @@
         },
         {
             "rank": "11",
-            "program": "궁금한이야기Y",
-            "channel": "SBS",
-            "rate": "4.1"
-        },
-        {
-            "rank": "11",
             "program": "MBC뉴스데스크",
             "channel": "MBC",
             "rate": "4.1"
         },
         {
-            "rank": "13",
-            "program": "무엇이든해줄지니비서진",
+            "rank": "11",
+            "program": "궁금한이야기Y",
             "channel": "SBS",
-            "rate": "3.8"
+            "rate": "4.1"
         },
         {
             "rank": "13",
             "program": "KBS뉴스930",
             "channel": "KBS1",
+            "rate": "3.8"
+        },
+        {
+            "rank": "13",
+            "program": "무엇이든해줄지니비서진",
+            "channel": "SBS",
             "rate": "3.8"
         },
         {
@@ -93,14 +93,14 @@
         },
         {
             "rank": "16",
-            "program": "SINCE1983추적60분",
-            "channel": "KBS1",
+            "program": "SBS8뉴스",
+            "channel": "SBS",
             "rate": "2.8"
         },
         {
             "rank": "16",
-            "program": "SBS8뉴스",
-            "channel": "SBS",
+            "program": "SINCE1983추적60분",
+            "channel": "KBS1",
             "rate": "2.8"
         },
         {
@@ -111,14 +111,14 @@
         },
         {
             "rank": "19",
-            "program": "2TV생생정보",
-            "channel": "KBS2",
+            "program": "KBS뉴스광장1부",
+            "channel": "KBS1",
             "rate": "2.6"
         },
         {
             "rank": "19",
-            "program": "KBS뉴스광장1부",
-            "channel": "KBS1",
+            "program": "2TV생생정보",
+            "channel": "KBS2",
             "rate": "2.6"
         }
     ],
