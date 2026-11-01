@@ -74907,7 +74907,7 @@
         ]
     },
     "2026-11-01": {
-        "date": "2026-11-01 14:57",
+        "date": "2026-11-01 16:35",
         "terrestrial": [
             {
                 "rank": "1",
@@ -74929,14 +74929,14 @@
             },
             {
                 "rank": "4",
-                "program": "KBS9시뉴스",
-                "channel": "KBS1",
+                "program": "불후의명곡",
+                "channel": "KBS2",
                 "rate": "4.7"
             },
             {
                 "rank": "4",
-                "program": "불후의명곡",
-                "channel": "KBS2",
+                "program": "KBS9시뉴스",
+                "channel": "KBS1",
                 "rate": "4.7"
             },
             {
@@ -74959,13 +74959,13 @@
             },
             {
                 "rank": "9",
-                "program": "특집다큐(따뜻한어른최불암당신이길이었습니다)<재>",
+                "program": "특파원보고세계는지금",
                 "channel": "KBS1",
                 "rate": "4.1"
             },
             {
                 "rank": "9",
-                "program": "특파원보고세계는지금",
+                "program": "특집다큐(따뜻한어른최불암당신이길이었습니다)<재>",
                 "channel": "KBS1",
                 "rate": "4.1"
             },
@@ -74977,6 +74977,12 @@
             },
             {
                 "rank": "12",
+                "program": "생활의발견스페셜<재>",
+                "channel": "KBS1",
+                "rate": "3.6"
+            },
+            {
+                "rank": "12",
                 "program": "KBS뉴스(09:30)",
                 "channel": "KBS1",
                 "rate": "3.6"
@@ -74984,12 +74990,6 @@
             {
                 "rank": "12",
                 "program": "KBS뉴스광장2부",
-                "channel": "KBS1",
-                "rate": "3.6"
-            },
-            {
-                "rank": "12",
-                "program": "생활의발견스페셜<재>",
                 "channel": "KBS1",
                 "rate": "3.6"
             },
@@ -75257,14 +75257,14 @@
             },
             {
                 "rank": "18",
-                "program": "뉴스와이드(15:50)",
-                "channel": "YTN",
+                "program": "지구마불세계여행4",
+                "channel": "ENA",
                 "rate": "0.86"
             },
             {
                 "rank": "18",
-                "program": "지구마불세계여행4",
-                "channel": "ENA",
+                "program": "뉴스와이드(15:50)",
+                "channel": "YTN",
                 "rate": "0.86"
             },
             {
