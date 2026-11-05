@@ -76383,7 +76383,7 @@
         ]
     },
     "2026-11-05": {
-        "date": "2026-11-05 15:39",
+        "date": "2026-11-05 16:55",
         "terrestrial": [
             {
                 "rank": "1",
@@ -76435,26 +76435,26 @@
             },
             {
                 "rank": "9",
-                "program": "MBC뉴스데스크",
-                "channel": "MBC",
-                "rate": "4.1"
-            },
-            {
-                "rank": "9",
-                "program": "SBS8뉴스",
-                "channel": "SBS",
-                "rate": "4.1"
-            },
-            {
-                "rank": "9",
                 "program": "KBS뉴스930",
                 "channel": "KBS1",
                 "rate": "4.1"
             },
             {
                 "rank": "9",
+                "program": "MBC뉴스데스크",
+                "channel": "MBC",
+                "rate": "4.1"
+            },
+            {
+                "rank": "9",
                 "program": "2TV생생정보",
                 "channel": "KBS2",
+                "rate": "4.1"
+            },
+            {
+                "rank": "9",
+                "program": "SBS8뉴스",
+                "channel": "SBS",
                 "rate": "4.1"
             },
             {
@@ -76483,14 +76483,14 @@
             },
             {
                 "rank": "17",
-                "program": "생로병사의비밀",
-                "channel": "KBS1",
+                "program": "슈퍼맨이돌아왔다",
+                "channel": "KBS2",
                 "rate": "2.7"
             },
             {
                 "rank": "17",
-                "program": "슈퍼맨이돌아왔다",
-                "channel": "KBS2",
+                "program": "생로병사의비밀",
+                "channel": "KBS1",
                 "rate": "2.7"
             },
             {
