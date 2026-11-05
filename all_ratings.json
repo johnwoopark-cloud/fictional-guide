@@ -76383,7 +76383,7 @@
         ]
     },
     "2026-11-05": {
-        "date": "2026-11-05 12:28",
+        "date": "2026-11-05 15:39",
         "terrestrial": [
             {
                 "rank": "1",
@@ -76435,14 +76435,14 @@
             },
             {
                 "rank": "9",
-                "program": "2TV생생정보",
-                "channel": "KBS2",
+                "program": "MBC뉴스데스크",
+                "channel": "MBC",
                 "rate": "4.1"
             },
             {
                 "rank": "9",
-                "program": "MBC뉴스데스크",
-                "channel": "MBC",
+                "program": "SBS8뉴스",
+                "channel": "SBS",
                 "rate": "4.1"
             },
             {
@@ -76453,8 +76453,8 @@
             },
             {
                 "rank": "9",
-                "program": "SBS8뉴스",
-                "channel": "SBS",
+                "program": "2TV생생정보",
+                "channel": "KBS2",
                 "rate": "4.1"
             },
             {
