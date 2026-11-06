@@ -1,5 +1,5 @@
 {
-    "date": "2026-11-06 12:25",
+    "date": "2026-11-06 15:35",
     "terrestrial": [
         {
             "rank": "1",
@@ -81,14 +81,14 @@
         },
         {
             "rank": "14",
-            "program": "2TV생생정보",
-            "channel": "KBS2",
+            "program": "동물의왕국",
+            "channel": "KBS1",
             "rate": "3.4"
         },
         {
             "rank": "14",
-            "program": "동물의왕국",
-            "channel": "KBS1",
+            "program": "2TV생생정보",
+            "channel": "KBS2",
             "rate": "3.4"
         },
         {
