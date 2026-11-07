@@ -77121,7 +77121,7 @@
         ]
     },
     "2026-11-07": {
-        "date": "2026-11-07 11:46",
+        "date": "2026-11-07 14:53",
         "terrestrial": [
             {
                 "rank": "1",
@@ -77197,14 +77197,14 @@
             },
             {
                 "rank": "13",
-                "program": "MBC뉴스데스크",
-                "channel": "MBC",
+                "program": "KBS뉴스7",
+                "channel": "KBS1",
                 "rate": "4.1"
             },
             {
                 "rank": "13",
-                "program": "KBS뉴스7",
-                "channel": "KBS1",
+                "program": "MBC뉴스데스크",
+                "channel": "MBC",
                 "rate": "4.1"
             },
             {
@@ -77221,13 +77221,13 @@
             },
             {
                 "rank": "17",
-                "program": "SINCE1983추적60분",
+                "program": "동물의왕국",
                 "channel": "KBS1",
                 "rate": "3"
             },
             {
                 "rank": "17",
-                "program": "동물의왕국",
+                "program": "SINCE1983추적60분",
                 "channel": "KBS1",
                 "rate": "3"
             },
@@ -77477,13 +77477,13 @@
             },
             {
                 "rank": "19",
-                "program": "뉴스투나잇",
+                "program": "뉴스현장",
                 "channel": "연합뉴스TV",
                 "rate": "0.75"
             },
             {
                 "rank": "19",
-                "program": "뉴스현장",
+                "program": "뉴스투나잇",
                 "channel": "연합뉴스TV",
                 "rate": "0.75"
             }
