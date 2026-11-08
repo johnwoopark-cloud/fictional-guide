@@ -1,5 +1,5 @@
 {
-    "date": "2026-11-08 14:55",
+    "date": "2026-11-08 16:24",
     "terrestrial": [
         {
             "rank": "1",
@@ -33,14 +33,14 @@
         },
         {
             "rank": "6",
-            "program": "불후의명곡",
-            "channel": "KBS2",
+            "program": "KBS9시뉴스",
+            "channel": "KBS1",
             "rate": "5"
         },
         {
             "rank": "6",
-            "program": "KBS9시뉴스",
-            "channel": "KBS1",
+            "program": "불후의명곡",
+            "channel": "KBS2",
             "rate": "5"
         },
         {
