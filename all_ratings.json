@@ -77859,7 +77859,7 @@
         ]
     },
     "2026-11-09": {
-        "date": "2026-11-09 11:39",
+        "date": "2026-11-09 15:18",
         "terrestrial": [
             {
                 "rank": "1",
@@ -77935,21 +77935,15 @@
             },
             {
                 "rank": "13",
-                "program": "전지적집착시점",
-                "channel": "MBC",
-                "rate": "3.4"
-            },
-            {
-                "rank": "13",
                 "program": "특파원보고세계는지금<재>",
                 "channel": "KBS1",
                 "rate": "3.4"
             },
             {
-                "rank": "15",
-                "program": "살림하는남자들<재>",
-                "channel": "KBS2",
-                "rate": "3.2"
+                "rank": "13",
+                "program": "전지적집착시점",
+                "channel": "MBC",
+                "rate": "3.4"
             },
             {
                 "rank": "15",
@@ -77959,13 +77953,19 @@
             },
             {
                 "rank": "15",
-                "program": "이슈PICK쌤과함께",
+                "program": "열린음악회",
                 "channel": "KBS1",
                 "rate": "3.2"
             },
             {
                 "rank": "15",
-                "program": "열린음악회",
+                "program": "살림하는남자들<재>",
+                "channel": "KBS2",
+                "rate": "3.2"
+            },
+            {
+                "rank": "15",
+                "program": "이슈PICK쌤과함께",
                 "channel": "KBS1",
                 "rate": "3.2"
             },
