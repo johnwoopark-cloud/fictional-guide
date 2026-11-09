@@ -77859,7 +77859,7 @@
         ]
     },
     "2026-11-09": {
-        "date": "2026-11-09 15:18",
+        "date": "2026-11-09 16:59",
         "terrestrial": [
             {
                 "rank": "1",
@@ -77899,14 +77899,14 @@
             },
             {
                 "rank": "7",
-                "program": "TV동물농장",
-                "channel": "SBS",
+                "program": "MBC뉴스데스크",
+                "channel": "MBC",
                 "rate": "4.7"
             },
             {
                 "rank": "7",
-                "program": "MBC뉴스데스크",
-                "channel": "MBC",
+                "program": "TV동물농장",
+                "channel": "SBS",
                 "rate": "4.7"
             },
             {
@@ -77947,6 +77947,12 @@
             },
             {
                 "rank": "15",
+                "program": "살림하는남자들<재>",
+                "channel": "KBS2",
+                "rate": "3.2"
+            },
+            {
+                "rank": "15",
                 "program": "SBS8뉴스",
                 "channel": "SBS",
                 "rate": "3.2"
@@ -77955,12 +77961,6 @@
                 "rank": "15",
                 "program": "열린음악회",
                 "channel": "KBS1",
-                "rate": "3.2"
-            },
-            {
-                "rank": "15",
-                "program": "살림하는남자들<재>",
-                "channel": "KBS2",
                 "rate": "3.2"
             },
             {
@@ -77977,8 +77977,8 @@
             },
             {
                 "rank": "20",
-                "program": "출발비디오여행",
-                "channel": "MBC",
+                "program": "TV쇼진품명품",
+                "channel": "KBS1",
                 "rate": "2.8"
             }
         ],
