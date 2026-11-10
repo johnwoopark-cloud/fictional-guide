@@ -1,5 +1,5 @@
 {
-    "date": "2026-11-10 16:11",
+    "date": "2026-11-10 17:26",
     "terrestrial": [
         {
             "rank": "1",
@@ -39,14 +39,14 @@
         },
         {
             "rank": "7",
-            "program": "아침마당",
-            "channel": "KBS1",
+            "program": "우리들의발라드2-2부",
+            "channel": "SBS",
             "rate": "5.3"
         },
         {
             "rank": "7",
-            "program": "우리들의발라드2-2부",
-            "channel": "SBS",
+            "program": "아침마당",
+            "channel": "KBS1",
             "rate": "5.3"
         },
         {
@@ -343,14 +343,14 @@
         },
         {
             "rank": "17",
-            "program": "뉴스센터",
-            "channel": "연합뉴스TV",
+            "program": "뉴스NOW",
+            "channel": "YTN",
             "rate": "0.82"
         },
         {
             "rank": "17",
-            "program": "뉴스NOW",
-            "channel": "YTN",
+            "program": "뉴스센터",
+            "channel": "연합뉴스TV",
             "rate": "0.82"
         },
         {
