@@ -78228,7 +78228,7 @@
         ]
     },
     "2026-11-10": {
-        "date": "2026-11-10 13:36",
+        "date": "2026-11-10 16:11",
         "terrestrial": [
             {
                 "rank": "1",
@@ -78268,14 +78268,14 @@
             },
             {
                 "rank": "7",
-                "program": "우리들의발라드2-2부",
-                "channel": "SBS",
+                "program": "아침마당",
+                "channel": "KBS1",
                 "rate": "5.3"
             },
             {
                 "rank": "7",
-                "program": "아침마당",
-                "channel": "KBS1",
+                "program": "우리들의발라드2-2부",
+                "channel": "SBS",
                 "rate": "5.3"
             },
             {
@@ -78518,14 +78518,14 @@
             },
             {
                 "rank": "8",
-                "program": "출발600",
-                "channel": "연합뉴스TV",
+                "program": "TVN특별기획100일의거짓말",
+                "channel": "tvN",
                 "rate": "1.1"
             },
             {
                 "rank": "8",
-                "program": "TVN특별기획100일의거짓말",
-                "channel": "tvN",
+                "program": "출발600",
+                "channel": "연합뉴스TV",
                 "rate": "1.1"
             },
             {
@@ -78572,14 +78572,14 @@
             },
             {
                 "rank": "17",
-                "program": "뉴스NOW",
-                "channel": "YTN",
+                "program": "뉴스센터",
+                "channel": "연합뉴스TV",
                 "rate": "0.82"
             },
             {
                 "rank": "17",
-                "program": "뉴스센터",
-                "channel": "연합뉴스TV",
+                "program": "뉴스NOW",
+                "channel": "YTN",
                 "rate": "0.82"
             },
             {
