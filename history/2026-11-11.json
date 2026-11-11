@@ -1,5 +1,5 @@
 {
-    "date": "2026-11-11 15:07",
+    "date": "2026-11-11 16:45",
     "terrestrial": [
         {
             "rank": "1",
@@ -63,14 +63,14 @@
         },
         {
             "rank": "11",
-            "program": "2TV생생정보",
-            "channel": "KBS2",
+            "program": "KBS뉴스7",
+            "channel": "KBS1",
             "rate": "3.4"
         },
         {
             "rank": "11",
-            "program": "KBS뉴스7",
-            "channel": "KBS1",
+            "program": "2TV생생정보",
+            "channel": "KBS2",
             "rate": "3.4"
         },
         {
@@ -93,13 +93,13 @@
         },
         {
             "rank": "16",
-            "program": "시사기획창",
+            "program": "KBS뉴스5",
             "channel": "KBS1",
             "rate": "2.7"
         },
         {
             "rank": "16",
-            "program": "KBS뉴스5",
+            "program": "시사기획창",
             "channel": "KBS1",
             "rate": "2.7"
         },
@@ -319,13 +319,13 @@
         },
         {
             "rank": "13",
-            "program": "뉴스포커스",
+            "program": "라이브투데이2부",
             "channel": "연합뉴스TV",
             "rate": "0.86"
         },
         {
             "rank": "13",
-            "program": "라이브투데이2부",
+            "program": "뉴스포커스",
             "channel": "연합뉴스TV",
             "rate": "0.86"
         },
