@@ -78966,7 +78966,7 @@
         ]
     },
     "2026-11-12": {
-        "date": "2026-11-12 16:05",
+        "date": "2026-11-12 17:22",
         "terrestrial": [
             {
                 "rank": "1",
@@ -79036,20 +79036,20 @@
             },
             {
                 "rank": "12",
-                "program": "생로병사의비밀",
-                "channel": "KBS1",
-                "rate": "3.3"
-            },
-            {
-                "rank": "12",
                 "program": "GIFACUP골때리는그녀들",
                 "channel": "SBS",
                 "rate": "3.3"
             },
             {
-                "rank": "14",
-                "program": "동물의왕국",
+                "rank": "12",
+                "program": "생로병사의비밀",
                 "channel": "KBS1",
+                "rate": "3.3"
+            },
+            {
+                "rank": "14",
+                "program": "SBS8뉴스",
+                "channel": "SBS",
                 "rate": "3.1"
             },
             {
@@ -79060,8 +79060,8 @@
             },
             {
                 "rank": "14",
-                "program": "SBS8뉴스",
-                "channel": "SBS",
+                "program": "동물의왕국",
+                "channel": "KBS1",
                 "rate": "3.1"
             },
             {
