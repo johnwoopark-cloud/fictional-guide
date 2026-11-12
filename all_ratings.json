@@ -78966,7 +78966,7 @@
         ]
     },
     "2026-11-12": {
-        "date": "2026-11-12 12:47",
+        "date": "2026-11-12 16:05",
         "terrestrial": [
             {
                 "rank": "1",
@@ -78982,25 +78982,25 @@
             },
             {
                 "rank": "3",
-                "program": "KBS9시뉴스",
-                "channel": "KBS1",
-                "rate": "7"
-            },
-            {
-                "rank": "3",
                 "program": "인간극장",
                 "channel": "KBS1",
                 "rate": "7"
             },
             {
+                "rank": "3",
+                "program": "KBS9시뉴스",
+                "channel": "KBS1",
+                "rate": "7"
+            },
+            {
                 "rank": "5",
-                "program": "6시내고향",
+                "program": "아침마당",
                 "channel": "KBS1",
                 "rate": "5.9"
             },
             {
                 "rank": "5",
-                "program": "아침마당",
+                "program": "6시내고향",
                 "channel": "KBS1",
                 "rate": "5.9"
             },
@@ -79036,14 +79036,14 @@
             },
             {
                 "rank": "12",
-                "program": "GIFACUP골때리는그녀들",
-                "channel": "SBS",
+                "program": "생로병사의비밀",
+                "channel": "KBS1",
                 "rate": "3.3"
             },
             {
                 "rank": "12",
-                "program": "생로병사의비밀",
-                "channel": "KBS1",
+                "program": "GIFACUP골때리는그녀들",
+                "channel": "SBS",
                 "rate": "3.3"
             },
             {
@@ -79238,14 +79238,14 @@
             },
             {
                 "rank": "5",
-                "program": "뉴스PLUS",
-                "channel": "YTN",
+                "program": "TVN월화드라마(나의유죄인간)",
+                "channel": "tvN",
                 "rate": "1.23"
             },
             {
                 "rank": "5",
-                "program": "TVN월화드라마(나의유죄인간)",
-                "channel": "tvN",
+                "program": "뉴스PLUS",
+                "channel": "YTN",
                 "rate": "1.23"
             },
             {
