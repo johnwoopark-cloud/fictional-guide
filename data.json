@@ -1,5 +1,5 @@
 {
-    "date": "2026-11-13 12:24",
+    "date": "2026-11-13 15:37",
     "terrestrial": [
         {
             "rank": "1",
@@ -39,14 +39,14 @@
         },
         {
             "rank": "7",
-            "program": "MBC뉴스데스크",
-            "channel": "MBC",
+            "program": "아침마당",
+            "channel": "KBS1",
             "rate": "5.1"
         },
         {
             "rank": "7",
-            "program": "아침마당",
-            "channel": "KBS1",
+            "program": "MBC뉴스데스크",
+            "channel": "MBC",
             "rate": "5.1"
         },
         {
@@ -117,8 +117,8 @@
         },
         {
             "rank": "20",
-            "program": "연금복권720플러스",
-            "channel": "MBC",
+            "program": "KBS뉴스5",
+            "channel": "KBS1",
             "rate": "2.4"
         }
     ],
