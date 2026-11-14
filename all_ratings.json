@@ -79704,7 +79704,7 @@
         ]
     },
     "2026-11-14": {
-        "date": "2026-11-14 12:13",
+        "date": "2026-11-14 15:13",
         "terrestrial": [
             {
                 "rank": "1",
@@ -79726,13 +79726,13 @@
             },
             {
                 "rank": "4",
-                "program": "KBS9시뉴스",
+                "program": "인간극장",
                 "channel": "KBS1",
                 "rate": "6.6"
             },
             {
                 "rank": "4",
-                "program": "인간극장",
+                "program": "KBS9시뉴스",
                 "channel": "KBS1",
                 "rate": "6.6"
             },
@@ -79756,14 +79756,14 @@
             },
             {
                 "rank": "9",
-                "program": "SBS스포츠축구(국가대표팀친선경기한국:사우디아라비아)",
-                "channel": "SBS",
+                "program": "KBS뉴스광장2부",
+                "channel": "KBS1",
                 "rate": "4.6"
             },
             {
                 "rank": "9",
-                "program": "KBS뉴스광장2부",
-                "channel": "KBS1",
+                "program": "SBS스포츠축구(국가대표팀친선경기한국:사우디아라비아)",
+                "channel": "SBS",
                 "rate": "4.6"
             },
             {
@@ -79810,6 +79810,12 @@
             },
             {
                 "rank": "18",
+                "program": "SBS8뉴스",
+                "channel": "SBS",
+                "rate": "2.9"
+            },
+            {
+                "rank": "18",
                 "program": "전국민민원해결프로젝트일꾼의탄생5번의기적",
                 "channel": "KBS1",
                 "rate": "2.9"
@@ -79818,12 +79824,6 @@
                 "rank": "18",
                 "program": "동물의왕국<재>",
                 "channel": "KBS1",
-                "rate": "2.9"
-            },
-            {
-                "rank": "18",
-                "program": "SBS8뉴스",
-                "channel": "SBS",
                 "rate": "2.9"
             }
         ],
