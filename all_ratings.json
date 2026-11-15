@@ -80073,7 +80073,7 @@
         ]
     },
     "2026-11-15": {
-        "date": "2026-11-15 15:21",
+        "date": "2026-11-15 16:53",
         "terrestrial": [
             {
                 "rank": "1",
@@ -80125,21 +80125,15 @@
             },
             {
                 "rank": "9",
-                "program": "나혼자산다스페셜",
-                "channel": "MBC",
-                "rate": "4.2"
-            },
-            {
-                "rank": "9",
                 "program": "닥터X하얀마피아의시대<재>",
                 "channel": "SBS",
                 "rate": "4.2"
             },
             {
-                "rank": "11",
-                "program": "가요무대<재>",
-                "channel": "KBS1",
-                "rate": "4"
+                "rank": "9",
+                "program": "나혼자산다스페셜",
+                "channel": "MBC",
+                "rate": "4.2"
             },
             {
                 "rank": "11",
@@ -80148,10 +80142,10 @@
                 "rate": "4"
             },
             {
-                "rank": "13",
-                "program": "KBS뉴스(19:00)",
+                "rank": "11",
+                "program": "가요무대<재>",
                 "channel": "KBS1",
-                "rate": "3.7"
+                "rate": "4"
             },
             {
                 "rank": "13",
@@ -80160,14 +80154,20 @@
                 "rate": "3.7"
             },
             {
+                "rank": "13",
+                "program": "KBS뉴스(19:00)",
+                "channel": "KBS1",
+                "rate": "3.7"
+            },
+            {
                 "rank": "15",
-                "program": "특파원보고세계는지금",
+                "program": "KBS뉴스광장2부",
                 "channel": "KBS1",
                 "rate": "3.6"
             },
             {
                 "rank": "15",
-                "program": "KBS뉴스광장2부",
+                "program": "특파원보고세계는지금",
                 "channel": "KBS1",
                 "rate": "3.6"
             },
@@ -80191,7 +80191,7 @@
             },
             {
                 "rank": "20",
-                "program": "동물의왕국",
+                "program": "동행",
                 "channel": "KBS1",
                 "rate": "2.9"
             }
