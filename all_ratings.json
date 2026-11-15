@@ -80073,7 +80073,7 @@
         ]
     },
     "2026-11-15": {
-        "date": "2026-11-15 11:38",
+        "date": "2026-11-15 15:21",
         "terrestrial": [
             {
                 "rank": "1",
@@ -80149,14 +80149,14 @@
             },
             {
                 "rank": "13",
-                "program": "살림하는남자들",
-                "channel": "KBS2",
+                "program": "KBS뉴스(19:00)",
+                "channel": "KBS1",
                 "rate": "3.7"
             },
             {
                 "rank": "13",
-                "program": "KBS뉴스(19:00)",
-                "channel": "KBS1",
+                "program": "살림하는남자들",
+                "channel": "KBS2",
                 "rate": "3.7"
             },
             {
