@@ -1,5 +1,5 @@
 {
-    "date": "2026-11-16 15:20",
+    "date": "2026-11-16 17:01",
     "terrestrial": [
         {
             "rank": "1",
@@ -33,14 +33,14 @@
         },
         {
             "rank": "6",
-            "program": "KBS9시뉴스",
-            "channel": "KBS1",
+            "program": "TV동물농장",
+            "channel": "SBS",
             "rate": "4.8"
         },
         {
             "rank": "6",
-            "program": "TV동물농장",
-            "channel": "SBS",
+            "program": "KBS9시뉴스",
+            "channel": "KBS1",
             "rate": "4.8"
         },
         {
@@ -63,21 +63,15 @@
         },
         {
             "rank": "11",
-            "program": "열린음악회",
-            "channel": "KBS1",
-            "rate": "3.5"
-        },
-        {
-            "rank": "11",
             "program": "KBS뉴스(19:00)",
             "channel": "KBS1",
             "rate": "3.5"
         },
         {
-            "rank": "13",
-            "program": "사장님귀는당나귀귀",
-            "channel": "KBS2",
-            "rate": "3.4"
+            "rank": "11",
+            "program": "열린음악회",
+            "channel": "KBS1",
+            "rate": "3.5"
         },
         {
             "rank": "13",
@@ -86,15 +80,21 @@
             "rate": "3.4"
         },
         {
-            "rank": "15",
-            "program": "이슈PICK쌤과함께",
-            "channel": "KBS1",
-            "rate": "3.3"
+            "rank": "13",
+            "program": "사장님귀는당나귀귀",
+            "channel": "KBS2",
+            "rate": "3.4"
         },
         {
             "rank": "15",
             "program": "살림하는남자들<재>",
             "channel": "KBS2",
+            "rate": "3.3"
+        },
+        {
+            "rank": "15",
+            "program": "이슈PICK쌤과함께",
+            "channel": "KBS1",
             "rate": "3.3"
         },
         {
@@ -105,14 +105,14 @@
         },
         {
             "rank": "18",
-            "program": "특파원보고세계는지금<재>",
-            "channel": "KBS1",
+            "program": "전지적집착시점",
+            "channel": "MBC",
             "rate": "3"
         },
         {
             "rank": "18",
-            "program": "전지적집착시점",
-            "channel": "MBC",
+            "program": "특파원보고세계는지금<재>",
+            "channel": "KBS1",
             "rate": "3"
         },
         {
