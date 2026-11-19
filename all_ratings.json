@@ -81549,7 +81549,7 @@
         ]
     },
     "2026-11-19": {
-        "date": "2026-11-19 13:11",
+        "date": "2026-11-19 16:18",
         "terrestrial": [
             {
                 "rank": "1",
@@ -81607,14 +81607,14 @@
             },
             {
                 "rank": "10",
-                "program": "GIFACUP골때리는그녀들",
-                "channel": "SBS",
+                "program": "KBS뉴스7",
+                "channel": "KBS1",
                 "rate": "4.1"
             },
             {
                 "rank": "10",
-                "program": "KBS뉴스7",
-                "channel": "KBS1",
+                "program": "GIFACUP골때리는그녀들",
+                "channel": "SBS",
                 "rate": "4.1"
             },
             {
@@ -81637,14 +81637,14 @@
             },
             {
                 "rank": "15",
-                "program": "동물의왕국",
-                "channel": "KBS1",
+                "program": "SBS8뉴스",
+                "channel": "SBS",
                 "rate": "3.3"
             },
             {
                 "rank": "15",
-                "program": "SBS8뉴스",
-                "channel": "SBS",
+                "program": "동물의왕국",
+                "channel": "KBS1",
                 "rate": "3.3"
             },
             {
