@@ -81918,7 +81918,7 @@
         ]
     },
     "2026-11-20": {
-        "date": "2026-11-20 16:07",
+        "date": "2026-11-20 17:35",
         "terrestrial": [
             {
                 "rank": "1",
@@ -81994,14 +81994,14 @@
             },
             {
                 "rank": "13",
-                "program": "2TV생생정보",
-                "channel": "KBS2",
+                "program": "실화탐사대",
+                "channel": "MBC",
                 "rate": "3.4"
             },
             {
                 "rank": "13",
-                "program": "실화탐사대",
-                "channel": "MBC",
+                "program": "2TV생생정보",
+                "channel": "KBS2",
                 "rate": "3.4"
             },
             {
@@ -82036,7 +82036,7 @@
             },
             {
                 "rank": "20",
-                "program": "무엇이든물어보세요",
+                "program": "KBS뉴스광장1부",
                 "channel": "KBS1",
                 "rate": "2.3"
             }
@@ -82232,13 +82232,13 @@
             },
             {
                 "rank": "12",
-                "program": "뉴스리뷰",
+                "program": "뉴스프라임",
                 "channel": "연합뉴스TV",
                 "rate": "1.14"
             },
             {
                 "rank": "12",
-                "program": "뉴스프라임",
+                "program": "뉴스리뷰",
                 "channel": "연합뉴스TV",
                 "rate": "1.14"
             },
