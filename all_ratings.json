@@ -82287,7 +82287,7 @@
         ]
     },
     "2026-11-21": {
-        "date": "2026-11-21 12:57",
+        "date": "2026-11-21 15:59",
         "terrestrial": [
             {
                 "rank": "1",
@@ -82321,14 +82321,14 @@
             },
             {
                 "rank": "6",
-                "program": "6시내고향",
-                "channel": "KBS1",
+                "program": "라이어",
+                "channel": "MBC",
                 "rate": "5.2"
             },
             {
                 "rank": "6",
-                "program": "라이어",
-                "channel": "MBC",
+                "program": "6시내고향",
+                "channel": "KBS1",
                 "rate": "5.2"
             },
             {
@@ -82339,14 +82339,14 @@
             },
             {
                 "rank": "9",
-                "program": "가족관계증명서",
-                "channel": "MBC",
+                "program": "아침마당",
+                "channel": "KBS1",
                 "rate": "4.8"
             },
             {
                 "rank": "9",
-                "program": "아침마당",
-                "channel": "KBS1",
+                "program": "가족관계증명서",
+                "channel": "MBC",
                 "rate": "4.8"
             },
             {
@@ -82393,13 +82393,13 @@
             },
             {
                 "rank": "18",
-                "program": "SBS8뉴스",
+                "program": "무엇이든해줄지니비서진",
                 "channel": "SBS",
                 "rate": "2.8"
             },
             {
                 "rank": "18",
-                "program": "무엇이든해줄지니비서진",
+                "program": "SBS8뉴스",
                 "channel": "SBS",
                 "rate": "2.8"
             },
