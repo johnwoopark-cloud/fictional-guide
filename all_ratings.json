@@ -82656,7 +82656,7 @@
         ]
     },
     "2026-11-22": {
-        "date": "2026-11-22 15:40",
+        "date": "2026-11-22 17:01",
         "terrestrial": [
             {
                 "rank": "1",
@@ -82708,14 +82708,14 @@
             },
             {
                 "rank": "9",
-                "program": "걸어서세계속으로",
-                "channel": "KBS1",
+                "program": "문무",
+                "channel": "KBS2",
                 "rate": "4"
             },
             {
                 "rank": "9",
-                "program": "문무",
-                "channel": "KBS2",
+                "program": "걸어서세계속으로",
+                "channel": "KBS1",
                 "rate": "4"
             },
             {
@@ -82762,14 +82762,14 @@
             },
             {
                 "rank": "18",
-                "program": "KBS생명대기획죽음의비즈니스<재>",
-                "channel": "KBS1",
+                "program": "살림하는남자들",
+                "channel": "KBS2",
                 "rate": "3.1"
             },
             {
                 "rank": "18",
-                "program": "살림하는남자들",
-                "channel": "KBS2",
+                "program": "KBS생명대기획죽음의비즈니스<재>",
+                "channel": "KBS1",
                 "rate": "3.1"
             },
             {
