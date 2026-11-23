@@ -83025,7 +83025,7 @@
         ]
     },
     "2026-11-23": {
-        "date": "2026-11-23 16:29",
+        "date": "2026-11-23 18:08",
         "terrestrial": [
             {
                 "rank": "1",
@@ -83119,13 +83119,13 @@
             },
             {
                 "rank": "16",
-                "program": "SBS8뉴스",
+                "program": "런닝맨",
                 "channel": "SBS",
                 "rate": "3.5"
             },
             {
                 "rank": "16",
-                "program": "런닝맨",
+                "program": "SBS8뉴스",
                 "channel": "SBS",
                 "rate": "3.5"
             },
@@ -83143,8 +83143,8 @@
             },
             {
                 "rank": "20",
-                "program": "전지적집착시점",
-                "channel": "MBC",
+                "program": "살림하는남자들<재>",
+                "channel": "KBS2",
                 "rate": "2.8"
             }
         ],
