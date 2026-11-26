@@ -1,5 +1,5 @@
 {
-    "date": "2026-11-26 14:01",
+    "date": "2026-11-26 17:09",
     "terrestrial": [
         {
             "rank": "1",
@@ -111,14 +111,14 @@
         },
         {
             "rank": "19",
-            "program": "청룡영화상1부",
-            "channel": "KBS2",
+            "program": "황신혜의같이삽시다",
+            "channel": "KBS1",
             "rate": "2.8"
         },
         {
             "rank": "19",
-            "program": "황신혜의같이삽시다",
-            "channel": "KBS1",
+            "program": "청룡영화상1부",
+            "channel": "KBS2",
             "rate": "2.8"
         }
     ],
