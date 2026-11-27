@@ -1,5 +1,5 @@
 {
-    "date": "2026-11-27 14:01",
+    "date": "2026-11-27 17:20",
     "terrestrial": [
         {
             "rank": "1",
@@ -87,14 +87,14 @@
         },
         {
             "rank": "15",
-            "program": "SBS8뉴스",
-            "channel": "SBS",
+            "program": "신상출시편스토랑",
+            "channel": "KBS2",
             "rate": "3.2"
         },
         {
             "rank": "15",
-            "program": "신상출시편스토랑",
-            "channel": "KBS2",
+            "program": "SBS8뉴스",
+            "channel": "SBS",
             "rate": "3.2"
         },
         {
@@ -117,7 +117,7 @@
         },
         {
             "rank": "20",
-            "program": "동물의왕국",
+            "program": "KBS뉴스광장1부",
             "channel": "KBS1",
             "rate": "2.6"
         }
@@ -161,14 +161,14 @@
         },
         {
             "rank": "7",
-            "program": "뉴스A",
-            "channel": "채널A",
+            "program": "사건반장",
+            "channel": "JTBC",
             "rate": "1.81"
         },
         {
             "rank": "7",
-            "program": "사건반장",
-            "channel": "JTBC",
+            "program": "뉴스A",
+            "channel": "채널A",
             "rate": "1.81"
         },
         {
